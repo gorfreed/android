@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="%d days ago">%d дн. тому</string>
+  <string name="%d hours ago">%d год. тому</string>
+  <string name="%d minutes ago">%d хв. тому</string>
+  <string name="%d months ago">%d міс. тому</string>
+  <string name="%d seconds ago">%d сек. тому</string>
+  <string name="%d weeks ago">%d тижні тому</string>
+  <string name="%d years ago">%d роки тому</string>
+  <!-- Chat -->
+  <string name="%ld hour(s)">%d год</string>
+  <!-- Chat -->
+  <string name="%ld hour(s) and %ld minute(s)">%1$d год. і %2$d хв.</string>
+  <!-- Chat -->
+  <string name="%ld minute(s)">%d хв.</string>
+  <!-- Onboarding -->
+  <string name="0do-nN-2js.text">Можна встановити лише один такий додаток</string>
+  <!-- Class = "UIButton"; normalTitle = "Continue"; ObjectID = "0Ga-eo-7Wk"; -->
+  <string name="0Ga-eo-7Wk.normalTitle">Продовжити</string>
+  <string name="1 day ago">1 день тому</string>
+  <string name="1 hour ago">1 год. тому</string>
+  <string name="1 minute ago">1 хв. тому</string>
+  <string name="1 month ago">1 міс. тому</string>
+  <string name="1 second ago">1 сек. тому</string>
+  <string name="1 week ago">1 тиждень тому</string>
+  <string name="1 year ago">1 рік тому</string>
+  <!-- Settings > Profile -->
+  <string name="1YL-bj-hij.text">Місто</string>
+  <!-- Onboarding -->
+  <string name="27F-Si-n8f.normalTitle">Продовжити</string>
+  <!-- Onboarding -->
+  <string name="294-Xg-p9x.normalTitle">Скасувати</string>
+  <!-- Settings > Profile -->
+  <string name="2A7-9h-fzx.text">Стать</string>
+  <!-- Contacts -->
+  <string name="2gg-qZ-4My.text">Не в мережі</string>
+  <!-- Chat -->
+  <string name="2kZ-Sc-Dcb.normalTitle">Відправити</string>
+  <!-- Onboarding -->
+  <string name="2yb-SC-5YE.text">Усе готово</string>
+  <!-- Onboarding -->
+  <string name="306-11-EZZ.text">До речі, ви можете змінити налаштування видимості у будь-який час</string>
+  <!-- Contacts -->
+  <string name="3f3-D1-3g3.text">Запрошення надіслано</string>
+  <!-- Contacts -->
+  <string name="3HP-y9-vMU.text">Контакти у VEON</string>
+  <!-- Contacts -->
+  <string name="3jK-Gh-JIb.text">Запрошення надіслано</string>
+  <!-- Onboarding -->
+  <string name="3K8-1X-8gL.normalTitle">Продовжити </string>
+  <!-- Onboarding -->
+  <string name="3Qh-ah-ZDi.normalTitle">Використати інший номер</string>
+  <!-- Onboarding -->
+  <string name="3YQ-8y-x6w.text">Email</string>
+  <!-- Onboarding -->
+  <string name="44H-An-ylt.text">Email</string>
+  <!-- Chat -->
+  <string name="4aL-uK-ye6.text">У мережі</string>
+  <!-- Onboarding -->
+  <string name="4Ei-kl-Oki.normalTitle">Продовжити</string>
+  <string name="4U4-oC-zYa.text">Показувати в загальнодоступному каталозі</string>
+  <!-- Settings -->
+  <string name="5iT-x8-F2E.normalTitle">Вийти?</string>
+  <!-- Onboarding -->
+  <string name="5Ma-yG-20u.normalTitle">Скасувати</string>
+  <!-- Onboarding -->
+  <string name="5MC-JQ-p8A.text">Почати\n розмову у чаті</string>
+  <!-- Contacts -->
+  <string name="5T4-8c-gZv.text">Запит очікує на підтвердження</string>
+  <!-- Voice -->
+  <string name="5YO-NH-0UO.normalTitle">Вимк. \nмікрофон</string>
+  <!-- Voice -->
+  <string name="66t-AH-g05.text">Виклик у Veon</string>
+  <!-- Onboarding -->
+  <string name="6cd-eL-JDc.normalTitle">Підтвердити мобільний номер</string>
+  <!-- Contacts -->
+  <string name="6D1-Ye-7dr.placeholder">Мобільний телефон</string>
+  <!-- Onboarding -->
+  <string name="6L9-11-UV5.normalTitle">Продовжити</string>
+  <!-- Onboarding -->
+  <string name="6Vt-ZC-5eV.text">Тепер ваш профіль доступний у Veon. Давайте разом знайдемо ваших знайомих. Ми використаємо контакти вашого телефону, щоб зробити це якнайшвидше.</string>
+  <!-- Settings -->
+  <string name="6Xl-UA-ZaM.text">Ви дійсно хочете вийти з акаунта?</string>
+  <!-- Chat -->
+  <string name="6Yd-tj-hAz.text">Стандартне зображення</string>
+  <string name="7kT-7J-gXT.normalTitle">Продовжити</string>
+  <!-- Settings -->
+  <string name="8E9-y6-xMm.text">Мобільний</string>
+  <!-- Chat -->
+  <string name="8Rz-Nz-L2V.disabledTitle">Надіслати</string>
+  <!-- Chat -->
+  <string name="8Rz-Nz-L2V.normalTitle">Надіслати</string>
+  <!-- Class = "UILabel"; text = "Your email is now verified!"; ObjectID = "8sB-zI-iSo"; -->
+  <string name="8sB-zI-iSo.text">Ваш email підтверджено</string>
+  <!-- Class = "UILabel"; text = "We’ve also saved this offer\nin your My Veon account."; ObjectID = "963-iF-Bt3"; -->
+  <string name="963-iF-Bt3.text">Ми також зберегли цю пропозицію\nу вашому акаунті VEON</string>
+  <string name="99C-Rv-OYN.title">Скасувати</string>
+  <!-- Chat -->
+  <string name="9eP-Wm-i2R.text">Натисніть сюди</string>
+  <!-- Chat -->
+  <string name="9gA-AC-66C.text">Зробити фото</string>
+  <!-- Settings > Profile -->
+  <string name="9Jx-C4-cMn.text">Ось так вас бачать друзі у Veon</string>
+  <!-- Chat -->
+  <string name="9MS-3E-ndb.text">Наразі у вас немає контактів</string>
+  <!-- Settings -->
+  <string name="9te-ny-fg1.title">Довідка</string>
+  <string name="A minute ago">Хвилину тому</string>
+  <!-- Class = "UILabel"; text = "We will send a verification code to your email. You can verify your email by entering this code in the next step."; ObjectID = "A5U-Lj-RK2"; -->
+  <string name="A5U-Lj-RK2.text">Ми надішлемо код підтвердження на ваш email. Уведіть цей код на наступному кроці, щоб підтвердити свій email.</string>
+  <!-- Settings -->
+  <string name="ABJ-Rh-6qr.title">Карта</string>
+  <!-- Settings -->
+  <string name="about.libraries.title">Ліцензії</string>
+  <!-- Settings -->
+  <string name="about.version.app">Версия %1$s (%2$s)</string>
+  <!-- Settings -->
+  <string name="about.version.server">Версія сервера: %s</string>
+  <!-- Settings -->
+  <string name="aCH-uv-lcS.text">Мобільний</string>
+  <!-- Onboarding -->
+  <string name="adV-jp-7r7.text">Поставте позначку, якщо ви згодні з усім переліченим нижче:</string>
+  <string name="AgC-eL-Hgc.title">Кнопка</string>
+  <!-- Chat -->
+  <string name="Agent">Агент</string>
+  <!-- Chat -->
+  <string name="aGi-0R-7L8.placeholder">Пошук</string>
+  <!-- Chat -->
+  <string name="ai7-au-cJy.text">Скасувати</string>
+  <!-- Onboarding -->
+  <string name="AlH-89-Bq9.text">Поставте позначку, якщо ви згодні з усім переліченим нижче:</string>
+  <string name="An hour ago">Годину тому</string>
+  <!-- Class = "UILabel"; text = "Invite sent"; ObjectID = "An1-dl-QIv"; -->
+  <string name="An1-dl-QIv.text">Запрошення надіслано</string>
+  <!-- Settings > Profile -->
+  <string name="ArV-xL-Qmu.text">Дата народження</string>
+  <!-- Voice -->
+  <string name="asm-qs-2yJ.normalTitle">Гучний зв\'язок</string>
+  <!-- Settings -->
+  <string name="B1b-0g-a6f.headerTitle">ШРИФТ</string>
+  <!-- Contacts -->
+  <string name="bH7-vI-b1l.normalTitle">Контакти</string>
+  <!-- Settings > Profile -->
+  <string name="BMl-FH-1Fg.title">Профіль</string>
+  <!-- Onboarding -->
+  <string name="bSA-aJ-d4S.text">Підтвердити номер телефону</string>
+  <!-- Settings > Profile -->
+  <string name="bTC-gX-Dba.text">Країна</string>
+  <!-- Chat -->
+  <string name="buw-Kv-wxo.text">Стандартне зображення</string>
+  <!-- Settings -->
+  <string name="bxb-Q9-wyk.title">Про додаток</string>
+  <!-- Voice -->
+  <string name="ByL-15-Rmn.text">Вимк. сповіщення</string>
+  <!-- Contacts -->
+  <string name="C2X-tU-Ene.title">Знайти людей</string>
+  <string name="call.cellular">Дзвінок на мобільний номер</string>
+  <string name="call.cellular.description">Може зніматись плата згідно з тарифами вашого оператора</string>
+  <!-- Voice -->
+  <string name="call.end.cause">Внутрішня помилка</string>
+  <!-- Voice -->
+  <string name="call.end.cause.answered">Дзвінок прийнято</string>
+  <!-- Voice -->
+  <string name="call.end.cause.busy">Користувач зайнятий</string>
+  <string name="call.end.cause.connection_lost.my_side">З\'єднання розірвано. Будь ласка, перевірте підключення до інтернету та зателефонуйте ще раз.</string>
+  <string name="call.end.cause.connection_lost.other_side">%s оффлайн. Будь ласка, спробуйте зателефонувати пізніше.</string>
+  <string name="call.end.cause.connection_lost.other_side_offline">%s оффлайн. Будь ласка, спробуйте зателефонувати пізніше.</string>
+  <!-- Voice -->
+  <string name="call.end.cause.declined">Дзвінок відхилено</string>
+  <!-- Voice -->
+  <string name="call.end.cause.incorrect_response">Некоректна відповідь сервера</string>
+  <!-- Voice -->
+  <string name="call.end.cause.malformed_packet">Помилка зв\'язку</string>
+  <!-- Voice -->
+  <string name="call.end.cause.not_answered">Користувач не відповідає</string>
+  <!-- Voice -->
+  <string name="call.end.cause.unknow">Невідома помилка</string>
+  <!-- Voice -->
+  <string name="call.end.cause.user_declined">Користувач зайнятий</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.audio.play">Ви не можете прослуховувати голосові повідомлення під час дзвінка</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.audio.record">Ви не можете почати запис під час дзвінка</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.call">Ви не можете почати новий дзвінок під час іншого дзвінка</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.gsm_call">Ви не можете почати інший дзвінок під час дзвінка</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.video.play">Відтворення відео під час дзвінка неможливе</string>
+  <string name="call.history.no_sync.alert.button.no">Ні</string>
+  <string name="call.history.no_sync.alert.button.yes">Так</string>
+  <string name="call.history.no_sync.alert.text">Дзвонити з Veon дуже просто. \nІмпортуйте контакти зі свого телефону, щоб почати спілкуватись.</string>
+  <string name="call.history.no_sync.alert.title">Почати дзвінок</string>
+  <string name="call.history.placeholder.has_calls.no_sync.text"><a>Синхронізувати контакти адресної книги</a>\nЗавжди будьте на зв\'язку.</string>
+  <string name="call.history.placeholder.no_calls.has_contacts.text">
+    <a>Зробіть перший дзвінок</a>
+  </string>
+  <string name="call.history.placeholder.no_calls.has_contacts.title">Саме час\nпоспілкуватись</string>
+  <string name="call.history.placeholder.no_calls.no_contacts.text"><a>Знайдіть друзів</a>, щоб почати спілкуватись</string>
+  <string name="call.history.placeholder.no_calls.no_contacts.title">Запрошуйте друзів.\nБудьте на зв\'язку.</string>
+  <string name="call.history.placeholder.no_calls.no_sync.text"><a>Синхронізуйте контакти</a>\nз телефонної книги, щоб почати спілкуватись.</string>
+  <string name="call.history.placeholder.no_calls.no_sync.title">Запросіть друзів.\nБудьте на зв\'язку.</string>
+  <!-- Voice -->
+  <string name="call.hold.hold">Утримувати виклик з %s</string>
+  <!-- Voice -->
+  <string name="call.hold.reject">Завершити виклик  з %s</string>
+  <!-- Voice -->
+  <string name="call.popup.gsm.text">Дзвінки на номер телефону використовують з\'єднання мережі згідно з вашим тарифним планом</string>
+  <!-- Voice -->
+  <string name="call.popup.gsm.title">Дзвінки на номер телефону</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.text">Дзвінки у Veon безкоштовні і потребують підключення до інтернету. За передачу даних може зніматись оплата.</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.title">Виклик у Veon</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.wind.text">Дзвінки у Veon безкоштовні і потребують підключення до інтернету</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.wind.title">Виклик у Veon</string>
+  <string name="call.rate.excellent">Чудово</string>
+  <string name="call.rate.fair">Нормально</string>
+  <string name="call.rate.good">Добре</string>
+  <string name="call.rate.poor">Погано</string>
+  <string name="call.rate.very_poor">Дуже погано</string>
+  <string name="call.select_phone.title">Зателефонувати %s</string>
+  <!-- Voice -->
+  <string name="call.state.accepted">Дзвінок прийнято</string>
+  <!-- Voice -->
+  <string name="call.state.calling">Телефонуємо…</string>
+  <!-- Voice -->
+  <string name="call.state.connecting">З\'єднання…</string>
+  <!-- Voice -->
+  <string name="call.state.ended">Дзвінок Veon завершено</string>
+  <!-- Voice -->
+  <string name="call.state.incoming_call">Вхідний виклик…</string>
+  <!-- Voice -->
+  <string name="call.state.in_call">Поточний дзвінок у Veon...</string>
+  <!-- Voice -->
+  <string name="call.state.on_hold">Виклик утримується</string>
+  <!-- Voice -->
+  <string name="call.state.reconnecting">Підключаємося знову…</string>
+  <string name="call.veon_out.coach_mark.done">Зрозуміло</string>
+  <string name="call.veon_out.coach_mark.text">Щомісяця до 100 хв безкоштовних дзвінків на місцеві номери!\n\nОберіть номер та натисніть VEON-Out.</string>
+  <string name="call.veon_out.coach_mark.title">Новинка! VEON-Out</string>
+  <string name="call.veon_out.first_time.text">Щоб виконати дзвінок, до цього номера буде додано код (%s).</string>
+  <string name="call.veon_out.first_time.title">Ви збираєтеся виконати дзвінок поза Veon</string>
+  <!-- Voice -->
+  <string name="call.voip">Дзвінок Veon</string>
+  <string name="call.voip.description">Безкоштовний виклик через інтернет</string>
+  <string name="call.voip.offline">Неможливо здійснювати дзвінки в режимі офлайн</string>
+  <!-- Chat -->
+  <string name="Camera">Камера</string>
+  <!-- Chat -->
+  <string name="Can not check this number">Не вдалося перевірити цей номер</string>
+  <!-- Chat -->
+  <string name="Can not connect to the server">Немає з\'єднання з сервером</string>
+  <!-- Chat -->
+  <string name="Can not delete messages">Не вдалося видалити повідомлення</string>
+  <!-- Chat -->
+  <string name="Can not play video">Не вдалося відтворити відео</string>
+  <!-- Chat -->
+  <string name="Can not prepare video">Не вдалось обробити відео</string>
+  <!-- Chat -->
+  <string name="Can not send emails">Неможливо надіслати email</string>
+  <!-- Chat -->
+  <string name="Can not send logs">Не вдалося надіслати логи</string>
+  <!-- Chat -->
+  <string name="Can not send text messages">Не вдалося надіслати текстові повідомлення</string>
+  <!-- Settings -->
+  <string name="Can not update user info">Не вдалося оновити інформацію про користувача</string>
+  <!-- Settings -->
+  <string name="cancel_account.hint">Дані старого акаунту було видалено. Закрийте додаток, якщо ви не хочете входити в Veon. При повторному вході в систему вам потрібно буде знову зареєструватись та створити новий акаунт.</string>
+  <!-- Settings -->
+  <string name="cancel_account.success">Ваш акаунт видалено</string>
+  <!-- Chat -->
+  <string name="Caption">Підпис</string>
+  <!-- Class = "UIButton"; normalTitle = "Connect"; ObjectID = "cfs-rw-DEh"; -->
+  <string name="cfs-rw-DEh.normalTitle">Додати</string>
+  <!-- Onboarding -->
+  <string name="change_number.resend_code.p1">Досі не отримали код?</string>
+  <!-- Onboarding -->
+  <string name="change_number.resend_code.p2">Надіслати код повторно</string>
+  <!-- Group chat -->
+  <string name="Chat name updated">Назву чату оновлено</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members">Додати учасника</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members.error">Не вдалося додати користувачів.</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members.loading">Додаємо користувачів ...</string>
+  <!-- Chat -->
+  <string name="chat.action.add_to_contacts">Додати до контактів</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group">Видалити з групи</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group.error">Неможливо видалити користувача з чату</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group.loading">Видаляємо користувача...</string>
+  <!-- Group chat -->
+  <string name="chat.action.leave_group">Залишити групу</string>
+  <!-- Chat -->
+  <string name="chat.action.leave_group.error">Не вдалося вийти з чату</string>
+  <!-- Group chat -->
+  <string name="chat.action.leave_group.loading">Ви виходите з групи…</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.error">Не вдалося оновити ім\'я.</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.error.description">Перевірте підключення до інтернету</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.loading">Оновлення назви…</string>
+  <!-- Chat -->
+  <string name="chat.action.new_call">Новий дзвінок</string>
+  <!-- Chat -->
+  <string name="chat.action.new_chat">Новий чат</string>
+  <!-- Group chat -->
+  <string name="chat.action.new_group_chat">Новий груповий чат</string>
+  <!-- Chat -->
+  <string name="chat.action.start_new_chat">Почати новий чат</string>
+  <!-- Chat -->
+  <string name="chat.action.start_new_chat_ex">Новий груповий чат з %s</string>
+  <!-- Chat -->
+  <string name="chat.action.view_profile">Переглянути профіль</string>
+  <!-- Chat -->
+  <string name="chat.call.failed">Ви намагалися зателефонувати</string>
+  <!-- Chat -->
+  <string name="chat.call.incoming">Вхідний дзвінок</string>
+  <!-- Chat -->
+  <string name="chat.call.missed">Ви пропустили виклик</string>
+  <!-- Chat -->
+  <string name="chat.call.outgoing">Ви зателефонували</string>
+  <!-- Chat -->
+  <string name="chat.call.time">%d хв. %d сек.</string>
+  <!-- Chat -->
+  <string name="chat.call.time.0min">%d сек</string>
+  <!-- Chat -->
+  <string name="chat.call.time.1min">1 хв %d</string>
+  <!-- Chat -->
+  <string name="chat.call_history.declined_call">Дзвінок відхилено</string>
+  <!-- Chat -->
+  <string name="chat.call_history.incoming_call">Вхідний дзвінок (%02d:%02d)</string>
+  <!-- Chat -->
+  <string name="chat.call_history.missed_call">Пропущений виклик</string>
+  <!-- Chat -->
+  <string name="chat.call_history.not_answered">%s не відповідає на дзвінок</string>
+  <!-- Chat -->
+  <string name="chat.call_history.not_answered_call">Дзвінок без відповіді</string>
+  <!-- Chat -->
+  <string name="chat.call_history.outgoing_call">Вихідний дзвінок (%02d:%02d) </string>
+  <string name="chat.call_log.type.default">Дзвінок Veon </string>
+  <!-- Channel chats -->
+  <string name="chat.channel.daily">Щоденні цікавинки</string>
+  <!-- Chat -->
+  <string name="chat.create.error.title">Не вдалося створити групу</string>
+  <!-- Chat -->
+  <string name="chat.create.loading">Створюємо...</string>
+  <!-- Chat -->
+  <string name="chat.create_group">Створити нову групу</string>
+  <!-- Chat -->
+  <string name="chat.error.not_send_message">Не вдалося надіслати. Натисніть, щоб повторити.</string>
+  <!-- Chat -->
+  <string name="chat.forward.to_group">Переслати це повідомлення у групу %s?</string>
+  <!-- Chat -->
+  <string name="chat.forward.to_person">Переслати це повідомлення %s?</string>
+  <string name="chat.group.name">Назва групи</string>
+  <string name="chat.index.read.title">Відмітити як прочитане</string>
+  <!-- Group chat -->
+  <string name="chat.members">Учасники</string>
+  <string name="chat.members.plural">Учасників групи %i</string>
+  <string name="chat.members.singular">Учасників групи: %i</string>
+  <!-- Group chat -->
+  <string name="chat.menu.add_members">Додати учасника</string>
+  <!-- Chat -->
+  <string name="chat.menu.clear_chat">Очистити чат</string>
+  <!-- Chat -->
+  <string name="chat.menu.faq">Запитання й відповіді</string>
+  <!-- Group chat -->
+  <string name="chat.menu.leave_group">Залишити групу</string>
+  <!-- Chat -->
+  <string name="chat.menu.search">Пошук у чаті</string>
+  <string name="chat.message.attachment.contact">Поділитися контактом</string>
+  <string name="chat.message.attachment.media">Надіслати фото/відео</string>
+  <string name="chat.message.attachment.voice">Записати голосове повідомлення</string>
+  <!-- Onboarding -->
+  <string name="chat.message.placeholder">Напишіть повідомлення</string>
+  <!-- Contacts -->
+  <string name="chat.modifications.action.accept_friend">прийняв(-ла) ваш запит на додавання у контакти</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user">%s додано до групи</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user.from_me">додали %s до групи</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user.you">додав(-ла) вас до групи</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.agent_join">приєднався(-лася) до чату</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.agent_left">Залишив(-ла) чат</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group">створив(-ла) групу з %d учасників</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group.many.from_me">створив(-ла) групу з %d учасників</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group.one.from_me">створили групу з %d учасником</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.me">виключив(-ла) вас із групи</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.user">виключив(-ла) %s з групи</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.user.from_me">виключив(-ла) %s з групи</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.yourself">залишив(-ла) групу</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.yourself.from_me">залишив(-ла) групу</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.session.end">Сеанс завершено</string>
+  <!-- Chat -->
+  <string name="chat.modifications.you">Ви</string>
+  <string name="chat.most_recent">Нещодавні</string>
+  <!-- Chat -->
+  <string name="chat.new.search_placeholder.new">Пошук</string>
+  <string name="chat.offer.coming_soon">На жаль, ми не можемо відобразити цю історію. Але незабаром ми це виправимо!</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.title">VEON Чат</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.wind.text">Чат використовує інтернет-з\'єднання телефону, щоб ви могли безкоштовно спілкуватися з друзями</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.wind.title">Чат Veon</string>
+  <!-- Chat -->
+  <string name="chat.sending">Надсилаємо...</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.error.himself">Ви не можете надіслати контакт собі</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.to_group">Надіслати цей контакт у групу %s?</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.to_person">Надіслати цей контакт %s?</string>
+  <string name="chat.sms_out.joined.text">Спілкуйтесь в чаті без реклами!</string>
+  <string name="chat.sms_out.joined.title">Круто! %s тепер у VEON!</string>
+  <string name="chat.sms_out.placeholder">Написати безкоштовне SMS...</string>
+  <string name="chat.sms_out.replies.info">Відповіді, отримані від цього користувача, буде збережено в SMS-повідомленнях</string>
+  <string name="chat.sms_out.start.text">Контакт отримає від вас SMS з запрошенням приєднатись до спільноти VEON</string>
+  <string name="chat.sms_out.start.title">Відправити безкоштовне SMS</string>
+  <string name="chat.sms_out.tagline">%s, завантажуй додаток VEON та спілкуйся безкоштовно!</string>
+  <!-- Chat -->
+  <string name="chat.start_call">Подзвонити</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.call.title">Зателефонувати в службу підтримки?</string>
+  <!-- Chat -->
+  <string name="chat.support.call.yes">Подзвонити</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.state.connected">Підключено</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.state.connecting">з\'єднання…</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.state.disconnected">зв\'язок перервано</string>
+  <!-- Chat -->
+  <string name="chat.title.many_users.suffix"> і ще %d</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.ok">Обрізати</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.text">Повідомлення буде скорочене на %d симв.</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.title">Повідомлення задовге</string>
+  <!-- Chat -->
+  <string name="chat.warning.not_member">Ви більше не учасник групи</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.fab_hint">Почати розмову</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.no_contacts.p1">Знайти знайомих</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.no_contacts.p2"> та почніть спілкуватись.</string>
+  <!-- Chat -->
+  <string name="chat_index.message.audio.from">Ви надіслали голосове повідомлення</string>
+  <!-- Chat -->
+  <string name="chat_index.message.audio.to">Надіслав(-ла) вам голосове повідомлення</string>
+  <!-- Chat -->
+  <string name="chat_index.message.contact.from">Ви надіслали контакт (%s)</string>
+  <!-- Chat -->
+  <string name="chat_index.message.contact.to">Надіслав(-ла) вам контакт (%s)</string>
+  <!-- Chat -->
+  <string name="chat_index.message.image.from">Ви надіслали зображення</string>
+  <!-- Chat -->
+  <string name="chat_index.message.image.to">Надіслав(-ла) вам зображення</string>
+  <string name="chat_index.message.offer">поділився(-лась) історією</string>
+  <string name="chat_index.message.offer_from_me">поділились історією</string>
+  <!-- Chat -->
+  <string name="chat_index.message.video.from">Ви надіслали відео</string>
+  <!-- Chat -->
+  <string name="chat_index.message.video.to">Надіслав(-ла) вам відео</string>
+  <string name="chat_index.no_sync.alert.button.no">Ні</string>
+  <string name="chat_index.no_sync.alert.button.yes">Так</string>
+  <string name="chat_index.no_sync.alert.text">Дзвоніть, пишіть та діліться файлами у Veon безкоштовно.</string>
+  <string name="chat_index.no_sync.alert.title">Синхронізувати контакти</string>
+  <string name="chat_index.placeholder.has_chats.no_sync.text"><a>Синхронізуйте контакти</a>\n, щоб почати спілкуватись.</string>
+  <string name="chat_index.placeholder.no_chats.has_contacts.title">Почніть спілкуватись та\n не зупиняйтесь</string>
+  <string name="chat_index.placeholder.no_chats.no_contacts.text"><a>Знайди друзів,</a>\n щоб почати спілкуватися.</string>
+  <string name="chat_index.placeholder.no_chats.no_contacts.title">Додавайте друзів.\nДіліться важливими подіями.</string>
+  <string name="chat_index.placeholder.no_chats.no_sync.text"><a>Синхронізуйте  контакти,</a>\nщоб почати спілкуватися.\n</string>
+  <string name="chat_index.placeholder.no_chats.no_sync.title">Додавайте друзів.\nДіліться важливими подіями.</string>
+  <!-- Chat -->
+  <string name="chat_index.typing">%s пише...</string>
+  <!-- Chat -->
+  <string name="check your connection">перевірте з\'єднання</string>
+  <!-- Log-in -->
+  <string name="ckG-7G-wfN.text">Для підтвердження та доступу до аккаунту введіть код нижче:</string>
+  <!-- Chat -->
+  <string name="Clear all messages?">Видалити всі повідомлення?</string>
+  <!-- Chat -->
+  <string name="Clearing...">Видалення...</string>
+  <!-- Class = "UILabel"; text = "You can enable access in Privacy Settings."; ObjectID = "clU-J7-sTr"; -->
+  <string name="clU-J7-sTr.text">Ви можете надати доступ у налаштуваннях конфіденційності.</string>
+  <string name="coach_note_verify_email_button">Підтвердити email</string>
+  <string name="coach_note_verify_email_confirmed">Ваш email підтверджено!</string>
+  <!-- Coach note - Initial: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="coach_note_verify_email_main">Ми надішлемо код підтвердження на ваш e-mail. Уведіть цей код на наступному кроці.</string>
+  <!-- Second part of text in Coach Note - Initial -->
+  <string name="coach_note_verify_email_second">Підтвердження вашого email гарантує, що ви зможете отримати доступ до вашого акаунту, якщо зміните свій номер чи загубите телефон.\n</string>
+  <string name="coach_note_verify_email_title">Підтвердьте email</string>
+  <string name="common.active.last.date">Востаннє в мережі %s</string>
+  <string name="common.active.last.day">Востаннє в мережі: %s</string>
+  <string name="common.active.last.min">Востаннє в мережі: %s</string>
+  <string name="common.active.last.time">Востаннє в мережі о %s</string>
+  <string name="common.active.last.yesterday">Востаннє в мережі вчора</string>
+  <string name="common.active.now">У мережі</string>
+  <!-- Chat -->
+  <string name="common.agree">Приймаю</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.choose">Обрати з галереї</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.delete">Видалити фото</string>
+  <!-- Settings -->
+  <string name="common.avatar.fb">Використати фото з Facebook</string>
+  <!-- Settings -->
+  <string name="common.avatar.select">Оберіть аватар</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.take">Зробити фото</string>
+  <!-- Chat -->
+  <string name="common.cancel">Скасувати</string>
+  <string name="common.confirm.navigation.cancel">Скасувати</string>
+  <string name="common.confirm.navigation.ok">Продовжити</string>
+  <string name="common.confirm.navigation.text">Це посилання відкриється у вашому браузері, за передачу даних може зніматись плата.</string>
+  <string name="common.confirm.navigation.title">Підтвердьте перехід</string>
+  <!-- Chat -->
+  <string name="common.copy">Копіювати</string>
+  <!-- Chat -->
+  <string name="common.date.past_date">%s</string>
+  <!-- Chat -->
+  <string name="common.error">Помилка</string>
+  <!-- Chat -->
+  <string name="common.error.internal">Невідома помилка</string>
+  <!-- Chat -->
+  <string name="common.just_now">Щойно</string>
+  <!-- Chat -->
+  <string name="common.last_seen">Був(-ла) у мережі %s</string>
+  <!-- Chat -->
+  <string name="common.loading">Завантаження...</string>
+  <!-- Chat -->
+  <string name="common.next">Далі</string>
+  <!-- Chat -->
+  <string name="common.ok">ОК</string>
+  <!-- Chat -->
+  <string name="common.ok.continue">Oк, продовжити</string>
+  <!-- Contacts -->
+  <string name="common.online">У мережі</string>
+  <!-- Contacts -->
+  <string name="common.refresh.done.contacts.found">%d нових контактів</string>
+  <!-- Contacts -->
+  <string name="common.refresh.done.contacts.none">Немає нових контактів</string>
+  <!-- Contacts -->
+  <string name="common.refresh.in_progress.contacts">Оновлення контактів</string>
+  <!-- Chat -->
+  <string name="common.refresh.pull">Потягніть униз, щоб оновити</string>
+  <!-- Chat -->
+  <string name="common.refresh.release">Відпустіть, щоб оновити</string>
+  <!-- Chat -->
+  <string name="common.save">Зберегти</string>
+  <!-- Chat -->
+  <string name="common.save.loading">Зберігаємо...</string>
+  <!-- Chat -->
+  <string name="common.send">Надіслати</string>
+  <string name="common.sent">Надіслано</string>
+  <!-- Chat -->
+  <string name="common.today">Сьогодні</string>
+  <!-- Chat -->
+  <string name="common.wating">Будь ласка, зачекайте...</string>
+  <!-- Chat -->
+  <string name="common.yesterday">Вчора</string>
+  <!-- Chat -->
+  <string name="common.you">Ви</string>
+  <!-- Contacts -->
+  <string name="Contacts">Контакти</string>
+  <string name="contacts.invite.hint.button">Запросити друзів</string>
+  <string name="contacts.invite.hint.text">Запросіть 5 друзів зі свого списку контактів та отримайте подарунок за кожного з них</string>
+  <string name="contacts.invite.hint.title">Veon ще цікавіший, коли у ньому є ваші друзі.\nЗапросіть їх вже зараз.</string>
+  <string name="contacts.invite.success.text">Ми повідомимо вас, коли користувачі долучаться до Veon.</string>
+  <string name="contacts.invite.success.title">Чудово! Запрошення %s надіслано.</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p1">Знайдіть людей</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p2">яких ви знаєте в Veon та почніть спілкуватися або</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p3">синхронізуйте з вашими контактами</string>
+  <string name="contacts.placeholder.has_contacts.no_sync.text"><a>Синхронізуйте контакти</a>\n, щоб почати розмову.</string>
+  <string name="contacts.placeholder.no_contacts.text"><a>Синхронізуйте контакти</a>\n, щоб почати розмову.</string>
+  <string name="contacts.placeholder.no_contacts.title">Запросіть друзів\n та тримайте зв\'язок</string>
+  <string name="contacts.sections.ab">Контакти</string>
+  <string name="contacts.sections.outside_veon">Контакти, яких немає в VEON</string>
+  <!-- Contacts -->
+  <string name="contacts.sections.requests">Запити контактів</string>
+  <string name="contacts.sections.suggested">Люди, яких ви можете знати</string>
+  <string name="contacts.sections.veon">Контакти Veon</string>
+  <string name="contacts.view_more.less">Сховати</string>
+  <string name="contacts.view_more.more">Переглянути більше</string>
+  <string name="contacts.view_more.requests.counts">%d з %d запитів</string>
+  <string name="contacts.view_more.suggestions.counts">%d з %d пропозицій</string>
+  <!-- Chat -->
+  <string name="Couldn't load. Tap to retry">Не вдалося завантажити. Натисніть, щоб повторити спробу</string>
+  <!-- Chat -->
+  <string name="Create">Створити</string>
+  <!-- Chat -->
+  <string name="Created by %@ on %@">Створено %s %s</string>
+  <!-- Settings -->
+  <string name="Credit Card">Картка</string>
+  <!-- Voice -->
+  <string name="cRl-i8-KnZ.title">Історія дзвінків</string>
+  <!-- Settings -->
+  <string name="CSt-gJ-L4f.text">Місто</string>
+  <!-- Settings -->
+  <string name="ctN-bL-TuC.title">Налаштування</string>
+  <!-- Settings, Onboarding -->
+  <string name="Ctr-a9-JRd.text">Ім\'я</string>
+  <!-- Onboarding -->
+  <string name="CVf-bV-zvO.text">Ставте позначку, якщо погоджуєтеся з зазначеним нижче</string>
+  <!-- Onboarding -->
+  <string name="CXC-Ux-dZn.text">Скасувати</string>
+  <!-- Onboarding -->
+  <string name="cYe-Mh-afP.text">Ми надіслали SMS з кодом підтвердження на номер:</string>
+  <!-- Group chat -->
+  <string name="d1R-fa-fo1.text">Ви не можете надсилати повідомлення в цю групу, оскільки більше не перебуваєте в ній</string>
+  <!-- Settings > Profile -->
+  <string name="D3i-kU-TX4.normalTitle">ОБРАТИ ФОТО ПРОФІЛЮ</string>
+  <!-- Onboarding -->
+  <string name="D7k-jb-nFO.text">Щоб завершити перевірку, будь ласка, введіть код нижче</string>
+  <!-- Class = "UIButton"; normalTitle = "Verify Email"; ObjectID = "DdU-FZ-tTJ"; -->
+  <string name="DdU-FZ-tTJ.normalTitle">Підтвердьте email</string>
+  <!-- Chat -->
+  <string name="Delete">Видалити</string>
+  <!-- Chat -->
+  <string name="delete_done_btn">Видалити</string>
+  <!-- Chat -->
+  <string name="Deleting...">Видаляємо...</string>
+  <!-- Onboarding -->
+  <string name="dHw-gJ-d3J.text">Ми надіслали вам SMS із кодом підтвердження на:</string>
+  <!-- Onboarding -->
+  <string name="dMH-Cg-31v.text">Неправильний код. Будь ласка, спробуйте ще раз</string>
+  <!-- Onboarding -->
+  <string name="Dmm-tp-lGN.text">Ставте позначку, якщо погоджуєтеся з зазначеним нижче</string>
+  <!-- Onboarding -->
+  <string name="Done">Готово</string>
+  <!-- Chat -->
+  <string name="Done (%d)">Готово (%d)</string>
+  <!-- Chat -->
+  <string name="Done_restore_btn (%d)">Готово (%d)</string>
+  <!-- Chat -->
+  <string name="Download audio">Завантажити аудіо</string>
+  <!-- Group chat -->
+  <string name="dva-nC-xJq.normalTitle">ЗАЛИШИТИ ГРУПУ</string>
+  <!-- Chat, record audio to send -->
+  <string name="Dyx-Fy-fYb.text">Запис</string>
+  <string name="e9v-su-i0a.text">Ваш обліковий запис міститиме інформацію про ваше останнє місцезнаходження, щоб друзі та рідні бачили де ви та могли залишатись з  вами на зв\'язку.\n\nВи можете вимкнути відображення свого місцезнаходження в параметрах  конфіденційності будь-коли.</string>
+  <!-- Group chat -->
+  <string name="Edit group name">Змінити назву групи</string>
+  <!-- Class = "UILabel"; text = "Request sent"; ObjectID = "eE3-f9-QSr"; -->
+  <string name="eE3-f9-QSr.text">Запит надіслано</string>
+  <!-- Onboarding -->
+  <string name="EfE-mX-pxF.text">Неправильний код. Будь ласка, спробуйте ще раз</string>
+  <!-- Contacts -->
+  <string name="egM-Qq-lVz.text">ЗАПРОШЕННЯ НАДІСЛАНО</string>
+  <!-- Onboarding, remember me check box -->
+  <string name="ekM-qT-Gd2.text">Запам\'ятати мене\n</string>
+  <!-- Contacts -->
+  <string name="eKP-Tc-YE8.text">Картка контакту</string>
+  <string name="Email already registered">Такий email уже зареєстровано</string>
+  <!-- Group chat -->
+  <string name="Empty group">Група порожня</string>
+  <!-- Chat -->
+  <string name="enU-cH-ScJ.title">Чат</string>
+  <string name="eOV-CI-jJJ.text">Ви можете знайти збережені пропозиції тут.</string>
+  <!-- Contacts -->
+  <string name="ewE-Zo-Ybq.normalTitle">ЗАПРОСИТИ</string>
+  <!-- Voice -->
+  <string name="f8z-mU-hSL.normalTitle">Відповісти</string>
+  <!-- Onboarding -->
+  <string name="Fg0-pt-NnI.title">Готово</string>
+  <!-- Chat -->
+  <string name="Forward">Переслати</string>
+  <!-- Group chat -->
+  <string name="fqK-ah-yoA.normalTitle">Додати учасників</string>
+  <!-- Class = "UILabel"; text = "Verification code"; ObjectID = "fqY-z4-0W3"; -->
+  <string name="fqY-z4-0W3.text">Код підтвердження</string>
+  <string name="Fri">Пт.</string>
+  <!-- Contacts -->
+  <string name="Friends restored">Контакти відновлено</string>
+  <!-- Voice -->
+  <string name="FT4-BA-R5u.normalTitle">Завершити виклик</string>
+  <!-- Settings > Profile -->
+  <string name="fuH-Is-Cm0.text">Видалити зображення</string>
+  <!-- Settings -->
+  <string name="fwd-Wn-wtT.text">Вийти з додатку</string>
+  <!-- Class = "UILabel"; text = "Invalid code. Please try again."; ObjectID = "G0t-r1-scG"; -->
+  <string name="G0t-r1-scG.text">Неправильний код. Спробуйте ще раз.</string>
+  <!-- Voice -->
+  <string name="g9X-E2-8X4.text">Вимк. сповіщення</string>
+  <!-- Voice -->
+  <string name="g9z-Rb-qGy.normalTitle">Відповісти</string>
+  <!-- Settings -->
+  <string name="GBJ-ak-pdn.text">Перш ніж використовувати це розширення, будь ласка, увійдіть у додаток </string>
+  <!-- Contacts -->
+  <string name="Gll-0V-9Zw.placeholder">Мобільний телефон</string>
+  <string name="global_search.section.chats">Чати</string>
+  <string name="global_search.section.contacts">Ваші контакти</string>
+  <string name="global_search.section.people">Каталог користувачів Veon</string>
+  <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "gm2-To-BUg"; -->
+  <string name="gm2-To-BUg.normalTitle">Скасувати</string>
+  <!-- Group chat -->
+  <string name="GROUPS">ГРУПИ</string>
+  <!-- Onboarding -->
+  <string name="gS2-qh-oCc.text">Підвердьте ваш email</string>
+  <!-- Onboarding -->
+  <string name="h3L-4I-HCM.text">Усе готово</string>
+  <!-- Chat -->
+  <string name="Has no access to %@.">Відсутній доступ до %s.</string>
+  <!-- Chat -->
+  <string name="Has no access to Location Services.">Відсутній доступ до служби геолокації</string>
+  <!-- Class = "UILabel"; text = "No offer saved yet"; ObjectID = "hAZ-35-UVn"; -->
+  <string name="hAZ-35-UVn.text">У вас наразі немає збережених пропозицій</string>
+  <!-- Class = "UILabel"; text = "Verify your email"; ObjectID = "hCq-e9-9L3"; -->
+  <string name="hCq-e9-9L3.text">Підтвердьте ваш email</string>
+  <!-- Settings, Onboarding -->
+  <string name="HE6-AL-jq6.text">Ім\'я</string>
+  <!-- Settings -->
+  <string name="HFA-BZ-dOq.text">Місцезнаходження</string>
+  <!-- Onboarding -->
+  <string name="HnE-gA-dSY.title">Скасувати</string>
+  <!-- Settings -->
+  <string name="hTf-o6-wrB.text">© 2017 VEON Ltd. Усі права захищено</string>
+  <!-- Settings -->
+  <string name="Hzt-mc-08z.title">Ваше місто</string>
+  <!-- Settings -->
+  <string name="I3k-Dz-hUz.normalTitle">Показати</string>
+  <!-- Class = "UIButton"; normalTitle = "Save and close"; ObjectID = "i6K-OR-ppw"; -->
+  <string name="i6K-OR-ppw.normalTitle">Зберегти і закрити</string>
+  <string name="iBj-r6-iKO.text">Надіслано, дякуємо!</string>
+  <string name="iEc-yj-W8g.text">Утримуйте для відео, торкніться для фото</string>
+  <!-- onboarding pic -->
+  <string name="ikw-j7-BLM.text">Зробити фото</string>
+  <!-- Group chat -->
+  <string name="ilW-aD-YwA.title">Деталі групового чату</string>
+  <string name="Incorrect credentials">Невірні реєстраційні дані</string>
+  <string name="initations.email.subject">Запрошення</string>
+  <string name="initations.email.text">Запросити %s</string>
+  <!-- Onboarding -->
+  <string name="initations.sms.text">Привіт, спробуймо новий месенджер Veon? http://veon.com/download</string>
+  <!-- Chat -->
+  <string name="invitations.incoming">Отримані</string>
+  <!-- Contacts, sent invites to others -->
+  <string name="invitations.outgoing">Надіслані</string>
+  <!-- Contacts -->
+  <string name="invitations.suggested">Можливі знайомі</string>
+  <!-- Class = "UIButton"; normalTitle = "Invite"; ObjectID = "iqN-2l-5w5"; -->
+  <string name="iqN-2l-5w5.normalTitle">Запросити</string>
+  <string name="iSw-cV-hy6.text">Ваші друзі будь-коли зможуть дізнатись, де ви знаходитесь саме зараз</string>
+  <!-- Chat -->
+  <string name="itv-yj-Rqz.normalTitle">Чат</string>
+  <!-- Chat -->
+  <string name="J2i-su-LUh.text">Новий</string>
+  <!-- Onboarding -->
+  <string name="JaA-3Y-oC6.text">Для завершення перевірки, будь ласка, введіть код нижче.</string>
+  <!-- Chat -->
+  <string name="JfB-70-Muf.descriptionFormat">Нове повідомлення</string>
+  <!-- Class = "UILabel"; text = "Find your recent chats, contacts, plus everyone else on Veon."; ObjectID = "Jir-FN-YFb"; -->
+  <string name="Jir-FN-YFb.text">Знайти нещодавні чати, контакти та інших користувачів Veon.</string>
+  <!-- Group chat -->
+  <string name="jkp-Xi-Zzt.text">Додати зображення групи (необов\'язково)</string>
+  <!-- Class = "UILabel"; text = "Verifying your email guarantees that only you can access your account, especially in case you change your phone or number (or loose them)."; ObjectID = "joo-f3-Kdi"; -->
+  <string name="joo-f3-Kdi.text">Підтвердження вашого email гарантує, що ви зможете отримати доступ до вашого акаунту, якщо зміните свій номер чи загубите телефон.</string>
+  <!-- Onboarding -->
+  <string name="jqY-oV-Luk.text">Код підтвердження</string>
+  <string name="Just now">Щойно</string>
+  <string name="JuW-h3-zaL.text">Ділитися місцезнаходженням</string>
+  <!-- Contacts -->
+  <string name="K5K-yW-faf.title">Запросити людей</string>
+  <!-- Contacts -->
+  <string name="k83-Yv-TRf.text">Veon</string>
+  <!-- Chat, first screen when no chats exist -->
+  <string name="kcF-Z3-tyL.text">Тут будуть ваші чати</string>
+  <!-- Onboarding -->
+  <string name="kDC-ju-2QU.normalTitle">Продовжити</string>
+  <!-- onboarding photo -->
+  <string name="KRO-ZM-w5M.normalTitle">Пропустити</string>
+  <!-- Settings > Profile -->
+  <string name="L8f-It-n2W.text">Натисніть, щоб змінити зображення</string>
+  <string name="Last month">Минулого місяця</string>
+  <string name="Last seen %@">Був(-ла) у мережі</string>
+  <string name="Last week">Минулого тижня</string>
+  <string name="Last year">Минулого року</string>
+  <!-- Settings -->
+  <string name="leD-hz-aiL.text">Галерея фонових зображень</string>
+  <!-- Chat -->
+  <string name="Less then 1 minute">Менше хвилини</string>
+  <string name="lnZ-vR-axF.text">Дозволити Veon збирати інформацію про ваше місцезнаходження</string>
+  <!-- Chat -->
+  <string name="Loading Video...">Завантажуємо відео...</string>
+  <!-- Settings -->
+  <string name="Location Services">Служби геолокації</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.policy.text.p2">Політика конфіденційності\n</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.terms.text.p1">Ставте позначку, якщо приймаєте наші</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.terms.text.p2">Умови користування</string>
+  <string name="login.rewards.terms.text.p3">,</string>
+  <!-- General message -->
+  <string name="login.same_device">Ви увійшли в систему з іншого пристрою. Вихід з акаунту на цьому пристрої буде виконано автоматично.</string>
+  <!-- Onboarding -->
+  <string name="login.terms_conditions.app.title">Умови користування</string>
+  <!-- Onboarding -->
+  <string name="login.terms_conditions.onb.title">Умови користування</string>
+  <string name="login.top_up.title">Умови користування</string>
+  <!-- Onboarding -->
+  <string name="login.validation.email.invalid">Неправильний email</string>
+  <!-- Onboarding -->
+  <string name="login.validation.first_name.incorrect_letters">Ім\'я може містити лише літери і дефіс</string>
+  <!-- Onboarding -->
+  <string name="login.validation.first_name.invalid">Здається, введено неправильне ім\'я</string>
+  <!-- Onboarding -->
+  <string name="login.validation.last_name.incorrect_letters">Прізвище може містити лише літери, апостроф і дефіс</string>
+  <!-- Onboarding -->
+  <string name="login.validation.last_name.invalid">Здається, введено неправильне прізвище</string>
+  <!-- Settings > Logout -->
+  <string name="logout.hint">Вийдіть із додатку, якщо наступного разу ви плануєте скористатися іншим акаунтом Veon. Якщо ви знову ввійдете до додатку, вказавши цей номер телефону, ви автоматично потрапите до акаунту Veon, котрим користувалися раніше.</string>
+  <!-- General message -->
+  <string name="logout.success">Ви вийшли з акаунту!</string>
+  <!-- Onboarding -->
+  <string name="lQC-Qu-zR6.normalTitle">Почнімо!</string>
+  <!-- Chat -->
+  <string name="LSy-CY-Ecj.title">Новий чат</string>
+  <!-- Onboarding -->
+  <string name="LZo-Tz-W2b.normalTitle">Продовжити</string>
+  <!-- Voice -->
+  <string name="m27-m7-Hgt.normalTitle">Вимк. \nмікрофон</string>
+  <!-- Chat -->
+  <string name="M2l-RN-kdf.text">Натисніть для запису, відпустіть для відправки</string>
+  <!-- Onboarding -->
+  <string name="M4H-e7-xH9.title">Готово</string>
+  <string name="main.global_search.placeholder">Пошук</string>
+  <string name="main.navigation.title">VEON</string>
+  <!-- Contacts -->
+  <string name="main.tab_bar.contacts">Контакти</string>
+  <!-- Chat -->
+  <string name="main.tab_bar.groups">Чати</string>
+  <!-- Settings -->
+  <string name="main.tab_bar.settings">Налаштування</string>
+  <!-- Chat -->
+  <string name="Mark as read">Позначити\nяк прочитане</string>
+  <!-- Chat -->
+  <string name="MBContactPickerPrompt">Кому:</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.error">Не вдалось оновити фото</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.loading">Оновлюємо фото...</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.success">Фото оновлено</string>
+  <!-- Chat -->
+  <string name="media.error.not_available.photo">Фото ще не доступне</string>
+  <!-- Chat, media -->
+  <string name="media.error.not_available.video">Відео ще не доступне</string>
+  <!-- Chat -->
+  <string name="media.photo">Фото</string>
+  <!-- Chat -->
+  <string name="media.preparing">Підготовка файлу</string>
+  <!-- Chat -->
+  <string name="media.preparing.error">Не вдалося підготувати файл</string>
+  <!-- Chat, media -->
+  <string name="media.video">Відео</string>
+  <!-- Settings -->
+  <string name="MEq-of-RyN.text">Видалити акаунт</string>
+  <!-- Chat -->
+  <string name="Messages">Повідомлення</string>
+  <!-- Voice -->
+  <string name="Microphone">Мікрофон</string>
+  <!-- Settings -->
+  <string name="mil-yE-kcg.title">Загальні налаштування</string>
+  <!-- Onboarding -->
+  <string name="mlI-HG-xNE.text">Прізвище</string>
+  <string name="mon">Пн.</string>
+  <string name="Mon">Пн.</string>
+  <!-- Chat -->
+  <string name="More then %ld day(s)">Більше %d днів</string>
+  <!-- Chat -->
+  <string name="More then 1 year">Більше 1 року</string>
+  <!-- Chat -->
+  <string name="Mub-Ka-YOn.text">Недостатньо місця для збереження</string>
+  <!-- Onboarding -->
+  <string name="MuI-ev-vhd.title">Скасувати</string>
+  <string name="mute.1_day">1 день</string>
+  <!-- Group chat -->
+  <string name="mute.1_hours">1 год</string>
+  <!-- Group chat -->
+  <string name="mute.1_week">1 тиждень</string>
+  <!-- Group chat -->
+  <string name="mute.1_year">1 рік</string>
+  <!-- Onboarding -->
+  <string name="mute.cancel">Скасувати</string>
+  <string name="mute.display.forever">Доки не увімкну сповіщення</string>
+  <string name="mute.display.none">Сповіщення не вимкнено</string>
+  <string name="mute.display.until">До %s</string>
+  <!-- Voice -->
+  <string name="mute.mute">вимк. сповіщення</string>
+  <!-- Chat -->
+  <string name="mute.mute.conversation">Вимкнути сповіщення для бесіди</string>
+  <!-- Chat -->
+  <string name="mute.mute.group.error">Не вдалося вимк. сповіщення</string>
+  <!-- Group chat -->
+  <string name="mute.mute.group.progress">Вимикаємо сповіщення для групи...</string>
+  <!-- Voice -->
+  <string name="mute.mute.menu">Вимк.\nмікрофон</string>
+  <!-- Chat -->
+  <string name="mute.mute.user.error">Не вдалося вимк. сповіщення</string>
+  <!-- Contacts -->
+  <string name="mute.mute.user.progress">Вимикаємо сповіщення для контакта...</string>
+  <string name="mute.title">На який час треба вимкнути сповіщення для %s?</string>
+  <!-- Voice -->
+  <string name="mute.unmute">увімк. сповіщення</string>
+  <!-- Chat -->
+  <string name="mute.unmute.conversation">Увімк. сповіщення</string>
+  <!-- Chat -->
+  <string name="mute.unmute.group.error">Не вдалось увімк. сповіщення</string>
+  <!-- Group chat -->
+  <string name="mute.unmute.group.progress">Вмикаємо сповіщення...</string>
+  <!-- Voice -->
+  <string name="mute.unmute.menu">Увімк. \nсповіщення</string>
+  <!-- Chat -->
+  <string name="mute.unmute.user.error">Не вдалось увімк. сповіщення</string>
+  <!-- Contacts -->
+  <string name="mute.unmute.user.progress">Вмикаємо сповіщення...</string>
+  <!-- Chat -->
+  <string name="mute.until_unmute">Доки не увімкну сповіщення</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="MWZ-Vu-HPz.text">Щоб дозволити вам легко знайти друзів і близьких.</string>
+  <!-- Chat -->
+  <string name="MxP-Ou-8wd.title">Відповісти</string>
+  <!-- Onboarding -->
+  <string name="ndc-zf-2HM.text">Натисніть вище, щоб використати свої фото, або оберіть аватар з запропонованих</string>
+  <!-- Group chat -->
+  <string name="New group created without avatar and name">Створено нову групу без фото та назви</string>
+  <!-- Voice -->
+  <string name="nHO-EF-Xay.text">Як пройшов ваш дзвінок?</string>
+  <!-- Chat -->
+  <string name="nim-fa-jk0.normalTitle">Дзвінок</string>
+  <!-- Onboarding -->
+  <string name="nIT-mE-fpw.title">Готово</string>
+  <!-- Chat -->
+  <string name="No">Ні</string>
+  <string name="No result">Немає результатів</string>
+  <string name="No such user">Такого користувача не існує</string>
+  <!-- Chat -->
+  <string name="Not enough memory for saving">Недостатньо місця для збереження</string>
+  <!-- Voice -->
+  <string name="notification.call.decline">Відхилити</string>
+  <!-- Voice -->
+  <string name="notification.call.incoming_call">Вхідний дзвінок від %s</string>
+  <!-- Chat -->
+  <string name="notification.call.missed_call">Пропущений дзвінок від %s</string>
+  <!-- Contacts -->
+  <string name="notification.friend_invite.accept">Прийняти</string>
+  <!-- Contacts -->
+  <string name="notification.friend_invite.refuse">Відхилити</string>
+  <!-- Chat, button of push notification for new message -->
+  <string name="notification.message.reply">Відповісти</string>
+  <!-- Chat -->
+  <string name="notification.new_friend.start_chat">Почати чат</string>
+  <!-- Contacts -->
+  <string name="notification.new_friend.view_contact">Переглянути контакт</string>
+  <!-- Chat -->
+  <string name="nPw-Pv-583.normalTitle">Повідомлення</string>
+  <string name="NSBluetoothPeripheralUsageDescription">Це допоможе нам точніше визначити ваше місцезнаходження</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSCameraUsageDescription">щоб робити фото і надсилати їх своїм друзям</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSContactsUsageDescription">щоб розмовляти і переписуватися з друзями</string>
+  <!-- Chat -->
+  <string name="NSLocationWhenInUseUsageDescription">Ваше місцезнаходження буде використано у повідомленнях</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSMicrophoneUsageDescription">щоб телефонувати своїм друзям або надсилати голосові повідомлення</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSPhotoLibraryUsageDescription">щоб надсилати ваші фото і відео друзям</string>
+  <!-- Onboarding, confirmation -->
+  <string name="NTg-GT-v1O.normalTitle">Зрозуміло</string>
+  <!-- Settings -->
+  <string name="nvL-Xl-7Oi.normalTitle">Ліцензії</string>
+  <!-- Voice -->
+  <string name="NXW-hf-mV5.normalTitle">Гучний зв\'язок</string>
+  <!-- Chat -->
+  <string name="O2f-CR-egc.placeholder">Пошук</string>
+  <!-- Settings -->
+  <string name="oa9-Nt-0gB.title">Налаштування чату</string>
+  <!-- Chat -->
+  <string name="OBY-b2-FdY.normalTitle">Видалити</string>
+  <!-- Contacts -->
+  <string name="oBZ-rX-nuI.normalTitle">Надіслати запит</string>
+  <string name="offers.activate">Активувати</string>
+  <string name="offers.follow">Підписатися</string>
+  <string name="offers.follow_to">Підписатися на %s</string>
+  <string name="offers.mgm.channel">Поділіться Veon з друзями</string>
+  <string name="offers.mgm.contact_pick.favourites">Нещодавні контакти</string>
+  <string name="offers.mgm.contact_pick.title">Запросити друзів</string>
+  <string name="offers.mgm.offer.invite">Запросити</string>
+  <string name="offers.mgm.send_invite.hint">Ми надішлемо це запрошення вашим друзям цілком безкоштовно.</string>
+  <string name="offers.mgm.send_invite.text">Привіт! %s запрошує вас зареєструватися у додатку Veon. Завдяки Veon ви зможете безкоштовно обмінюватися повідомленнями та дзвонити, а також отримувати ексклюзивні пропозиції. Завантажуйте додаток і переконайтеся самі!\n%s</string>
+  <string name="offers.mgm.send_invite.title">Надіслати запрошення</string>
+  <string name="offers.more.count">%d збережених пропозицій</string>
+  <string name="offers.offer.get">Отримати пропозицію</string>
+  <string name="offers.unfollow">Ви підписані</string>
+  <string name="offers.unfollow_from">Відписатись від %s</string>
+  <!-- Offers -->
+  <string name="offers.valid_until">Дійсний до %s</string>
+  <!-- Onboarding -->
+  <string name="ofU-c2-3Bg.normalTitle">Скасувати</string>
+  <!-- Onboarding -->
+  <string name="oka-tb-ZYg.text">Юридична інформація</string>
+  <string name="onboarding.options.location.description">Ваші друзі будь-коли зможуть дізнатись, де ви знаходитесь саме зараз</string>
+  <string name="onboarding.options.location.russia.description">Дозволити Veon збирати інформацію про ваше місцезнаходження</string>
+  <string name="onboarding.options.location.russia.title">Поділитися місцезнаходженням</string>
+  <string name="onboarding.options.location.title">Показувати, де я зараз</string>
+  <string name="onboarding.options.show_in_discovery.description">Це дозволяє будь-кому знайти вас і надіслати запит на чат із вами.</string>
+  <string name="onboarding.options.show_in_discovery.title">Показувати в загальнодоступному каталозі</string>
+  <!-- Onboarding -->
+  <string name="oqO-0c-k65.normalTitle">Продовжити</string>
+  <string name="OS_cant_access_contact_popup_CTA_cancel_text">Скасувати</string>
+  <string name="OS_cant_access_contact_popup_CTA_settings_text">Налаштування</string>
+  <string name="OS_cant_access_contact_popup_description_text">Щоб надати поступ, натисніть Налаштування і активуйте Контакти</string>
+  <string name="OS_cant_access_contact_popup_title_text">У %s немає доступу до списку контактів</string>
+  <string name="OS_cant_access_microphone_popup_CTA_cancel_text">Скасувати</string>
+  <string name="OS_cant_access_microphone_popup_CTA_settings_text">Налаштування</string>
+  <string name="OS_cant_access_microphone_popup_description_text">Щоб надати доступ, натисніть Налаштування та увімкніть Мікрофон</string>
+  <string name="OS_cant_access_microphone_popup_title_text">У %s немає доступу до мікрофона.</string>
+  <string name="OS_cant_push_notifications_popup_CTA_cancel_text">Скасувати</string>
+  <string name="OS_cant_push_notifications_popup_CTA_settings_text">Налаштування</string>
+  <string name="OS_cant_push_notifications_popup_description_text">Щоб надати доступ, натисніть Налаштування та увімкніть Сповіщення.</string>
+  <string name="OS_cant_push_notifications_popup_title_text">%s Veon не може надіслати сповіщення.</string>
+  <string name="OS_contacts_permissions_popup_CTA_dont_allow_text">Відхилити</string>
+  <string name="OS_contacts_permissions_popup_CTA_OK_text">Дозволити</string>
+  <string name="OS_contacts_permissions_popup_description_text">Ви зможете спілкуватися у чаті та телефонувати друзям.</string>
+  <string name="OS_contacts_permissions_popup_title_text">%s запитує дозвіл на доступ до списку контактів</string>
+  <string name="OS_mirophone_permissions_popup_CTA_dont_allow_text">Відхилити</string>
+  <string name="OS_mirophone_permissions_popup_CTA_OK_text">Дозволити</string>
+  <string name="OS_mirophone_permissions_popup_description_text">Ви зможете телефонувати та відповідати на дзвінки</string>
+  <string name="OS_mirophone_permissions_popup_title_text">%s запитує дозвіл на доступ до мікрофона</string>
+  <string name="OS_push_notifications_permissions_popup_CTA_dont_allow_text">Відхилити</string>
+  <string name="OS_push_notifications_permissions_popup_CTA_OK_text">Дозволити</string>
+  <string name="OS_push_notifications_permissions_popup_description_text">Ви будете отримувати сповіщення про нові повідомлення та дзвінки.</string>
+  <string name="OS_push_notifications_permissions_popup_title_text">%s запитує дозвіл на надсилання сповіщень</string>
+  <!-- Chat -->
+  <string name="OtW-Dz-PWy.text">Відпустіть, щоб скасувати</string>
+  <!-- Onboarding -->
+  <string name="Ozv-pP-2Yq.text">Отримати доступ до інформації вашого облікового запису і підтримки</string>
+  <!-- Chat (pick photo) -->
+  <string name="P5h-xa-brW.text">Оберіть з телефону</string>
+  <!-- Onboarding -->
+  <string name="PFG-ms-YLI.text">ЗАВАНТАЖЕННЯ ДАНИХ...</string>
+  <string name="PG5-GS-AR1.text">Приклад повідомлення.</string>
+  <!-- Voice -->
+  <string name="PHr-1p-fGZ.normalTitle">Завершити дзвінок</string>
+  <!-- Onboarding -->
+  <string name="pJU-XO-FYx.text">Протягом 24 годин ми надішлемо вам сповіщення</string>
+  <!-- Chat -->
+  <string name="Playing">Відтворення</string>
+  <!-- Chat (related to no storage to save media file) -->
+  <string name="Please delete unused files and applications and try again.">Будь ласка, видаліть непотрібні додатки та файли і спробуйте знову.</string>
+  <!-- Voice -->
+  <string name="po5-dP-fMn.text">Дзвоніть безкоштовно</string>
+  <string name="PQW-U5-ex2.text">Збережені пропозиції</string>
+  <!-- Settings > Profile -->
+  <string name="Profile Picture">Фото профіля</string>
+  <!-- Contacts -->
+  <string name="profile.action.accept">Прийняти запит</string>
+  <!-- Contacts -->
+  <string name="profile.action.accept.loading">Приймаємо запрошення ...</string>
+  <!-- Voice -->
+  <string name="profile.action.call">Подзвонити</string>
+  <string name="profile.action.cancel_invite">Скасувати запит дружби</string>
+  <!-- Contacts -->
+  <string name="profile.action.cancel_invite.loading">Скасовуємо запрошення ...</string>
+  <!-- Contacts -->
+  <string name="profile.action.cancel_invite.success">Запрошення скасовано</string>
+  <string name="profile.action.decline">Відхилити запит</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.loading">Відхиляємо запрошення ...</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.success.text">Ви відхилили запит на додавання у контакти від %s</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.success.title">Запит відхилено</string>
+  <!-- Settings > Profile -->
+  <string name="profile.action.edit">Редагувати профіль</string>
+  <string name="profile.action.edit_ab">Змінити</string>
+  <string name="profile.action.edit_avatar.done">Використати фото</string>
+  <string name="profile.action.edit_avatar.hint">Переміщайте та масштабуйте</string>
+  <string name="profile.action.header">Доступні дії</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite">Додати </string>
+  <string name="profile.action.invite.hint">Тримайте зв\'язок у Veon та спілкуйтеся безкоштовно.</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.loading">Надсилаємо запрошення...</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.success">Запрошення надіслано</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.success.alert">Запит на додавання до контактів надіслано.</string>
+  <!-- Contacts -->
+  <string name="profile.action.invited.button">Запит надіслано</string>
+  <plurals name="profile.action.invite_to_veon">
+    <item quantity="other">Надіслати ще одне запрошення</item>
+    <item quantity="zero">Надіслати ще одне запрошення</item>
+  </plurals>
+  <string name="profile.action.invite_to_veon.first">Запросити</string>
+  <string name="profile.action.invite_to_veon.first.hint">Запросіть %s у Veon на безкоштовні чати та дзвінки</string>
+  <string name="profile.action.invite_to_veon.other">Надіслати ще одне запрошення</string>
+  <string name="profile.action.invite_to_veon.other.hint">Запрошення надіслано</string>
+  <string name="profile.action.main.call">Дзвінок Veon </string>
+  <string name="profile.action.main.chat">Чат Veon</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove">Заблокувати контакт</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove.loading">Блокування контакту...</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove.question.action">Заблокувати цей контакт</string>
+  <!-- Settings -->
+  <string name="profile.action.restore">Розблокувати</string>
+  <string name="profile.action.restore.hint">Ви заблокували цей контакт</string>
+  <string name="profile.action.restore.loading">Розблоковуємо контакт</string>
+  <string name="profile.action.restore.loading.multi">Розблоковуємо контакт</string>
+  <string name="profile.action.restore.success">Друга розблоковано</string>
+  <string name="profile.action.restore.success.multi">Друзів розблоковано</string>
+  <!-- Contacts -->
+  <string name="profile.action.share">Поділитися контактом</string>
+  <!-- Onboarding -->
+  <string name="profile.action.share.popup.title">Буде відправлено ​​посилання на профіль Veon цього контакту, а не інформація з контактів телефону.</string>
+  <string name="profile.action.show_location">Поточне місцезнаходження</string>
+  <string name="profile.action.unmute">Сповіщення для розмов вимкнено</string>
+  <!-- Contacts -->
+  <string name="profile.action.view_phone_contact.popup.title">Про всяк випадок хотіли попередити, що зміни, які ви внесете далі, буде застосовано до контактів у вашому телефоні.</string>
+  <string name="profile.call_info.declined_call">Дзвінок відхилено</string>
+  <string name="profile.call_info.header">Інформація про дзвінок</string>
+  <string name="profile.call_info.incoming_call">Вхідний дзвінок (%02d:%02d)</string>
+  <string name="profile.call_info.missed_call">Пропущений виклик</string>
+  <string name="profile.call_info.not_answered">%s не відповідає на дзвінок</string>
+  <string name="profile.call_info.not_answered_call">Пропущений виклик</string>
+  <string name="profile.call_info.outgoing_call">Вихідний дзвінок (%02d:%02d)</string>
+  <!-- Settings > Profile -->
+  <string name="profile.current_location">Поточне місцезнаходження</string>
+  <string name="profile.current_location.address">Приблизна адреса</string>
+  <!-- Contacts -->
+  <string name="profile.default.name">Невідомий</string>
+  <string name="profile.email.not_verified">Підтвердіть email</string>
+  <string name="profile.email.pending">Очікує підтвердження</string>
+  <string name="profile.email.verified">Підтверджений</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.birthday.title">Дата народження</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.female">Жіноча</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.male">Чоловіча</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.title">Стать</string>
+  <!-- Settings -->
+  <string name="profile.extra.header">Профіль користувача Veon</string>
+  <!-- Settings -->
+  <string name="profile.extra.live_in.title">Місто</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.not_selected">Не обрано</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.complicated">Усе складно</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.engaged">Заручений(-на)</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.inrelationship">У стосунках</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.married">Одружений/Заміжня</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.single">Без пари</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.title">Сімейний стан</string>
+  <string name="profile.friend.hint">Спілкуйтесь безкоштовно у Veon</string>
+  <!-- Settings > Profile -->
+  <string name="profile.my.title">Мій профіль</string>
+  <string name="profile.phone_numbers.header">Інші способи зв\'язку</string>
+  <string name="profile.phone_numbers.verified">Перевірений номер</string>
+  <!-- Settings -->
+  <string name="profile.veon_number">Мобільний</string>
+  <!-- Class = "UIButton"; normalTitle = "Go to My Veon"; ObjectID = "PV3-t6-5JC"; -->
+  <string name="PV3-t6-5JC.normalTitle">Перейти до мого акаунту Veon</string>
+  <!-- Onboarding -->
+  <string name="PVM-5p-8BN.normalTitle">Продовжити</string>
+  <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "q2k-v5-Ig6"; -->
+  <string name="q2k-v5-Ig6.normalTitle">Скасувати</string>
+  <!-- Chat -->
+  <string name="Qat-tU-27O.normalTitle">Дивіться пізніше</string>
+  <string name="QCL-YO-rFA.title">Далі</string>
+  <!-- Chat -->
+  <string name="Qcz-yo-1uY.normalTitle">Повідомлення</string>
+  <!-- Class = "UILabel"; text = "Offer collected"; ObjectID = "qdN-ig-wo1"; -->
+  <string name="qdN-ig-wo1.text">Пропозицію збережено</string>
+  <!-- Class = "UITextField"; placeholder = "Email"; ObjectID = "qJB-jd-QhR"; -->
+  <string name="qJB-jd-QhR.placeholder">Email</string>
+  <!-- Settings -->
+  <string name="qSG-d7-Ys8.title">Стиль чату</string>
+  <!-- Settings -->
+  <string name="R4h-7y-AiX.headerTitle">ФОН</string>
+  <!-- Settings -->
+  <string name="rc9-OY-dkh.text">Ви справді хочете видалити свій акаунт? Його неможливо буде відновити.\n</string>
+  <!-- Chat -->
+  <string name="RECENT">НЕЩОДАВНІ</string>
+  <!-- Chat, record audio to send -->
+  <string name="Record">Запис</string>
+  <!-- Chat, record audio to send -->
+  <string name="Recording">Записуємо</string>
+  <!-- Class = "UILabel"; text = "We have sent an Email with a 6-digit code to:"; ObjectID = "REe-hT-1xv"; -->
+  <string name="REe-hT-1xv.text">Ми надіслали email з кодом підтвердження на:</string>
+  <!-- Contacts -->
+  <string name="rk3-Wx-OT2.normalTitle">Канали</string>
+  <!-- Settings > Profile -->
+  <string name="rlM-xT-d1d.text">День народження</string>
+  <!-- Onboarding -->
+  <string name="rva-b5-Ps6.text">Код підтвердження</string>
+  <!-- Settings -->
+  <string name="S9G-H6-5aj.title">Галерея фонових зображень</string>
+  <string name="Sat">Сб.</string>
+  <!-- Chat -->
+  <string name="Select Chat">Оберіть чат</string>
+  <!-- Contacts -->
+  <string name="Select Contact">Оберіть контакт</string>
+  <string name="select_chat.contacts">КОНТАКТИ</string>
+  <string name="select_chat.groups">ГРУПИ</string>
+  <string name="select_chat.recent">НЕЩОДАВНІ</string>
+  <!-- Chat -->
+  <string name="Send logs">Надіслати логи</string>
+  <string name="Server error">Помилка сервера</string>
+  <string name="session.expired.button.login">Увійти</string>
+  <string name="session.expired.message">Після входу ви зможете і далі користуватись Veon.</string>
+  <string name="session.expired.title">Час сеансу вичерпано</string>
+  <!-- Settings -->
+  <string name="settings.chat.background.changed.alert">Фон змінено</string>
+  <!-- Settings -->
+  <string name="settings.chat.chat_style">Стиль чату</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.cancel">Скасувати</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.message">Ви впевнені?</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.ok">Так</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.title">Підтвердження</string>
+  <!-- Settings -->
+  <string name="settings.chat.deleted_contacts">Видалені контакти</string>
+  <!-- Settings > Fonts -->
+  <string name="settings.chat.font.size.big">Великий</string>
+  <!-- Voice -->
+  <string name="settings.chat.mute_all">Вимк. сповіщення для всіх</string>
+  <!-- Settings -->
+  <string name="settings.chat.privacy.section">Конфіденційність</string>
+  <!-- Chat -->
+  <string name="settings.chat.read_receipts">Сповіщення про прочитання</string>
+  <!-- Chat -->
+  <string name="settings.chat.section">ЧАТ</string>
+  <string name="settings.consents.header_cell.info">Статус умов і угод, який ви надали для використання ваших персональних даних.</string>
+  <string name="settings.delete_account.cancel">Скасувати</string>
+  <string name="settings.delete_account.message">Ви впевнені, що бажаєте видалити свій акаунт?</string>
+  <string name="settings.delete_account.ok">Видалити</string>
+  <string name="settings.delete_account.title">Видалити акаунт</string>
+  <!-- Settings -->
+  <string name="settings.general.about">Про додаток</string>
+  <!-- Settings -->
+  <string name="settings.general.change_number">Змінити номер Veon</string>
+  <string name="settings.general.change_password">Змінити пароль</string>
+  <!-- Settings -->
+  <string name="settings.general.faq">Запитання й відповіді</string>
+  <!-- Settings -->
+  <string name="settings.general.section">Ваш акаунт Veon</string>
+  <string name="settings.language.success">Мову змінено</string>
+  <string name="settings.language.title">Змінити мову</string>
+  <!-- Settings -->
+  <string name="settings.logout.cancel">Скасувати</string>
+  <!-- Settings -->
+  <string name="settings.logout.message">Усі ваші дані буде видалено з даного пристрою</string>
+  <!-- Settings -->
+  <string name="settings.logout.ok">Так</string>
+  <!-- Settings -->
+  <string name="settings.logout.title">Ви дійсно бажаєте вийти?</string>
+  <string name="settings.main.about">Про додаток</string>
+  <!-- Settings -->
+  <string name="settings.main.chat">Налаштування чату</string>
+  <string name="settings.main.faq">Допомога</string>
+  <!-- Settings -->
+  <string name="settings.main.general">Загальні налаштування</string>
+  <!-- The `Change language` option in the application settings -->
+  <string name="settings.main.language">Змінити мову</string>
+  <!-- New items for Settings screen. In designed names "Legals & Consents". Previously there was another item with it settings.main.consents and name "Consents manager", but looks like it is now removed. -->
+  <string name="settings.main.legals_and_consents">Правова інформація та  Умови користування</string>
+  <string name="settings.main.opco.unlink">Відв\'язати акаунт %s</string>
+  <!-- Settings -->
+  <string name="settings.main.payment">Способи оплати</string>
+  <!-- Settings -->
+  <string name="settings.main.privacy">Налаштування конфіденційності</string>
+  <!-- Settings > Profile -->
+  <string name="settings.main.profile">Профіль</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.birthday">День народження</string>
+  <!-- Settings -->
+  <string name="settings.privacy.friend.section">Інформація, що доступна лише для ваших контактів</string>
+  <string name="settings.privacy.friend.section.russia">Інше</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.gender">Стать</string>
+  <!-- Chat -->
+  <string name="settings.privacy.last_seen">Востаннє у мережі</string>
+  <!-- Settings -->
+  <string name="settings.privacy.live_in">Місто</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.location_sharing">Показати місцезнаходження</string>
+  <!-- Settings -->
+  <string name="settings.privacy.public.section">Допоможіть людям знайти вас. Ваше ім\'я, місто та фото профілю будуть загальнодоступними.</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.relationship">Сімейний стан</string>
+  <!-- Settings -->
+  <string name="settings.privacy.show_in_discovery">Показувати в загальнодоступному каталозі</string>
+  <!-- Emojis -->
+  <string name="smiles.category.activity">Дії</string>
+  <!-- Emojis -->
+  <string name="smiles.category.extras">Інші</string>
+  <!-- Settings -->
+  <string name="smiles.category.flags">Прапори</string>
+  <!-- Emojis -->
+  <string name="smiles.category.food">Їжа</string>
+  <!-- Emojis -->
+  <string name="smiles.category.modifier">Модифікатор</string>
+  <!-- Emojis -->
+  <string name="smiles.category.nature">Природа</string>
+  <!-- Emojis -->
+  <string name="smiles.category.objects">Предмети</string>
+  <!-- Contacts -->
+  <string name="smiles.category.people">Люди</string>
+  <!-- Emojis -->
+  <string name="smiles.category.regional">Місцеві</string>
+  <!-- Emojis -->
+  <string name="smiles.category.symbols">Символи</string>
+  <!-- Emojis -->
+  <string name="smiles.category.travel">Подорожі</string>
+  <!-- Class = "UILabel"; text = "Settings"; ObjectID = "SPC-kU-2QR"; -->
+  <string name="SPC-kU-2QR.text">Налаштування</string>
+  <!-- Group chat -->
+  <string name="St6-ON-ATb.text">Додати картинку групи (за бажанням)</string>
+  <string name="Sun">Нд.</string>
+  <!-- Onboarding -->
+  <string name="TBD-OW-9fa.normalTitle">Готово</string>
+  <!-- Chat -->
+  <string name="TfP-ti-jj9.normalTitle">Почати спілкуватися</string>
+  <string name="This afternoon">Сьогодні у другій половині дня</string>
+  <string name="This month">Цього місяця</string>
+  <string name="This morning">Сьогодні вранці</string>
+  <string name="This week">Цього тижня</string>
+  <string name="This year">Цього року</string>
+  <string name="Thu">Чт.</string>
+  <string name="Today">Сьогодні</string>
+  <!-- Onboarding -->
+  <string name="Tt3-Wp-djg.normalTitle">Скасувати</string>
+  <string name="Tue">Вт.</string>
+  <!-- Message for device access permissions -->
+  <string name="Turn on access for %@ in Settings-&gt;Privacy-&gt;%@.">Увімкніть доступ до %1$s в Налаштування-&gt; Конфіденційність-&gt;%2$s</string>
+  <!-- Message for device access permissions -->
+  <string name="Turn on Location Services in Settings-&gt;Privacy">Увімкніть Геолокацію в Налаштування-&gt; Конфіденційність</string>
+  <!-- Settings -->
+  <string name="tyl-aU-g7n.title">Налаштування конфіденційності</string>
+  <!-- Class = "UIButton"; normalTitle = "Done"; ObjectID = "TzE-8y-0Kw"; -->
+  <string name="TzE-8y-0Kw.normalTitle">Готово</string>
+  <!-- Onboarding -->
+  <string name="U8j-Mn-H8d.normalTitle">Продовжити</string>
+  <string name="uci-Fg-zau.text">Veon</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="uDK-vk-Fsg.text">Ваш старий номер</string>
+  <!-- Settings > Profile -->
+  <string name="UiU-VE-btG.text">Сімейний стан</string>
+  <!-- Settings -->
+  <string name="UoQ-xb-lCA.text">Оберіть розмір тексту за допомогою курсора</string>
+  <!-- Chat -->
+  <string name="Use image">Оберіть зображення</string>
+  <!-- Settings -->
+  <string name="User info updated">Інформацію про користувача оновлено</string>
+  <string name="User not found">Користувача не знайдено</string>
+  <!-- Onboarding -->
+  <string name="VCj-sE-ptP.text">Прізвище</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_button_CTA">Продовжити</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_description_one_text">VEON запитує дозвіл на доступ до списку контактів, мікрофона та відображення сповіщень</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_description_two_text">Ви зможете надсилати запрошення та телефонувати друзям і отримувати сповіщення, коли вони надсилають вам повідомлення.</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_skip_link">Нагадати пізніше</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_title_text">VEON запитує дозвіл</string>
+  <!-- Resent code: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="verify_email_verification_code_email_resent">Ми надіслали email з кодом підтвердження на:</string>
+  <!-- Verification code screen: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="verify_email_verification_code_email_sent">Ми надіслали email з кодом підтвердження на:</string>
+  <!-- Group chat -->
+  <string name="VH2-V4-meA.placeholder">Уведіть назву групи</string>
+  <!-- Class = "UIButton"; normalTitle = "Get Offer"; ObjectID = "Vs4-Px-xGu"; -->
+  <string name="Vs4-Px-xGu.normalTitle">Отримати пропозицію</string>
+  <!-- Log-in -->
+  <string name="VYD-j2-bgU.text">Ми надіслали код підтвердження на email:</string>
+  <!-- Onboarding -->
+  <string name="VyY-RO-Kzv.text">Зв\'язатися</string>
+  <!-- Chat -->
+  <string name="w2d-Iy-VuJ.title">Новий дзвінок</string>
+  <!-- Voice -->
+  <string name="w3e-TG-8I7.normalTitle">Завершити виклик</string>
+  <!-- Chat -->
+  <string name="w4H-v5-7Ih.text">Обрати з галереї</string>
+  <!-- Chat -->
+  <string name="w6x-KV-Fbm.text">Почніть вводити ім\'я, щоб знайти знайомого у Veon</string>
+  <!-- Settings -->
+  <string name="wan-82-AtV.normalTitle">Увійти знову</string>
+  <string name="wde-1z-5ZO.text">Це дозволяє будь-кому знайти вас і надіслати запит на чат із вами.</string>
+  <!-- Onboarding -->
+  <string name="wDw-8z-gx7.text">Неправильний код, будь ласка, спробуйте ще раз</string>
+  <string name="Wed">Ср.</string>
+  <!-- Onboarding -->
+  <string name="WGQ-cy-o4y.title">Умови користування</string>
+  <!-- Onboarding -->
+  <string name="WGr-aP-NTm.title">Змінити номер</string>
+  <!-- Onboarding -->
+  <string name="wka-KO-Oqi.normalTitle">Скасувати</string>
+  <!-- Settings -->
+  <string name="WnU-7J-42a.title">Оберіть країну</string>
+  <!-- Settings -->
+  <string name="wQC-V2-zJz.normalTitle">Оновити</string>
+  <!-- Voice -->
+  <string name="WRo-zc-1FP.text">Допоможіть нам стати краще</string>
+  <!-- Chat -->
+  <string name="WZu-ei-DxN.normalTitle">НАДІСЛАТИ</string>
+  <!-- Chat -->
+  <string name="X3Z-a8-c1u.title">Деталі чату</string>
+  <!-- Contacts -->
+  <string name="X4e-Re-zNj.normalTitle">ЗАПИТИ</string>
+  <!-- Onboarding -->
+  <string name="Xe2-Gg-9Em.normalTitle">Пропустити</string>
+  <!-- Onboarding -->
+  <string name="Xii-HR-oe2.text">Email</string>
+  <!-- Chat -->
+  <string name="xmW-Cd-jL7.text">Новий</string>
+  <string name="xrG-RV-VzV.text">По вашому запиту нічого не знайдено</string>
+  <!-- Voice -->
+  <string name="XW2-XK-lFW.normalTitle">Завершити виклик</string>
+  <!-- Voice -->
+  <string name="Xw3-CR-eOB.normalTitle">Передзвонити</string>
+  <!-- Onboarding -->
+  <string name="xWL-yC-Dnd.text">Ми імпортували всі ваші контакти. Тепер ви можете використовувати Veon для чатів, звичайних дзвінків або дзвінків через Veon. Запрошуйте своїх друзів до Veon та дізнайтесь, що таке справжнє вільне спілкування</string>
+  <!-- Class = "UILabel"; text = "To complete your verification, please enter this code below."; ObjectID = "Y9w-DT-1Pc"; -->
+  <string name="Y9w-DT-1Pc.text">Щоб  завершити перевірку, будь ласка, введіть код нижче.</string>
+  <string name="Yesterday">Вчора</string>
+  <!-- Settings -->
+  <string name="YJS-0c-MUv.title">Відновити видалене</string>
+  <string name="YoU-Do-RG9.normalTitle">Зрозуміло</string>
+  <!-- Settings -->
+  <string name="Your email client is not configured">Ваш email-клієнт не налаштовано</string>
+  <!-- General message -->
+  <string name="Your SMS client not configured">Ваш SMS-клієнт не налаштовано</string>
+  <!-- Onboarding -->
+  <string name="YyY-zs-nd4.normalTitle">Напишіть повідомлення</string>
+  <!-- Voice -->
+  <string name="z7D-WM-1P0.text">Вхідний дзвінок</string>
+  <!-- Contacts -->
+  <string name="zan-r6-2Ao.normalTitle">ЗАПРОСИТИ</string>
+  <!-- Class = "UILabel"; text = "This app does not have access to your photos or videos."; ObjectID = "zcv-dU-hYl"; -->
+  <string name="zcv-dU-hYl.text">Цей додаток не має доступу до ваших фотографій і відео.</string>
+  <string name="zEW-DN-7Jt.normalTitle">Поділитися історією</string>
+  <!-- Log-in -->
+  <string name="ZjJ-Lj-KLv.text">Ми не знайшли акаунт, прив\'язаний до цього email та номера телефону.</string>
+  <!-- Onboarding -->
+  <string name="zJy-i2-NLW.normalTitle">Продовжити</string>
+  <!-- Chat -->
+  <string name="zLW-gy-agM.title">Оберіть чат</string>
+  <!-- Log in -->
+  <string name="Zmk-07-3ha.text">З поверненням!</string>
+  <!-- Contacts -->
+  <string name="zq2-ep-Dqc.normalTitle">ЗАПРОСИТИ</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="zVy-9D-5xk.text">Ваш номер\nуспішно змінено</string>
+</resources>

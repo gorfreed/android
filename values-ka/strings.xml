@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="%d days ago">%d დღის წინ</string>
+  <string name="%d hours ago">%d საათის წინ</string>
+  <string name="%d minutes ago">%d წუთის წინ</string>
+  <string name="%d months ago">%d თვის წინ</string>
+  <string name="%d seconds ago">%d წამის წინ</string>
+  <string name="%d weeks ago">%d კვირის წინ</string>
+  <string name="%d years ago">%d წლის წინ</string>
+  <!-- Chat -->
+  <string name="%ld hour(s)">%d საათი</string>
+  <!-- Chat -->
+  <string name="%ld hour(s) and %ld minute(s)">%1$d საათი და %2$d წუთი</string>
+  <!-- Chat -->
+  <string name="%ld minute(s)">%d წუთი</string>
+  <!-- Onboarding -->
+  <string name="0do-nN-2js.text">ამჟამად შესაძლებელია ამ ტიპის მხოლოდ ერთი აპლიკაციის დაინსტალირება. </string>
+  <!-- Class = "UIButton"; normalTitle = "Continue"; ObjectID = "0Ga-eo-7Wk"; -->
+  <string name="0Ga-eo-7Wk.normalTitle">გაგრძელება</string>
+  <!-- Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "0Mf-cG-rEc"; -->
+  <string name="0Mf-cG-rEc.text">გამოყენების პირობები</string>
+  <string name="1 day ago">1 დღის წინ</string>
+  <string name="1 hour ago">1 საათის წინ</string>
+  <string name="1 minute ago">1 წუთის წინ</string>
+  <string name="1 month ago">1 თვის წინ</string>
+  <string name="1 second ago">1 წამის წინ</string>
+  <string name="1 week ago">1 კვირის წინ</string>
+  <string name="1 year ago">1 წლის წინ</string>
+  <!-- Chat with Support -->
+  <string name="16p-VI-kKz.text">ბილაინის აბონენტთა მომსახურება</string>
+  <!-- Settings > Profile -->
+  <string name="1YL-bj-hij.text">ქალაქი</string>
+  <!-- Onboarding -->
+  <string name="294-Xg-p9x.normalTitle">გაუქმება</string>
+  <!-- Settings > Profile -->
+  <string name="2A7-9h-fzx.text">სქესი</string>
+  <!-- Contacts -->
+  <string name="2gg-qZ-4My.text">მიუწვდომელი</string>
+  <!-- Chat -->
+  <string name="2kZ-Sc-Dcb.normalTitle">გაგზავნა</string>
+  <!-- Onboarding -->
+  <string name="306-11-EZZ.text">ხილვადობის სტატუსის შეცვლა შესაძლებელია ნებისმიერ დროს</string>
+  <!-- Contacts -->
+  <string name="3f3-D1-3g3.text">მოწვევა გაგზავნილია</string>
+  <!-- Contacts -->
+  <string name="3HP-y9-vMU.text">კოტაქტები Veon-ში</string>
+  <!-- Contacts -->
+  <string name="3jK-Gh-JIb.text">მოწვევა გაგზავნილია</string>
+  <!-- Onboarding -->
+  <string name="3K8-1X-8gL.normalTitle">გაგრძელება</string>
+  <!-- Onboarding -->
+  <string name="3Qh-ah-ZDi.normalTitle">გამოიყენე სხვა ნომერი</string>
+  <!-- Onboarding -->
+  <string name="3YQ-8y-x6w.text">ელ-ფოსტა</string>
+  <!-- Onboarding -->
+  <string name="44H-An-ylt.text">ელ-ფოსტა</string>
+  <!-- Chat -->
+  <string name="4aL-uK-ye6.text">ხაზზე</string>
+  <!-- Onboarding -->
+  <string name="4Ei-kl-Oki.normalTitle">გაგრძელება</string>
+  <string name="4U4-oC-zYa.text">გამოჩნდება საჯარო დირექტორიაში</string>
+  <!-- Settings -->
+  <string name="5iT-x8-F2E.normalTitle">გამოსვლა</string>
+  <!-- Onboarding -->
+  <string name="5Ma-yG-20u.normalTitle">გაუქმება</string>
+  <!-- Onboarding -->
+  <string name="5MC-JQ-p8A.text">ჩეთის\nდაწყება</string>
+  <!-- Contacts -->
+  <string name="5T4-8c-gZv.text">  დამეგობრების თხოვნის მოლოდინი</string>
+  <!-- Voice -->
+  <string name="5YO-NH-0UO.normalTitle">უხმო</string>
+  <!-- Voice -->
+  <string name="66t-AH-g05.text">VEON ზარი</string>
+  <!-- Contacts -->
+  <string name="6D1-Ye-7dr.placeholder">მობილურის ნომერი</string>
+  <!-- Onboarding -->
+  <string name="6Vt-ZC-5eV.text">შენ უკვე დარეგისტრირდი.  ახლა შეგიძლია მოძებნო ან მოიწვიო მეგობრები Veon-ში. </string>
+  <!-- Settings -->
+  <string name="6Xl-UA-ZaM.text">დარწმუნებული ხართ, რომ გსურთ გამოსვლა?</string>
+  <!-- Chat -->
+  <string name="6Yd-tj-hAz.text">საწყის მდგომარეობაში დაბრუნება</string>
+  <string name="7kT-7J-gXT.normalTitle">გაგრძელება</string>
+  <!-- Settings -->
+  <string name="8E9-y6-xMm.text">მობილური</string>
+  <!-- Chat -->
+  <string name="8Rz-Nz-L2V.disabledTitle">გაგზავნა</string>
+  <!-- Chat -->
+  <string name="8Rz-Nz-L2V.normalTitle">გაგზავნა</string>
+  <!-- Class = "UILabel"; text = "Your email is now verified!"; ObjectID = "8sB-zI-iSo"; -->
+  <string name="8sB-zI-iSo.text">შენი ელ-ფოსტა დადასტურებულია</string>
+  <!-- Class = "UILabel"; text = "We’ve also saved this offer\nin your My Veon account."; ObjectID = "963-iF-Bt3"; -->
+  <string name="963-iF-Bt3.text">ეს შეთავაზება ასევე დამახსოვრებულია\nშენი Veon-ის ანგარიშზე. </string>
+  <string name="99C-Rv-OYN.title">გაუქმება</string>
+  <!-- Chat -->
+  <string name="9eP-Wm-i2R.text">დააჭირეთ აქ</string>
+  <!-- Chat -->
+  <string name="9gA-AC-66C.text">ფოტოს გადაღება</string>
+  <!-- Settings > Profile -->
+  <string name="9Jx-C4-cMn.text">მთავარი ფოტო</string>
+  <!-- Chat -->
+  <string name="9MS-3E-ndb.text">შენ ჯერ არ გაქვს კონტაქტები </string>
+  <!-- Settings -->
+  <string name="9te-ny-fg1.title">ხშირად დასმული კითხვები</string>
+  <string name="A minute ago">ერთი წუთის წინ</string>
+  <!-- Class = "UILabel"; text = "We will send a verification code to your email. You can verify your email by entering this code in the next step."; ObjectID = "A5U-Lj-RK2"; -->
+  <string name="A5U-Lj-RK2.text">ელ-ფოსტის საშუალებით მიიღებ ვერიფიკაციის კოდს. მომდევნო საფეხურზე, ამ კოდის შეყვანით შეგიძლია დაადასტურო შენი ელ-ფოსტის მისამართი. </string>
+  <!-- Settings -->
+  <string name="ABJ-Rh-6qr.title">რუკა</string>
+  <!-- Settings -->
+  <string name="about.libraries.title">ლიცენზიები</string>
+  <!-- Settings -->
+  <string name="about.version.app">ვერსია %1$s %2$s</string>
+  <!-- Settings -->
+  <string name="about.version.server">სერვერის ვერსია: %s</string>
+  <!-- Settings -->
+  <string name="aCH-uv-lcS.text">მობილური</string>
+  <string name="AgC-eL-Hgc.title">ღილაკი</string>
+  <!-- Chat -->
+  <string name="Agent">აგენტი</string>
+  <!-- Chat -->
+  <string name="aGi-0R-7L8.placeholder">ძებნა</string>
+  <!-- Chat -->
+  <string name="ai7-au-cJy.text">გაუქმება</string>
+  <string name="An hour ago">ერთი საათის წინ</string>
+  <!-- Class = "UILabel"; text = "Invite sent"; ObjectID = "An1-dl-QIv"; -->
+  <string name="An1-dl-QIv.text">მოწვევა გაგზავნილია</string>
+  <!-- Settings > Profile -->
+  <string name="ArV-xL-Qmu.text">დაბადების დღე</string>
+  <!-- Voice -->
+  <string name="asm-qs-2yJ.normalTitle">ხმამაღალი</string>
+  <!-- Settings -->
+  <string name="B1b-0g-a6f.headerTitle">ფონტი</string>
+  <!-- Contacts -->
+  <string name="bH7-vI-b1l.normalTitle">კონტაქტები</string>
+  <!-- Settings > Profile -->
+  <string name="BMl-FH-1Fg.title">პროფილი</string>
+  <!-- Settings > Profile -->
+  <string name="bTC-gX-Dba.text">ქვეყანა</string>
+  <!-- Chat -->
+  <string name="buw-Kv-wxo.text">საწყის მდგომარეობაში დაბრუნება</string>
+  <!-- Settings -->
+  <string name="bxb-Q9-wyk.title">შესახებ</string>
+  <!-- Voice -->
+  <string name="ByL-15-Rmn.text">უხმო რეჟიმი</string>
+  <!-- Contacts -->
+  <string name="C2X-tU-Ene.title">მეგობრების ძიება</string>
+  <string name="call.cellular">მობილური ზარი</string>
+  <string name="call.cellular.description">შესაძლოა ჩამოგეჭრას ოპერატორის ტარიფის შესაბამისი თანხა</string>
+  <!-- Voice -->
+  <string name="call.end.cause">შიდა შეცდომა</string>
+  <!-- Voice -->
+  <string name="call.end.cause.answered">შენ ზარს უპასუხეს სხვა მოწყობილობიდან</string>
+  <!-- Voice -->
+  <string name="call.end.cause.busy">ზარის ადრესატი დაკავებულია</string>
+  <string name="call.end.cause.connection_lost.my_side">კავშირი დაიკარგა. გადაამოწმე ინტერნეტ კავშირი და ცადე ხელახლა.</string>
+  <string name="call.end.cause.connection_lost.other_side">%s-მ(ა) ინტერნეტ-კავშირი დაკარგა. დარეკე მოგვიანებით.</string>
+  <string name="call.end.cause.connection_lost.other_side_offline">%s-ს არ აქვს ინტერნეტ-კავშირი. დარეკე მოგვიანებით.</string>
+  <!-- Voice -->
+  <string name="call.end.cause.declined">შენ ზარს უპასუხეს სხვა მოწყობილობიდან</string>
+  <!-- Voice -->
+  <string name="call.end.cause.incorrect_response">სერვერთან დაკავშირების ხარვეზი</string>
+  <!-- Voice -->
+  <string name="call.end.cause.malformed_packet">ხარვეზი შემომავალ ზარზე</string>
+  <!-- Voice -->
+  <string name="call.end.cause.not_answered">ადრესატმა არ უპასუხა ზარს</string>
+  <!-- Voice -->
+  <string name="call.end.cause.unknow">უცნობი შეცდომა</string>
+  <!-- Voice -->
+  <string name="call.end.cause.user_declined">ზარის ადრესატი დაკავებულია</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.audio.play">ზარის განხორციელებისას შეუძლებელია აუდიო ფაილის მოსმენა</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.audio.record">ზარის მიმდინარეობისას ვერ ჩაიწერ</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.call">ზარის მიმდინარეობისას მეორე ზარს ვერ განახორციელებ</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.gsm_call">სატელეფონო ზარის მიმდინარეობისას მეორე ზარს ვერ განახორციელებ</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.video.play">ზარის განხორციელებისას შეუძლებელია ვიდეოს ნახვა</string>
+  <string name="call.history.no_sync.alert.button.no">არა</string>
+  <string name="call.history.no_sync.alert.button.yes">დიახ</string>
+  <string name="call.history.no_sync.alert.text">Veon-ით დარეკვა მარტივია. გადმოიტანე შენი ტელეფონის კონტაქტები და დაიწყე საუბარი. </string>
+  <string name="call.history.no_sync.alert.title">დაიწყე სარგებლობა Veon ზარით</string>
+  <string name="call.history.placeholder.has_calls.no_sync.text"><a>სატელეფონო ცნობარის სინქრონიზება</a>\nყოველთვის საქმის კურსში. ყოველთვის ხაზზე.</string>
+  <string name="call.history.placeholder.no_calls.has_contacts.text">განახორციელე პირველი ზარი</string>
+  <string name="call.history.placeholder.no_calls.has_contacts.title">მისალმების\nდროა!</string>
+  <string name="call.history.placeholder.no_calls.no_contacts.text"><a>მოძებნე მეგობრები</a>\nდაიწყე საუბარი</string>
+  <string name="call.history.placeholder.no_calls.no_contacts.title">მოიწვიე მეგობრები.\nიყავი ხაზზე.</string>
+  <string name="call.history.placeholder.no_calls.no_sync.text"><a>სატელეფონო ცნობარის სინქრონიზება</a>\nდაიწყე საუბარი.</string>
+  <string name="call.history.placeholder.no_calls.no_sync.title">მოიწვიე მეგობრები.\nიყავი ხაზზე.</string>
+  <!-- Voice -->
+  <string name="call.hold.hold">%s-თან ზარის ლოდინის რეჟიმში გადაყვანა</string>
+  <!-- Voice -->
+  <string name="call.hold.reject">%s-თან ზარის დასრულება</string>
+  <!-- Voice -->
+  <string name="call.popup.gsm.text">მობილური ოპერატორის ქსელის გამოყენებით განხორციელებული ზარისთვის თანხმა ჩამოიჭრება სატარიფო გეგმის შესაბამისად. </string>
+  <!-- Voice -->
+  <string name="call.popup.gsm.title">ზარი მობილური ოპერატორის ქსელის გამოყენებით</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.text">VoIP ტექნოლოგიით მეგობრებთან უფასოდ დასარეკად საჭიროა მობილური ინტერნეტი, რომელიც შესაძლოა დაიხარჯოს ბალანსიდან</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.title">VEON ზარი</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.wind.text">VoIP ტექნოლოგიით მეგობრებთან უფასოდ დასარეკად საჭიროა მობილური ინტერნეტი</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.wind.title">VEON ზარი</string>
+  <string name="call.rate.excellent">შესანიშნავი</string>
+  <string name="call.rate.fair">ნორმალური</string>
+  <string name="call.rate.good">კარგი</string>
+  <string name="call.rate.poor">ცუდი</string>
+  <string name="call.rate.very_poor">ძალიან ცუდი</string>
+  <string name="call.select_phone.title">%s-თან დარეკვა</string>
+  <!-- Voice -->
+  <string name="call.state.accepted">მიღებული ზარი</string>
+  <!-- Voice -->
+  <string name="call.state.calling">ირეკება...</string>
+  <!-- Voice -->
+  <string name="call.state.connecting">დაკავშირება</string>
+  <!-- Voice -->
+  <string name="call.state.ended">VEON ზარი დასრულდა</string>
+  <!-- Voice -->
+  <string name="call.state.incoming_call">შემომავალი VEON ზარი...</string>
+  <!-- Voice -->
+  <string name="call.state.in_call">გამავალი VEON ზარი...</string>
+  <!-- Voice -->
+  <string name="call.state.on_hold">VoIP ზარი მოლოდინის რეჟიმში</string>
+  <!-- Voice -->
+  <string name="call.state.reconnecting">ხელახალი დაკავშირება...</string>
+  <string name="call.veon_out.coach_mark.done">გასაგებია</string>
+  <string name="call.veon_out.coach_mark.text">უკვე შესაძლებელია 100 უფასო წუთის მეშვეობით ადგილობრივ ნომრებზე დარეკვა.\n\nაირჩიე ნომერი და დააჭირე „VEON-ს გარე“-ს.</string>
+  <string name="call.veon_out.coach_mark.title">სიახლე! Veon-ს გარე ზარი</string>
+  <string name="call.veon_out.first_time.text">ზარის განსახორციელებლად, ამ ნომერს წინ დაემატება კოდი (%s).</string>
+  <string name="call.veon_out.first_time.title">Veon-ს გარე ზარის განხორციელება</string>
+  <!-- Voice -->
+  <string name="call.voip">VEON ზარი</string>
+  <string name="call.voip.description">უფასო ინტერნეტ-ზარი</string>
+  <string name="call.voip.offline">ინტერნეტ კავშირის გარეშე შეუძლებელია ზარების განხორციელება  </string>
+  <!-- Chat -->
+  <string name="Camera">კამერა</string>
+  <!-- Chat -->
+  <string name="Can not connect to the server">სერვერთან დაკავშირება</string>
+  <!-- Chat -->
+  <string name="Can not delete messages">შეტყობინებების წაშლა შეუძლებელია</string>
+  <!-- Chat -->
+  <string name="Can not play video">ვიდეოს ჩატვირთვა ვერ ხერხდება</string>
+  <!-- Chat -->
+  <string name="Can not prepare video">ვიდეოს ატვირთვა ვერ ხერხდება</string>
+  <!-- Chat -->
+  <string name="Can not send emails">შეუძლებელია ელ-ფოსტით წერილის გაგზავნა</string>
+  <!-- Chat -->
+  <string name="Can not send logs">ჩანაწერების გაგზავნა შეუძლებელია</string>
+  <!-- Chat -->
+  <string name="Can not send text messages">შეტყობინებების გაგზავნა ვერ ხერხდება</string>
+  <!-- Settings -->
+  <string name="Can not update user info">მომხმარებლის ინფოს განახლება ვერ ხერხდება</string>
+  <!-- Settings -->
+  <string name="cancel_account.hint">შენი ანგარიშის მონაცემები წაშლილია. შეგიძლია გახვიდე აპლიკაციიდან, თუ აღარ გსურს Veon-ით სარგებლობა. Veon-ში დაბრუნებისას ხელახლა გაივლი რეგისტრაციის პროცესს და შექმნი ახალ ანგარიშს. </string>
+  <!-- Settings -->
+  <string name="cancel_account.success">ანგარიში წაშლილია</string>
+  <!-- Chat -->
+  <string name="Caption">წარწერის დამატება</string>
+  <!-- Class = "UIButton"; normalTitle = "Connect"; ObjectID = "cfs-rw-DEh"; -->
+  <string name="cfs-rw-DEh.normalTitle">დამატება</string>
+  <!-- Onboarding -->
+  <string name="change_number.resend_code.p1">ჯერ არ მიგიღია კოდი?</string>
+  <!-- Onboarding -->
+  <string name="change_number.resend_code.p2">კოდის ხელახლა მიღება</string>
+  <!-- Group chat -->
+  <string name="Chat name updated">ჩეთის სახელი შეცვლილია</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members">მომხმარებლის დამატება ჯგუფში</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members.error">მომხმარებლების დამატება ვერ ხერხდება</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members.loading">ჯგუფში დამატება</string>
+  <!-- Chat -->
+  <string name="chat.action.add_to_contacts">კონტაქტების დამატება</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group">ჯგუფიდან წაშლა</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group.error">ჯგუფიდან გაგდება ვერ ხერხდება</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group.loading">წევრის ჯგუფიდან წაშლა...</string>
+  <!-- Group chat -->
+  <string name="chat.action.leave_group">ჯგუფის დატოვება</string>
+  <!-- Chat -->
+  <string name="chat.action.leave_group.error">ჯგუფის დატოვება ვერ ხერხდება</string>
+  <!-- Group chat -->
+  <string name="chat.action.leave_group.loading">ჯგუფის დატოვება</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.error">სახელის შეცვლა ვერ ხერხდება</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.error.description">გამოტოვებული ზარი</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.loading">სახელის შეცვლა</string>
+  <!-- Chat -->
+  <string name="chat.action.new_call">ზარის წამოწყება</string>
+  <!-- Chat -->
+  <string name="chat.action.new_chat">ჩეთის წამოწყება</string>
+  <!-- Group chat -->
+  <string name="chat.action.new_group_chat">ახალი ჩეთ-ჯგუფის დაწყება</string>
+  <!-- Chat -->
+  <string name="chat.action.start_new_chat">ჩეთის დაწყება</string>
+  <!-- Chat -->
+  <string name="chat.action.start_new_chat_ex">ახალი ჩეთ-ჯგუფის დაწყება %s-თან</string>
+  <!-- Chat -->
+  <string name="chat.action.view_profile">ანგარიშის ნახვა</string>
+  <!-- Chat -->
+  <string name="chat.call.failed">დარეკვის მცდელობა</string>
+  <!-- Chat -->
+  <string name="chat.call.incoming">შემომავალი ზარი</string>
+  <!-- Chat -->
+  <string name="chat.call.missed">გამოტოვებული ზარი</string>
+  <!-- Chat -->
+  <string name="chat.call.outgoing">გამავალი ზარი</string>
+  <!-- Chat -->
+  <string name="chat.call.time">%d წუთი და %d წამი</string>
+  <!-- Chat -->
+  <string name="chat.call.time.0min">%d წამი</string>
+  <!-- Chat -->
+  <string name="chat.call.time.1min">1 წუთი და %d წამი</string>
+  <!-- Chat -->
+  <string name="chat.call_history.declined_call">უარყოფილი ზარი</string>
+  <!-- Chat -->
+  <string name="chat.call_history.incoming_call">შემომავალი ზარი (%02d:%02d)</string>
+  <!-- Chat -->
+  <string name="chat.call_history.missed_call">გამოტოვებული ზარი</string>
+  <!-- Chat -->
+  <string name="chat.call_history.not_answered">%s-მა ზარს არ უპასუხა</string>
+  <!-- Chat -->
+  <string name="chat.call_history.not_answered_call">ზარს არ უპასუხეს</string>
+  <!-- Chat -->
+  <string name="chat.call_history.outgoing_call">გამავალი ზარი (%02d:%02d)</string>
+  <string name="chat.call_log.type.default">Veon ზარი</string>
+  <!-- Channel chats -->
+  <string name="chat.channel.daily">ყოველდღიური</string>
+  <!-- Chat -->
+  <string name="chat.create.error.title">ჯგუფის შექმნა შეუძლებელია</string>
+  <!-- Chat -->
+  <string name="chat.create.loading">იქმნება</string>
+  <!-- Chat -->
+  <string name="chat.create_group">ახალი ჯგუფის შექმნა</string>
+  <!-- Chat -->
+  <string name="chat.error.not_send_message">არ გაიგზავნა. ხელახალი გაგზავნისთვის დააჭირე აქ. </string>
+  <!-- Chat -->
+  <string name="chat.forward.to_group">გსურს ეს შეტყობნება გადაუგზავნო %s ჯგუფს?</string>
+  <!-- Chat -->
+  <string name="chat.forward.to_person">გსურს შეტყობინება დაუფორვარდო %s-ს?</string>
+  <string name="chat.group.name">ჯგუფის სახელი</string>
+  <string name="chat.index.read.title">წაკითხულად მონიშვნა</string>
+  <!-- Group chat -->
+  <string name="chat.members">წევრები</string>
+  <string name="chat.members.plural">%i ჯგუფის წევრები</string>
+  <string name="chat.members.singular">%i ჯგუფის წევრი</string>
+  <!-- Group chat -->
+  <string name="chat.menu.add_members">წევრების დამატება ჯგუფში</string>
+  <!-- Chat -->
+  <string name="chat.menu.clear_chat">ჩათიდან მიმოწერის წაშლა</string>
+  <!-- Chat -->
+  <string name="chat.menu.faq">ხშირად დასმული კითხვები</string>
+  <!-- Group chat -->
+  <string name="chat.menu.leave_group">ჯგუფის დატოვება</string>
+  <!-- Chat -->
+  <string name="chat.menu.search">ძებნა ჩათის შიგნით</string>
+  <string name="chat.message.attachment.contact">კონტაქტის გაზიარება</string>
+  <string name="chat.message.attachment.media">ფოტოს/ვიდეოს გაგზავნა</string>
+  <string name="chat.message.attachment.voice">ხმოვანი შეტყობინების ჩაწერა</string>
+  <!-- Onboarding -->
+  <string name="chat.message.placeholder">დაიწყე შეტყობინების წერა აქ</string>
+  <!-- Contacts -->
+  <string name="chat.modifications.action.accept_friend">დამეგობრების თხოვნას დათანხმდა</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user">%s დამატებულია ჯგუფში</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user.from_me">%s დამატებულია ჯგუფში</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user.you">დაგამატა ჯგუფში</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.agent_join">შემოვიდა ჩათში</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.agent_left">გავიდა ჩათიდან</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group">შექმნა ჯგუფი %d წევრით</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group.many.from_me">შექმნა ჯგუფი %d წევრით</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group.one.from_me">შექმნა ჯგუფი %d წევრით</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.me">წაგშალეს ჯგუფიდან</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.user">%s-ის გაგდება ჯგუფიდან</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.user.from_me">%s-ის გაგდება ჯგუფიდან</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.yourself">დატოვა ჯგუფი</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.yourself.from_me">დატოვა ჯგუფი</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.session.end">სესია დასრულებულია</string>
+  <!-- Chat -->
+  <string name="chat.modifications.you">შენ</string>
+  <string name="chat.most_recent">ბოლოს ნანახი</string>
+  <!-- Chat -->
+  <string name="chat.new.search_placeholder.new">იპოვე ახალი კონტაქტები Veon-ში</string>
+  <string name="chat.offer.coming_soon">გაზიარებული სიახლის ჩვენება ჯერჯერობით ვერ ხერხდება. ჩვენ მას უახლოეს დროში მოგაწვდით!</string>
+  <!-- Chat with Support -->
+  <string name="chat.popup.charge.text">თუ ხარ ბილაინის აბონენტი და სარგებლობ მობილური ინტერნეტით, Veon ჩეთით სარგებლობისას შენი მობილური ინტერნეტი არ დაიხარჯება.\nთუ სხვა ოპერატორის აბონენტი ხარ, შესაძლოა, მობილური ინტერნეტი თანხა ჩამოგეჭრათ, ამ ოპერატორის ტარიფის შესაბამისად.\nდამატებითი ინფორმაციისთვის ეწვიე ვებ გვერდს veon.ge</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.title">Veon ჩეთი</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.wind.text">მეგობრებთან უფასო ჩეთით სარგებლობისთვის საჭიროა ინტერნეტთან წვდომა</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.wind.title">Veon ჩეთი</string>
+  <!-- Chat -->
+  <string name="chat.sending">იგზავნება</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.error.himself">კონტაქტს ვერ გაუგზავნი საკუთარ საკონტაქტო ინფორმაციას</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.to_group">გსურს, მისი საკონტაქტო ინფორმაცია გაუზიარო ჯგუფს %s </string>
+  <!-- Chat -->
+  <string name="chat.share_contact.to_person">გსურს, მისი საკონტაქტო ინფორმაცია გაუზიარო %s-ს?</string>
+  <string name="chat.sms_out.joined.text">უკვე შეგიძლია დატკბე შეუზღუდავი ჩეთით, ყოველგვარი რეკლამის გარეშე!“</string>
+  <string name="chat.sms_out.joined.title">მაგარია! VEON-ს %s შემოუერთდა.</string>
+  <string name="chat.sms_out.placeholder">დაწერე უფასო SMS...</string>
+  <string name="chat.sms_out.replies.info">ამ კონტაქტის პასუხები გამოჩნდება შენ SMS მიმოწერაში.</string>
+  <string name="chat.sms_out.start.text">ეს კონტაქტი მიიღებს SMS-ს შენი ნომრიდან, რომელზეც VEON-ში მოწვევა იქნება მიბმული</string>
+  <string name="chat.sms_out.start.title">გააგზავნე უფასო SMS</string>
+  <string name="chat.sms_out.tagline">ჩამოტვირთე VEON აპი, რათა ისარგებლო უფასო ზარებით და ჩეთით %s</string>
+  <!-- Chat -->
+  <string name="chat.start_call">ზარის წამოწყება</string>
+  <!-- Chat -->
+  <string name="chat.title.many_users.suffix"> და %d სხვა</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.ok">მოჭრა</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.text">შემცირდება %d სიმბოლოთი</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.title">შეტყობინება ძალიან გრძელია</string>
+  <!-- Chat -->
+  <string name="chat.warning.not_member">ამ ჯგუფის წევრი აღარ ხარ</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.fab_hint">საუბრის დაწყება</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.no_contacts.p1">მეგობრების ძიება</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.no_contacts.p2">Veon-ით სარგებლობის დასაწყებად</string>
+  <!-- Chat -->
+  <string name="chat_index.message.audio.from">შენ გააგზავნე აუდიო შეტყობინება</string>
+  <!-- Chat -->
+  <string name="chat_index.message.audio.to">შენ მიიღე აუდიო შეტყობინება</string>
+  <!-- Chat -->
+  <string name="chat_index.message.contact.from">(%s) კონტაქტი გაგზავნილია</string>
+  <!-- Chat -->
+  <string name="chat_index.message.contact.to">გამოგიგზავნა კონტაქტი (%s)</string>
+  <!-- Chat -->
+  <string name="chat_index.message.image.from">ფოტო გაგზავნილია</string>
+  <!-- Chat -->
+  <string name="chat_index.message.image.to">გამოგიგზავნა ფოტო</string>
+  <string name="chat_index.message.offer">გააზიარა ამბავი</string>
+  <string name="chat_index.message.offer_from_me">გააზიარა ამბავი</string>
+  <!-- Chat -->
+  <string name="chat_index.message.video.from">ვიდეო გაგზავნილია</string>
+  <!-- Chat -->
+  <string name="chat_index.message.video.to">გამოგიგზავნა ვიდეო</string>
+  <string name="chat_index.no_sync.alert.button.no">არა</string>
+  <string name="chat_index.no_sync.alert.button.yes">დიახ</string>
+  <string name="chat_index.no_sync.alert.text">Veon ჩეთი მარტივია. გადმოიტანე შენი ტელეფონის კონტაქტები და დაიწყე მიმოწერა. </string>
+  <string name="chat_index.no_sync.alert.title">კონტაქტების სინქრონიზაცია</string>
+  <string name="chat_index.placeholder.has_chats.no_sync.text"><a>სატელეფონო ცნობარის სინქრონიზაცია</a>\nდაიწყე საუბარი.</string>
+  <string name="chat_index.placeholder.no_chats.has_contacts.title">ულიმიტო ჩათი</string>
+  <string name="chat_index.placeholder.no_chats.no_contacts.text"><a>მოძებნე მეგობრები</a>\nდაიწყე მიმოწერა</string>
+  <string name="chat_index.placeholder.no_chats.no_contacts.title">მოიწვიე მეგობრები. \nგაუზიარე მნიშვნელოვანი ამბები.</string>
+  <string name="chat_index.placeholder.no_chats.no_sync.text"><a>სატელეფონო ცნობარის სინქრონიზაცია</a>\nდაიწყე საუბარი.</string>
+  <string name="chat_index.placeholder.no_chats.no_sync.title">მოიწვიე მეგობრები. \nგაუზიარე მნიშვნელოვანი ამბები.</string>
+  <!-- Chat -->
+  <string name="chat_index.typing">%s გწერს...</string>
+  <!-- Chat -->
+  <string name="check your connection">შეამოწმე ინტერნეტთან წვდომა</string>
+  <!-- Log-in -->
+  <string name="ckG-7G-wfN.text">ანგარიშზე წვდომის მისაღებად შეიყვანე ეს კოდი ქვემოთ მითითებულ ველში:</string>
+  <!-- Chat -->
+  <string name="Clear all messages?">ყველა შეტყობინების წაშლა</string>
+  <!-- Chat -->
+  <string name="Clearing...">იშლება...</string>
+  <!-- Class = "UILabel"; text = "You can enable access in Privacy Settings."; ObjectID = "clU-J7-sTr"; -->
+  <string name="clU-J7-sTr.text">აპლიკაციაზე წვდომის გახსნა შესაძლებელია უსაფრთხოების პარამეტრებიდან.</string>
+  <string name="coach_note_verify_email_button">დადასტურება</string>
+  <string name="coach_note_verify_email_confirmed">ელ-ფოსტა დადასტურებულია</string>
+  <!-- Coach note - Initial: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="coach_note_verify_email_main">ელ-ფოსტის საშუალებით მიიღებ ვერიფიკაციის კოდს. მომდევნო საფეხურზე, ამ კოდის შეყვანით შეგიძლია დაადასტურო შენი ელ-ფოსტის მისამართი.</string>
+  <!-- Second part of text in Coach Note - Initial -->
+  <string name="coach_note_verify_email_second">ელ-ფოსტის დადასტურება გაძლევს გარანტიას რომ მხოლოდ შენ გექნება წვდომა საკუთარ ანგარიშზე, თუნდაც ტელეფონის, ან ნომრის შეცვლის (დაკარგვის) შემთხვევაში.</string>
+  <string name="coach_note_verify_email_title">ელ-ფოსტის დადასტურება</string>
+  <string name="common.active.last.date">ბოლოს ონლაინ იყო %s</string>
+  <string name="common.active.last.day"> ბოლოს ონლაინ იყო %s</string>
+  <string name="common.active.last.min"> ბოლოს ონლაინ იყო %s</string>
+  <string name="common.active.last.time"> ბოლოს ონლაინ იყო %s</string>
+  <string name="common.active.last.yesterday"> ბოლოს ონლაინ იყო გუშინ</string>
+  <string name="common.active.now">ონლაინ</string>
+  <!-- Chat -->
+  <string name="common.agree">თანხმობა</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.choose">ფოტოს არჩევა გალერეიდან</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.delete">ფოტოს წაშლა</string>
+  <!-- Settings -->
+  <string name="common.avatar.fb">Facebook-ის ფოტოს გამოყენება</string>
+  <!-- Settings -->
+  <string name="common.avatar.select">ფოტოს არჩევა</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.take">ფოტოს გადაღება</string>
+  <!-- Chat -->
+  <string name="common.cancel">გაუქმება</string>
+  <string name="common.confirm.navigation.cancel">გაუქმება</string>
+  <string name="common.confirm.navigation.ok">გაგრძელება</string>
+  <string name="common.confirm.navigation.text">ეს ბმული გაიხსნება ჩვეულებრივ საძიებო ვებ გვერდზე და ამაში შესაძლოა მობილური ინტერნეტი დაგეხარჯოს. </string>
+  <string name="common.confirm.navigation.title">ვადასტურებ ნავიგაციას</string>
+  <!-- Chat -->
+  <string name="common.copy">დაკოპირება</string>
+  <!-- Chat -->
+  <string name="common.date.past_date">%s</string>
+  <!-- Chat -->
+  <string name="common.error">შეცდომა</string>
+  <!-- Chat -->
+  <string name="common.error.internal">უცნობი შეცდომა</string>
+  <!-- Chat -->
+  <string name="common.just_now">ახლახანს</string>
+  <!-- Chat -->
+  <string name="common.last_seen">ბოლო აქტივობა %s</string>
+  <!-- Chat -->
+  <string name="common.loading">იტვირთება</string>
+  <!-- Chat -->
+  <string name="common.next">შემდეგი</string>
+  <!-- Chat -->
+  <string name="common.ok">ვეთანხმები</string>
+  <!-- Chat -->
+  <string name="common.ok.continue">ვეთანხმები, გაგრძელება</string>
+  <!-- Contacts -->
+  <string name="common.online">ხაზზე</string>
+  <!-- Contacts -->
+  <string name="common.refresh.done.contacts.found">%d ახალი კონტაქტი</string>
+  <!-- Contacts -->
+  <string name="common.refresh.done.contacts.none">არცერთი ახალი კონტაქტი</string>
+  <!-- Contacts -->
+  <string name="common.refresh.in_progress.contacts">კონტაქტების განახლება</string>
+  <!-- Chat -->
+  <string name="common.refresh.pull">განსაახლებლად ჩამოწიეთ ქვემოთ </string>
+  <!-- Chat -->
+  <string name="common.refresh.release">განსაახლებლად აუშვით ხელი</string>
+  <!-- Chat -->
+  <string name="common.save">შენახვა</string>
+  <!-- Chat -->
+  <string name="common.save.loading">შენახვა...</string>
+  <!-- Chat -->
+  <string name="common.send">გაგზავნა</string>
+  <string name="common.sent">გაიგზავნა</string>
+  <!-- Chat -->
+  <string name="common.today">დღეს</string>
+  <!-- Chat -->
+  <string name="common.wating">გთხოვთ დაიცადოთ</string>
+  <!-- Chat -->
+  <string name="common.yesterday">გუშინ</string>
+  <!-- Chat -->
+  <string name="common.you">შენ</string>
+  <!-- Contacts -->
+  <string name="Contacts">კონტაქტები</string>
+  <string name="contacts.invite.hint.button">მეგობრების მოწვევა</string>
+  <string name="contacts.invite.hint.text">მოიწვიე 5 საუკეთესო მეგობარი კონტაქტებიდან და მიიღე საჩუქარი თითოეული მათგანისგან</string>
+  <string name="contacts.invite.hint.title">Veon მეგობრებთან ერთად უკეთესია \nმოიწვიე ისინი ახლავე</string>
+  <string name="contacts.invite.success.text">ჩვენ გაცნობებთ, როცა კონაქტი(ები) Veon-ს შემოუერთდება(იან).</string>
+  <string name="contacts.invite.success.title">მოწვევა გაეგზავნა კონტაქტს(ებს) %s</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p1">ხალხის ძიება</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p2">რომლებსაც იცნობ VipCom-დან, ან </string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p3">კონტაქტების სინქრონიზაცია ტელეფონიდან</string>
+  <string name="contacts.placeholder.has_contacts.no_sync.text">კონტაქტების სინქრონიზაცია ტელეფონიდან\nსაუბრის დასაწყებად</string>
+  <string name="contacts.placeholder.no_contacts.text"><a>სატელეფონო ცნობარის სინქრონიზაცია</a>\nდაიწყე საუბარი.</string>
+  <string name="contacts.placeholder.no_contacts.title">მოიწვიე მეგობრები.\nარ გამოტოვო ახალი ამბები.</string>
+  <string name="contacts.sections.ab">კონტაქტები</string>
+  <string name="contacts.sections.outside_veon">VEON-ს გარე კონტაქტები</string>
+  <!-- Contacts -->
+  <string name="contacts.sections.requests">დამეგობრების მოთხოვნები</string>
+  <string name="contacts.sections.suggested">ადამიანები, ვისაც შესაძლოა იცნობ</string>
+  <string name="contacts.sections.veon">Veon კონტაქტები</string>
+  <string name="contacts.view_more.less">დამალვა</string>
+  <string name="contacts.view_more.more">მიჩვენე მეტი</string>
+  <string name="contacts.view_more.requests.counts">%d-დან %d მოთხოვნა</string>
+  <string name="contacts.view_more.suggestions.counts">%d შეთავაზება %d-დან</string>
+  <!-- Chat -->
+  <string name="Couldn't load. Tap to retry">არ ჩაიტვირთა, განმეორებით სცადე ჩატვირთვა</string>
+  <!-- Chat -->
+  <string name="Create">შექმნა</string>
+  <!-- Chat -->
+  <string name="Created by %@ on %@">შქმნილია %1$sის მიერ, %2$s</string>
+  <!-- Settings -->
+  <string name="Credit Card">საბანკო ბარათი</string>
+  <!-- Voice -->
+  <string name="cRl-i8-KnZ.title">ზარების ისტორია</string>
+  <!-- Settings -->
+  <string name="CSt-gJ-L4f.text">ქალაქი</string>
+  <!-- Settings -->
+  <string name="ctN-bL-TuC.title">პარამეტრები</string>
+  <!-- Settings, Onboarding -->
+  <string name="Ctr-a9-JRd.text">სახელი</string>
+  <!-- Onboarding -->
+  <string name="CXC-Ux-dZn.text">გაუქმება</string>
+  <!-- Group chat -->
+  <string name="d1R-fa-fo1.text">ამ ჯგუფში შეტყობინების გაგზავნა შეუძლებელია, რადგან აღარ ხარ მისი წევრი</string>
+  <!-- Settings > Profile -->
+  <string name="D3i-kU-TX4.normalTitle">მთავარი ფოტოს დაყენება</string>
+  <!-- Onboarding -->
+  <string name="D7k-jb-nFO.text">დადასტურების პროცესის დასასრულებლად შეიყვანე ეს კოდი ქვემოთ მითითებულ ველში.</string>
+  <!-- Class = "UIButton"; normalTitle = "Verify Email"; ObjectID = "DdU-FZ-tTJ"; -->
+  <string name="DdU-FZ-tTJ.normalTitle">ელ-ფოსტის დადასტურება</string>
+  <!-- Chat -->
+  <string name="Delete">წაშლა</string>
+  <!-- Chat -->
+  <string name="delete_done_btn">წაშლა</string>
+  <!-- Chat -->
+  <string name="Deleting...">იშლება</string>
+  <!-- Onboarding -->
+  <string name="Done">შესრულებულია</string>
+  <!-- Chat -->
+  <string name="Done (%d)">დასრულებულია (%d)</string>
+  <!-- Chat -->
+  <string name="Done_restore_btn (%d)">დასრულებულია (%d)</string>
+  <!-- Chat -->
+  <string name="Download audio">აუდიო ფაილის გადმოწერა</string>
+  <!-- Group chat -->
+  <string name="dva-nC-xJq.normalTitle">ჯგუფის დატოვება</string>
+  <!-- Chat, record audio to send -->
+  <string name="Dyx-Fy-fYb.text">ხმის ჩაწერა</string>
+  <string name="e9v-su-i0a.text">Veon პროფილი შენს ბოლო მდებარეობას აჩვენებს, რომ მეგობრებმა და ოჯახის წევრებმა ნახონ, სად ხარ.\n\nმდებარეობის გაზიარების შეწყვეტა შეგიძლია ნებისმიერ დროს, კონფიდენციალურობის პარამეტრებიდან.</string>
+  <!-- Group chat -->
+  <string name="Edit group name">ჯგუფის სახელის შეცვლა</string>
+  <!-- Class = "UILabel"; text = "Request sent"; ObjectID = "eE3-f9-QSr"; -->
+  <string name="eE3-f9-QSr.text">მოთხოვნა გაგზავნილია</string>
+  <!-- Contacts -->
+  <string name="egM-Qq-lVz.text">მოწვევა გაგზავნილია</string>
+  <!-- Onboarding, remember me check box -->
+  <string name="ekM-qT-Gd2.text">დამიმახსოვრე</string>
+  <!-- Contacts -->
+  <string name="eKP-Tc-YE8.text">საკონტაქტო ინფორმაცია</string>
+  <!-- Group chat -->
+  <string name="Empty group">ჯგუფის დაცარიელება</string>
+  <!-- Chat -->
+  <string name="enU-cH-ScJ.title">ჩეთი</string>
+  <string name="eOV-CI-jJJ.text">იპოვე დამახსოვრებული შეთავაზებები.</string>
+  <!-- Contacts -->
+  <string name="ewE-Zo-Ybq.normalTitle">მოწვევა</string>
+  <!-- Voice -->
+  <string name="f8z-mU-hSL.normalTitle">ზარის პასუხი</string>
+  <!-- Onboarding -->
+  <string name="Fg0-pt-NnI.title">შესრულებულია</string>
+  <!-- Settings -->
+  <string name="Fge-V5-tEB.text">ფონტის ზომა</string>
+  <!-- Chat -->
+  <string name="Forward">გადაგზავნა</string>
+  <!-- Group chat -->
+  <string name="fqK-ah-yoA.normalTitle">წევრების დამატება</string>
+  <!-- Class = "UILabel"; text = "Verification code"; ObjectID = "fqY-z4-0W3"; -->
+  <string name="fqY-z4-0W3.text">ავტორიზაციის კოდი</string>
+  <string name="Fri">პარ.</string>
+  <!-- Contacts -->
+  <string name="Friends restored">კონტაქტები აღდგენილია</string>
+  <!-- Voice -->
+  <string name="FT4-BA-R5u.normalTitle">გათიშვა</string>
+  <!-- Settings > Profile -->
+  <string name="fuH-Is-Cm0.text">ფოტოს წაშლა</string>
+  <!-- Settings -->
+  <string name="fwd-Wn-wtT.text">გამოსვლა</string>
+  <!-- Voice -->
+  <string name="g9X-E2-8X4.text">უხმო რეჟიმი</string>
+  <!-- Voice -->
+  <string name="g9z-Rb-qGy.normalTitle">ზარის პასუხი</string>
+  <!-- Settings -->
+  <string name="GBJ-ak-pdn.text">ამ სერვისით სარგებლობამდე, აპლიკაციაში ავტორიზაცია</string>
+  <!-- Contacts -->
+  <string name="Gll-0V-9Zw.placeholder">მობილურის ნომერი</string>
+  <string name="global_search.section.chats">ჩეთის ისტორია</string>
+  <string name="global_search.section.contacts">შენი კონტაქტები</string>
+  <string name="global_search.section.people">Veon კატალოგი</string>
+  <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "gm2-To-BUg"; -->
+  <string name="gm2-To-BUg.normalTitle">გაუქმება</string>
+  <!-- Group chat -->
+  <string name="GROUPS">ჯგუფები</string>
+  <!-- Onboarding -->
+  <string name="gS2-qh-oCc.text">ელ-ფოსტის დადასტურება</string>
+  <!-- Chat -->
+  <string name="Has no access to %@.">არ აქვს წვდომა %sზე</string>
+  <!-- Chat -->
+  <string name="Has no access to Location Services.">აპლიკაციას არ აქვს წვდომა მოწყობილობის მდებარეობაზე. </string>
+  <!-- Class = "UILabel"; text = "No offer saved yet"; ObjectID = "hAZ-35-UVn"; -->
+  <string name="hAZ-35-UVn.text">შეთავაზებები არ გაქვს შენახული</string>
+  <!-- Class = "UILabel"; text = "Verify your email"; ObjectID = "hCq-e9-9L3"; -->
+  <string name="hCq-e9-9L3.text">ელ-ფოსტის დადასტურება</string>
+  <!-- Settings, Onboarding -->
+  <string name="HE6-AL-jq6.text">სახელი</string>
+  <!-- Settings -->
+  <string name="HFA-BZ-dOq.text">მდებარეობა</string>
+  <!-- Onboarding -->
+  <string name="HnE-gA-dSY.title">გაუქმება</string>
+  <!-- Settings -->
+  <string name="hTf-o6-wrB.text">© 2017 VEON Ltd. ყველა წესი დაცულია</string>
+  <!-- Settings -->
+  <string name="Hzt-mc-08z.title">შენი ქალაქი</string>
+  <!-- Settings -->
+  <string name="I3k-Dz-hUz.normalTitle">მაჩვენე</string>
+  <!-- Class = "UIButton"; normalTitle = "Save and close"; ObjectID = "i6K-OR-ppw"; -->
+  <string name="i6K-OR-ppw.normalTitle">შენახვა და დახურვა</string>
+  <string name="iBj-r6-iKO.text">გაგზავნილია, მადლობა!</string>
+  <string name="iEc-yj-W8g.text">ფოტოს გადასაღებად დაკლიკე, ვიდეოს ჩასაწერად  ხანგრძლივად დააჭირე თითი ღილაკს</string>
+  <!-- onboarding pic -->
+  <string name="ikw-j7-BLM.text">ფოტოს გადაღება</string>
+  <!-- Group chat -->
+  <string name="ilW-aD-YwA.title">ჩეთ-ჯგუფის დეტალები</string>
+  <string name="initations.email.subject">მოწვევა</string>
+  <string name="initations.email.text">%s-ის მოწვევა</string>
+  <!-- Onboarding -->
+  <string name="initations.sms.text">სცადე ახალი ჩეთი Veon. http://veon.com/download</string>
+  <!-- Chat -->
+  <string name="invitations.incoming">მიღებულია</string>
+  <!-- Contacts, sent invites to others -->
+  <string name="invitations.outgoing">გაგზავნილია</string>
+  <!-- Contacts -->
+  <string name="invitations.suggested">შეთავაზებები</string>
+  <!-- Class = "UIButton"; normalTitle = "Invite"; ObjectID = "iqN-2l-5w5"; -->
+  <string name="iqN-2l-5w5.normalTitle">მოიწვიე</string>
+  <string name="iSw-cV-hy6.text">ეს ნებას რთავს შენს მეგობრებს, შეამოწმონ შენი მდებარეობა რეალურ დროში,  ნებისმიერ დროს</string>
+  <!-- Chat -->
+  <string name="itv-yj-Rqz.normalTitle">ჩეთი</string>
+  <!-- Chat -->
+  <string name="J2i-su-LUh.text">ახალი</string>
+  <!-- Onboarding -->
+  <string name="JaA-3Y-oC6.text">დადასტურების პროცესის დასასრულებლად შეიყვანე ეს კოდი ქვემოთ მითითებულ ველში.</string>
+  <!-- Chat -->
+  <string name="JfB-70-Muf.descriptionFormat">ახალი შეტყობინება</string>
+  <!-- Class = "UILabel"; text = "Find your recent chats, contacts, plus everyone else on Veon."; ObjectID = "Jir-FN-YFb"; -->
+  <string name="Jir-FN-YFb.text">იპოვე მარტივად  მიმდინარე ჩეთი და კონტაქტები Veon-ში.</string>
+  <!-- Group chat -->
+  <string name="jkp-Xi-Zzt.text">ჯგუფის ფოტოს დამატება (არასავალდებულო)</string>
+  <!-- Class = "UILabel"; text = "Verifying your email guarantees that only you can access your account, especially in case you change your phone or number (or loose them)."; ObjectID = "joo-f3-Kdi"; -->
+  <string name="joo-f3-Kdi.text">ელ-ფოსტის დადასტურება გაძლევს გარანტიას რომ მხოლოდ შენ გექნება წვდომა საკუთარ ანგარიშზე, თუნდაც ტელეფონის, ან ნომრის შეცვლის (დაკარგვის) შემთხვევაში.</string>
+  <!-- Onboarding -->
+  <string name="jqY-oV-Luk.text">ავტორიზაციის კოდი</string>
+  <string name="Just now">ახლახან</string>
+  <string name="JuW-h3-zaL.text">მდებარეობის გაზიარება</string>
+  <!-- Contacts -->
+  <string name="K5K-yW-faf.title">მეგობრების მოწვევა</string>
+  <!-- Contacts -->
+  <string name="k83-Yv-TRf.text">Veon</string>
+  <!-- Chat, first screen when no chats exist -->
+  <string name="kcF-Z3-tyL.text">ჩეთის ისტორია მეგობრებსა და ოჯახის წევრებთან შეგიძლია იხილო აქ.</string>
+  <!-- Onboarding -->
+  <string name="Kiq-9e-3Ye.text">დაეხმარე მეგობრებს გიცნონ უფრო მარტივად, საკუთარ ანგარიშზე მთავარი ფოტოს დამატებით, ან ავათარის არჩევით</string>
+  <!-- onboarding photo -->
+  <string name="KRO-ZM-w5M.normalTitle">გამოტოვება</string>
+  <!-- Settings > Profile -->
+  <string name="L8f-It-n2W.text">ფოტოს შესაცვლელად დააკლიკე</string>
+  <string name="Last month">წინა თვეს</string>
+  <string name="Last seen %@">ბოლო აქტივობა %s</string>
+  <string name="Last week">წინა კვირას</string>
+  <string name="Last year">წინა წელს</string>
+  <!-- Settings -->
+  <string name="leD-hz-aiL.text">ფონის არჩევა</string>
+  <!-- Chat -->
+  <string name="Less then 1 minute">1 წუთზე ნაკლები</string>
+  <string name="lnZ-vR-axF.text">ჩართე მდებარეობის სერვისი Veon-სთვის.</string>
+  <!-- Chat -->
+  <string name="Loading Video...">ვიდეო იტვირთება...</string>
+  <!-- Settings -->
+  <string name="Location Services">მდებარეობის სერვისები</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.policy.text.p2">უსაფრთხოების პოლიტიკა</string>
+  <!-- General message -->
+  <string name="login.same_device">შენს ანგარიშში შემოსული ხარ სხვა მოწყობილობით. ამ მოწყობილობიდან ავტომატურად გამოხვალ სისტემიდან.</string>
+  <!-- Settings > Logout -->
+  <string name="logout.hint">თუ არ გსურს ამავე Veon ანგარიშით ავტორიზაცია, გამოდი აპლიკაციიდან და ჩართე ხელახლა. თუ ავტორიზაციისას გამოიყენებ იმავე ტელეფონის ნომერს, რასაც ახლა იყენებ, მაშინ ავტომატურად შემოხვალ ისევ ამ ანგარიშში, რომელიც მიბმულია ნომერზე.</string>
+  <!-- General message -->
+  <string name="logout.success">ანგარიშიდან გამოსული ხარ</string>
+  <!-- Chat -->
+  <string name="LSy-CY-Ecj.title">ჩეთი</string>
+  <!-- Voice -->
+  <string name="m27-m7-Hgt.normalTitle">უხმო</string>
+  <!-- Chat -->
+  <string name="M2l-RN-kdf.text">დააჭირე აუდიო შეტყობინების ჩასაწერად, გასაგზავნად აუშვი ხელი</string>
+  <!-- Onboarding -->
+  <string name="M4H-e7-xH9.title">დასრულებულია</string>
+  <string name="main.global_search.placeholder">რას ეძებ?</string>
+  <string name="main.navigation.title">VEON</string>
+  <!-- Contacts -->
+  <string name="main.tab_bar.contacts">კონტაქტები</string>
+  <!-- Chat -->
+  <string name="main.tab_bar.groups">ჩეთის ისტორია</string>
+  <!-- Settings -->
+  <string name="main.tab_bar.settings">პარამეტრები</string>
+  <!-- Chat -->
+  <string name="Mark as read">მონიშნე როგორც\nწაკითხული</string>
+  <!-- Chat -->
+  <string name="MBContactPickerPrompt">ადრესატი:</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.error">ავათარის შეცვლა ვერ ხერხდება</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.loading">ავათარი იცვლება...</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.success">ავათარი განახლებულია</string>
+  <!-- Chat -->
+  <string name="media.error.not_available.photo">ფოტო ჯერ არ არის ხელმისაწვდომი</string>
+  <!-- Chat, media -->
+  <string name="media.error.not_available.video">ვიდეო ჯერ არ არის ხელმისაწვდომი</string>
+  <!-- Chat -->
+  <string name="media.photo">ფოტო</string>
+  <!-- Chat -->
+  <string name="media.preparing">ფოტოები იტყვირთება</string>
+  <!-- Chat -->
+  <string name="media.preparing.error">ფოტოების ჩატვირთვა ვერ მოხერხდა</string>
+  <!-- Chat, media -->
+  <string name="media.video">ვიდეო</string>
+  <!-- Settings -->
+  <string name="MEq-of-RyN.text">ანგარიშის წაშლა</string>
+  <!-- Chat -->
+  <string name="Messages">შეტყობინები</string>
+  <!-- Voice -->
+  <string name="Microphone">მიკროფონი</string>
+  <!-- Settings -->
+  <string name="mil-yE-kcg.title">ძირითადი პარამეტრები</string>
+  <!-- Onboarding -->
+  <string name="mlI-HG-xNE.text">გვარი</string>
+  <string name="mon">ორშ.</string>
+  <string name="Mon">ორშ.</string>
+  <!-- Chat -->
+  <string name="More then %ld day(s)">%d-დღეზე მეტი</string>
+  <!-- Chat -->
+  <string name="More then 1 year">1 წელზე მეტი</string>
+  <!-- Chat -->
+  <string name="Mub-Ka-YOn.text">მეხსიერება არ არის საკმარისი შესანახად</string>
+  <!-- Onboarding -->
+  <string name="MuI-ev-vhd.title">გაუქმება</string>
+  <string name="mute.1_day">1 დღით</string>
+  <!-- Group chat -->
+  <string name="mute.1_hours">1 საათით</string>
+  <!-- Group chat -->
+  <string name="mute.1_week">1 კვირით</string>
+  <!-- Group chat -->
+  <string name="mute.1_year">1 წლით</string>
+  <!-- Onboarding -->
+  <string name="mute.cancel">გაუქმება</string>
+  <string name="mute.display.forever">სამუდამოდ</string>
+  <string name="mute.display.none">არ არის უხმო რეჟიმზე</string>
+  <string name="mute.display.until">%s-მდე</string>
+  <!-- Voice -->
+  <string name="mute.mute">უხმო რეჟიმი</string>
+  <!-- Chat -->
+  <string name="mute.mute.conversation">უხმო რეჟიმი</string>
+  <!-- Chat -->
+  <string name="mute.mute.group.error">ჯგუფს ვერ გადაიყვან უხმო რეჟიმზე</string>
+  <!-- Group chat -->
+  <string name="mute.mute.group.progress">ჯგუფის უხმო რეჟიმზე გადაყვანა...</string>
+  <!-- Voice -->
+  <string name="mute.mute.menu">უხმო რეჟიმი</string>
+  <!-- Chat -->
+  <string name="mute.mute.user.error">კონტაქტს ვერ გადაიყვან უხმო რეჟიმზე</string>
+  <!-- Contacts -->
+  <string name="mute.mute.user.progress">კონტაქტის უხმო რეჟიმზე გადაყვანა...</string>
+  <string name="mute.title">რამდენი ხნით გსურს %s-სთვის ხმის გათიშვა?</string>
+  <!-- Voice -->
+  <string name="mute.unmute">ხმოვანი რეჟიმი</string>
+  <!-- Chat -->
+  <string name="mute.unmute.conversation">უხმო რეჟიმის გათიშვა</string>
+  <!-- Chat -->
+  <string name="mute.unmute.group.error">ჯგუფს ვერ გაუთიშავ უხმო რეჟიმს.</string>
+  <!-- Group chat -->
+  <string name="mute.unmute.group.progress">ჯგუფისთვის უხმო რეჟიმის გათიშვა...</string>
+  <!-- Voice -->
+  <string name="mute.unmute.menu">უხმო რეჟიმი</string>
+  <!-- Chat -->
+  <string name="mute.unmute.user.error">კონტაქტს ვერ გაუთიშავ უხმო რეჟიმს.</string>
+  <!-- Contacts -->
+  <string name="mute.unmute.user.progress">კონტაქტის უხმო რეჟიმის გათიშვა...</string>
+  <!-- Chat -->
+  <string name="mute.until_unmute">უხმო რეჟიმის გათიშვამდე</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="MWZ-Vu-HPz.text">რომ შევძლოთ მარტივად დაგაკავშიროთ ოჯახთან და მეგობრებთან</string>
+  <!-- Chat -->
+  <string name="MxP-Ou-8wd.title">პასუხი</string>
+  <!-- Onboarding -->
+  <string name="ndc-zf-2HM.text">დააკლიკე თუ გსურს საკუთარი ფოტოს დაყენება, ან აარჩიე ავათარი ქვემოთ მოცემული ჩამონათვალიდან</string>
+  <!-- Group chat -->
+  <string name="New group created without avatar and name">ახალი ჯგუფი შეიქმნა ავათარისა და სახელის გარეშე</string>
+  <!-- Voice -->
+  <string name="nHO-EF-Xay.text">შეაფასეთ ზარის ხარისხი</string>
+  <!-- Chat -->
+  <string name="nim-fa-jk0.normalTitle">დარეკვა</string>
+  <!-- Onboarding -->
+  <string name="nIT-mE-fpw.title">მზადაა</string>
+  <!-- Chat -->
+  <string name="No">არა</string>
+  <string name="No result">არ იძებნება</string>
+  <string name="No such user">ასეთი მოხმარებელი არ იძებნება</string>
+  <!-- Chat -->
+  <string name="Not enough memory for saving">მეხსიერება არ არის საკმარისი შესანახად</string>
+  <!-- Voice -->
+  <string name="notification.call.decline">გათიშვა</string>
+  <!-- Voice -->
+  <string name="notification.call.incoming_call">შემომავალი ზარი %s-გან</string>
+  <!-- Chat -->
+  <string name="notification.call.missed_call">გამოტოვებული ზარი %s-გან</string>
+  <!-- Contacts -->
+  <string name="notification.friend_invite.accept">თანხმობა</string>
+  <!-- Contacts -->
+  <string name="notification.friend_invite.refuse">უარყოფა</string>
+  <!-- Chat, button of push notification for new message -->
+  <string name="notification.message.reply">პასუხი</string>
+  <!-- Chat -->
+  <string name="notification.new_friend.start_chat">ჩეთის დაწყება</string>
+  <!-- Contacts -->
+  <string name="notification.new_friend.view_contact">კონტაქტის დათვალიერება</string>
+  <!-- Chat -->
+  <string name="nPw-Pv-583.normalTitle">ჩეთი</string>
+  <string name="NSBluetoothPeripheralUsageDescription">ეს დაგვეხმარება შენი მდებარეობის უფრო ზუსტად დადგენაში</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSCameraUsageDescription">რომ შეძლო ფოტოების გადაღება და მეგობრებთან გაგზავნა</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSContactsUsageDescription">რომ შეძლო მეგობრებთან საუბარი და ჩეთი</string>
+  <!-- Chat -->
+  <string name="NSLocationWhenInUseUsageDescription">შენი მდებარეობა გაიგზავნება შეტყობინების სახით</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSMicrophoneUsageDescription">რომ შეძლო მეგობრებთან უფასოდ საუბარი, ჩეთი და ხმოვანი შეტყობინებების გაგზავნა</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSPhotoLibraryUsageDescription">რომ შეძლო ფოტოების და ვიდეოების გაგზავნა მეგობრებთან</string>
+  <!-- Onboarding, confirmation -->
+  <string name="NTg-GT-v1O.normalTitle">გასაგებია</string>
+  <!-- Settings -->
+  <string name="nvL-Xl-7Oi.normalTitle">ლიცენზიები</string>
+  <!-- Voice -->
+  <string name="NXW-hf-mV5.normalTitle">ხმამაღალი</string>
+  <!-- Chat -->
+  <string name="O2f-CR-egc.placeholder">ძიება</string>
+  <!-- Settings -->
+  <string name="oa9-Nt-0gB.title">ჩეთის პარამეტრები</string>
+  <!-- Chat -->
+  <string name="OBY-b2-FdY.normalTitle">წაშლა</string>
+  <!-- Contacts -->
+  <string name="oBZ-rX-nuI.normalTitle">მოთხოვნის გაგზავნა</string>
+  <string name="offers.activate">გააქტიურება</string>
+  <string name="offers.follow">გამოწერა</string>
+  <string name="offers.follow_to">%s-ის გამოწერა</string>
+  <string name="offers.mgm.channel">გაუზიარე Veon მეგობრებს!</string>
+  <string name="offers.mgm.contact_pick.favourites">ხშირად უკავშირდები</string>
+  <string name="offers.mgm.contact_pick.title">მოიწვიე მეგობრები</string>
+  <string name="offers.mgm.offer.invite">მოიწვიე</string>
+  <string name="offers.mgm.send_invite.hint">ეს მოწვევა შენს მეგობრებს გაეგზავნება, რაც სრულიად უფასოა.</string>
+  <string name="offers.mgm.send_invite.text">გამარჯობა, %s-მ(ა) Veon-ში მოგიწვია. Veon-ით ორივეს გექნებათ უფასო ზარი და ჩეთი, ასევე, მიიღებთ ექსკლუზიურ შეთავაზებებს. ჩამოტვირთე აპი და აღმოაჩინე თავად!\n%s</string>
+  <string name="offers.mgm.send_invite.title">მოწვევების გაგზავნა</string>
+  <string name="offers.more.count">%d დამახსოვრებული შეთავაზებები</string>
+  <string name="offers.offer.get">მიიღე შეთავაზება</string>
+  <string name="offers.unfollow">გამოწერილი</string>
+  <string name="offers.unfollow_from">%s-ის გამოწერის გაუქმება</string>
+  <!-- Offers -->
+  <string name="offers.valid_until">ძალაშია %s-მდე</string>
+  <!-- Onboarding -->
+  <string name="ofU-c2-3Bg.normalTitle">გაუქმება</string>
+  <string name="onboarding.options.location.description">ეს ნებას რთავს შენს მეგობრებს, შეამოწმონ შენი მდებარეობა რეალურ დროში, ნებისმიერ დროს</string>
+  <string name="onboarding.options.location.russia.description">ჩართე მდებარეობის სერვისი Veon-სთვის.</string>
+  <string name="onboarding.options.location.russia.title">მდებარეობის გაზიარება</string>
+  <string name="onboarding.options.location.title">ჩემი მდებარეობის ჩვენება</string>
+  <string name="onboarding.options.show_in_discovery.description">ეს ნებას რთავს ნებისმიერ სხვა მომხმარებელს მოგძებნოს და შეძლოს შენთვის ჩეთის წამოწყების მოთხოვნის გამოგზავნა.</string>
+  <string name="onboarding.options.show_in_discovery.title">გამოჩნდება საჯარო დირექტორიაში</string>
+  <string name="OS_cant_access_contact_popup_CTA_cancel_text">გაუქმება</string>
+  <string name="OS_cant_access_contact_popup_CTA_settings_text">პარამეტრები</string>
+  <string name="OS_cant_access_contact_popup_description_text">წვდომის ნებართვის მისანიჭებლად, შეეხე „პარამეტრებს“, შემდეგ კი ჩართე „კონტაქტები“</string>
+  <string name="OS_cant_access_contact_popup_title_text">%s შენს კონტაქტებზე წვდომას ვერ ახერხებს</string>
+  <string name="OS_cant_access_microphone_popup_CTA_cancel_text">გაუქმება</string>
+  <string name="OS_cant_access_microphone_popup_CTA_settings_text">პარამეტრები</string>
+  <string name="OS_cant_access_microphone_popup_description_text">წვდომის ნებართვის მისანიჭებლად, შეეხე „პარამეტრებს“, შემდეგ კი ჩართე „მიკროფონი“</string>
+  <string name="OS_cant_access_microphone_popup_title_text">%s მიკროფონზე წვდომას ვერ ახერხებს.</string>
+  <string name="OS_cant_push_notifications_popup_CTA_cancel_text">გაუქმება</string>
+  <string name="OS_cant_push_notifications_popup_CTA_settings_text">პარამეტრები</string>
+  <string name="OS_cant_push_notifications_popup_description_text">წვდომის ნებართვის მისანიჭებლად, შეეხე „პარამეტრებს“, შემდეგ კი ჩართე „Push-შეტყობინებები“.</string>
+  <string name="OS_cant_push_notifications_popup_title_text">%s Veon ვერ ახერხებს push-შეტყობინებების გამოგზავნას.</string>
+  <string name="OS_contacts_permissions_popup_CTA_dont_allow_text">აკრძალვა</string>
+  <string name="OS_contacts_permissions_popup_CTA_OK_text">კარგი</string>
+  <string name="OS_contacts_permissions_popup_description_text">ეს იმას ნიშნავს, რომ შეგიძლია მეგობრებთან ჩეთი და მათთან დარეკვა</string>
+  <string name="OS_contacts_permissions_popup_title_text">%s-ს შენს კონტაქტებზე წვდომა სურს</string>
+  <string name="OS_mirophone_permissions_popup_CTA_dont_allow_text">აკრძალვა</string>
+  <string name="OS_mirophone_permissions_popup_CTA_OK_text">კარგი</string>
+  <string name="OS_mirophone_permissions_popup_description_text">ეს იმას ნიშნავს, რომ შეგიძლია განახორციელო და მიიღო ზარები</string>
+  <string name="OS_mirophone_permissions_popup_title_text">%s-ს მიკროფონზე წვდომა სურს</string>
+  <string name="OS_push_notifications_permissions_popup_CTA_dont_allow_text">აკრძალვა</string>
+  <string name="OS_push_notifications_permissions_popup_CTA_OK_text">კარგი</string>
+  <string name="OS_push_notifications_permissions_popup_description_text">ეს იმას ნიშნავს, რომ ახალ SMS-ებთან და ზარებთან დაკავშირებით შეტყობინებებს მიიღებ</string>
+  <string name="OS_push_notifications_permissions_popup_title_text">%s-ს სურს გამოგიგზავნოს Push-შეტყობინებები</string>
+  <!-- Chat -->
+  <string name="OtW-Dz-PWy.text">განსაახლებლად აუშვი ხელი</string>
+  <!-- Chat (pick photo) -->
+  <string name="P5h-xa-brW.text">ტელეფონიდან არჩევა</string>
+  <!-- Onboarding -->
+  <string name="PFG-ms-YLI.text">ინფორმაცია იტვირთება...</string>
+  <string name="PG5-GS-AR1.text">ტექსტი მაგალითისთვის.</string>
+  <!-- Voice -->
+  <string name="PHr-1p-fGZ.normalTitle">გათიშვა</string>
+  <!-- Chat -->
+  <string name="Playing">თამაში</string>
+  <!-- Chat (related to no storage to save media file) -->
+  <string name="Please delete unused files and applications and try again.">წაშალე გამოუყენებელი ფაილები და აპლიკაციები და განმეორებით სცადე.</string>
+  <!-- Voice -->
+  <string name="po5-dP-fMn.text">დარეკვა უფასოდ</string>
+  <string name="PQW-U5-ex2.text">დამახსოვრებული შეთავაზებები</string>
+  <!-- Settings > Profile -->
+  <string name="Profile Picture">მთავარი ფოტო</string>
+  <!-- Contacts -->
+  <string name="profile.action.accept">დამეგობრების თხოვნის მოლოდინი</string>
+  <!-- Contacts -->
+  <string name="profile.action.accept.loading">მოწვევის მიღება...</string>
+  <!-- Voice -->
+  <string name="profile.action.call">დარეკვა</string>
+  <string name="profile.action.cancel_invite">მეგობრობის მოთხოვნის გაუქმება</string>
+  <!-- Contacts -->
+  <string name="profile.action.cancel_invite.loading">მოწვევის გაუქმება...</string>
+  <!-- Contacts -->
+  <string name="profile.action.cancel_invite.success">მოწვევა გაუქმებულია</string>
+  <string name="profile.action.decline">დაკავშირების მოთხოვნის უარყოფა</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.loading">მოწვევის უარყოფა...</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.success.text">შენ უარყავი მეგობრობის მოთხოვნა %s-სგან</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.success.title">მოთხოვნა უარყოფილია</string>
+  <!-- Settings > Profile -->
+  <string name="profile.action.edit">ჩემი ინფოს შეცვლა</string>
+  <string name="profile.action.edit_ab">ჩასწორება</string>
+  <string name="profile.action.edit_avatar.done">ფოტოს გამოყენება</string>
+  <string name="profile.action.edit_avatar.hint">გადაადგილება და ზომის რეგულირება</string>
+  <string name="profile.action.header">შესაძლო ვარიანტები</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite">დამატება</string>
+  <string name="profile.action.invite.hint">დაუკავშირდი Veon-ით. ისარგებლე უფასო ზარით და ჩეთით.</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.loading">მოწვევა იგზავნება...</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.success">მოწვევა გაგზავნილია</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.success.alert">დამეგობრების მოთხოვნა წარმატებით გაიგზავნა.</string>
+  <!-- Contacts -->
+  <string name="profile.action.invited.button">დამეგობრების მოთხოვნა გაგზავნილია</string>
+  <plurals name="profile.action.invite_to_veon">
+    <item quantity="one">ერთი</item>
+    <item quantity="other">სხვა</item>
+    <item quantity="zero">ნული\n\nერთი\n\nსხვა</item>
+  </plurals>
+  <string name="profile.action.invite_to_veon.first">მოიწვიე</string>
+  <string name="profile.action.invite_to_veon.first.hint">მოიწვიე %s Veon-ში უფასო ჩეთისა და საუბრისთვის</string>
+  <string name="profile.action.invite_to_veon.other">მოწვევის გაგზავნა ხელახლა</string>
+  <string name="profile.action.invite_to_veon.other.hint">მოწვევა გაგზავნილია</string>
+  <string name="profile.action.main.call">Veon ზარი</string>
+  <string name="profile.action.main.chat">Veon ჩეთი</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove">კონტაქტის დაბლოკვა</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove.loading">კონტაქტის დაბლოკვა...</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove.question.action">კონტაქტის დაბლოკვა</string>
+  <!-- Settings -->
+  <string name="profile.action.restore">კონტაქტის განბლოკვა</string>
+  <string name="profile.action.restore.hint">კონტაქტი დაბლოკილი გყავს</string>
+  <string name="profile.action.restore.loading">კონტაქტის განბლოკვა</string>
+  <string name="profile.action.restore.loading.multi">კონტაქტების განბლოკვა</string>
+  <string name="profile.action.restore.success">მეგობრის განბლოკვა</string>
+  <string name="profile.action.restore.success.multi">მეგობრები განბლოკილია</string>
+  <!-- Contacts -->
+  <string name="profile.action.share">კონტაქტის გაზიარება</string>
+  <!-- Onboarding -->
+  <string name="profile.action.share.popup.title">გაითვალისწინე, გაიგზავნება მხოლოდ Veon-ის ანგარიშში არსებული საკონტაქტო ინფორმაცია, და არა, ის ინფორმაცია, რომელიც შენს ტელეფონში გაქვს შეყვანილი კონტაქტზე.</string>
+  <string name="profile.action.show_location">ადგილმდებარეობის ჩვენება</string>
+  <string name="profile.action.unmute">საუბარი უხმო რეჟიმზეა</string>
+  <!-- Contacts -->
+  <string name="profile.action.view_phone_contact.popup.title">გაითვალისწინე, ნებისმიერი ცვლილება, რომელსაც განახორციელებ შემდეგ გვერდზე, აისახება შენს კონტაქტებზე.</string>
+  <string name="profile.call_info.declined_call">უარყოფილი ზარი</string>
+  <string name="profile.call_info.header">ინფორმაცია ზარზე</string>
+  <string name="profile.call_info.incoming_call">შემომავალი ზარი (%02d:%02d)</string>
+  <string name="profile.call_info.missed_call">გამოტოვებული ზარი</string>
+  <string name="profile.call_info.not_answered">%s-მა ზარს არ უპასუხა</string>
+  <string name="profile.call_info.not_answered_call">ზარს არ უპასუხეს</string>
+  <string name="profile.call_info.outgoing_call">გამავალი ზარი (%02d:%02d)</string>
+  <!-- Settings > Profile -->
+  <string name="profile.current_location">ამჟამინდელი მდებარეობა</string>
+  <string name="profile.current_location.address">სავარაუდო მისამართი</string>
+  <!-- Contacts -->
+  <string name="profile.default.name">დაფარული</string>
+  <string name="profile.email.not_verified">ელ-ფოსტის დადასტურება</string>
+  <string name="profile.email.pending">დადასტურების მოლოდინი</string>
+  <string name="profile.email.verified">დადასტურებულია</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.birthday.title">დაბადების თარიღი</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.female">მდედრობითი</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.male">მამრობითი</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.title">სქესი</string>
+  <!-- Settings -->
+  <string name="profile.extra.header">Veon ანგარიშის ინფორმაცია</string>
+  <!-- Settings -->
+  <string name="profile.extra.live_in.title">ქალაქი</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.not_selected">არ არის არჩეული</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.complicated">რთული სათქმელია</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.engaged">დანიშნული</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.inrelationship">ურთიერთობაში</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.married">დაოჯახებული</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.single">დასაოჯახებელი</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.title">ოჯახი და ურთიერთობები</string>
+  <string name="profile.friend.hint">ისარგებლე უფასო Veon ზარით და ჩეთით.</string>
+  <!-- Settings > Profile -->
+  <string name="profile.my.title">ჩემი ანგარიში</string>
+  <string name="profile.phone_numbers.header">Veon-ის გარეთ</string>
+  <string name="profile.phone_numbers.verified">დადასტურებული ნომერი</string>
+  <!-- Settings -->
+  <string name="profile.veon_number">მობილური</string>
+  <!-- Class = "UIButton"; normalTitle = "Go to My Veon"; ObjectID = "PV3-t6-5JC"; -->
+  <string name="PV3-t6-5JC.normalTitle">„ჩემ Veon“-ზე გადასვლა</string>
+  <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "q2k-v5-Ig6"; -->
+  <string name="q2k-v5-Ig6.normalTitle">გაუქმება</string>
+  <!-- Chat -->
+  <string name="Qat-tU-27O.normalTitle">მოგვიანებით ვნახავ</string>
+  <string name="QCL-YO-rFA.title">შემდეგი</string>
+  <!-- Chat -->
+  <string name="Qcz-yo-1uY.normalTitle">ჩეთი</string>
+  <!-- Class = "UILabel"; text = "Offer collected"; ObjectID = "qdN-ig-wo1"; -->
+  <string name="qdN-ig-wo1.text">შეთავაზება მიღებულია</string>
+  <!-- Class = "UITextField"; placeholder = "Email"; ObjectID = "qJB-jd-QhR"; -->
+  <string name="qJB-jd-QhR.placeholder">ელ-ფოსტა</string>
+  <!-- Settings -->
+  <string name="qSG-d7-Ys8.title">ჩეთის ფონი</string>
+  <!-- Settings -->
+  <string name="R4h-7y-AiX.headerTitle">ფონი</string>
+  <!-- Settings -->
+  <string name="rc9-OY-dkh.text">დარწმუნებული ხარ, რომ გსურს ანგარიშის წაშლა? ღილაკზე „წაშლა“ თითის დაჭერით  სამუდამოდ წაშლი შენს ანგარიშს.\n</string>
+  <!-- Chat -->
+  <string name="RECENT">ბოლოს ნანახი</string>
+  <!-- Chat, record audio to send -->
+  <string name="Record">ჩაწერა</string>
+  <!-- Chat, record audio to send -->
+  <string name="Recording">მიმდინარეობს ჩაწერა</string>
+  <!-- Class = "UILabel"; text = "We have sent an Email with a 6-digit code to:"; ObjectID = "REe-hT-1xv"; -->
+  <string name="REe-hT-1xv.text">6-ნიშნა კოდი გამოგზავნილია მეილზე:</string>
+  <!-- Contacts -->
+  <string name="rk3-Wx-OT2.normalTitle">არხები</string>
+  <!-- Settings > Profile -->
+  <string name="rlM-xT-d1d.text">დაბადების დღე</string>
+  <!-- Onboarding -->
+  <string name="rva-b5-Ps6.text">დადასტურების კოდი</string>
+  <!-- Settings -->
+  <string name="S7d-pT-QHm.text">პაროლის შეცვლა</string>
+  <!-- Settings -->
+  <string name="S9G-H6-5aj.title">ფონის გალერეა</string>
+  <string name="Sat">შაბ.</string>
+  <!-- Chat -->
+  <string name="Select Chat">ჩეთის არჩევა</string>
+  <!-- Contacts -->
+  <string name="Select Contact">კონტაქტების არჩევა</string>
+  <string name="select_chat.contacts">კონტაქტები</string>
+  <string name="select_chat.groups">ჯგუფები</string>
+  <string name="select_chat.recent">ბოლოს ნანახი</string>
+  <!-- Chat -->
+  <string name="Send logs">გაგზავნილი ჩანაწერები</string>
+  <string name="Server error">სერვერის შეცდომა</string>
+  <string name="session.expired.button.login">შესვლა</string>
+  <string name="session.expired.message">Veon-ში შესვლისას შეგიძლია განაგრძო ის, რაზეც ბოლოს შეჩერდი.</string>
+  <string name="session.expired.title">სესიის დრო ამოიწურა</string>
+  <!-- Settings -->
+  <string name="settings.chat.background.changed.alert">ფონის ფოტო შეიცვალა წარმატებით!</string>
+  <!-- Settings -->
+  <string name="settings.chat.chat_style">ჩეთის ფონი</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.cancel">გაუქმება</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.message">დარწმუნებული ხარ?</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.ok">ვეთანხმები</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.title">დასტური</string>
+  <!-- Settings -->
+  <string name="settings.chat.deleted_contacts">წაშლილი კონტაქტები</string>
+  <!-- Voice -->
+  <string name="settings.chat.mute_all">ყველას გადაყვანა უხმო რეჟიმზე</string>
+  <!-- Settings -->
+  <string name="settings.chat.privacy.section">უსაფრთხოება</string>
+  <!-- Chat -->
+  <string name="settings.chat.read_receipts">შეტყობინების ნახვის დაფარვა</string>
+  <!-- Chat -->
+  <string name="settings.chat.section">ჩეთი</string>
+  <string name="settings.delete_account.cancel">გაუქმება</string>
+  <string name="settings.delete_account.message">დარწმუნებული ხარ, რომ გსურს ანგარიშის წაშლა?</string>
+  <string name="settings.delete_account.ok">წაშლა</string>
+  <string name="settings.delete_account.title">ანგარიშის წაშლა</string>
+  <!-- Settings -->
+  <string name="settings.general.about">შესახებ</string>
+  <!-- Settings -->
+  <string name="settings.general.change_number">Veon ნომრის შეცვლა</string>
+  <string name="settings.general.change_password">პაროლის შეცვლა</string>
+  <!-- Settings -->
+  <string name="settings.general.faq">ხშირად დასმული კითხვები</string>
+  <!-- Settings -->
+  <string name="settings.general.section">ჩემი Veon</string>
+  <string name="settings.language.success">ენა შეიცვალა</string>
+  <string name="settings.language.title">ენის შეცვლა</string>
+  <!-- Settings -->
+  <string name="settings.logout.cancel">გაუქმება</string>
+  <!-- Settings -->
+  <string name="settings.logout.message">\"დიახ\" ღილაკზე დაჭერით გამოხვალ Veon აპლიკაციიდან.</string>
+  <!-- Settings -->
+  <string name="settings.logout.ok">დიახ</string>
+  <!-- Settings -->
+  <string name="settings.logout.title">დარწმუნებული ხარ, რომ გსურს გამოსვლა?</string>
+  <string name="settings.main.about">შესახებ</string>
+  <!-- Settings -->
+  <string name="settings.main.chat">ჩეთის პარამეტრები</string>
+  <string name="settings.main.faq">დახმარება</string>
+  <!-- Settings -->
+  <string name="settings.main.general">ძირითადი პარამეტრები</string>
+  <!-- The `Change language` option in the application settings -->
+  <string name="settings.main.language">ენის შეცვლა</string>
+  <!-- New items for Settings screen. In designed names "Legals & Consents". Previously there was another item with it settings.main.consents and name "Consents manager", but looks like it is now removed. -->
+  <string name="settings.main.legals_and_consents">იურიდიული პირობები</string>
+  <string name="settings.main.opco.unlink">ანგარიშის მოხსნა</string>
+  <!-- Settings -->
+  <string name="settings.main.payment">გადახდის მეთოდები</string>
+  <!-- Settings -->
+  <string name="settings.main.privacy">პირადი ინფორმაცია</string>
+  <!-- Settings > Profile -->
+  <string name="settings.main.profile">ჩემი ანგარიში</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.birthday">დაბადების დღე</string>
+  <!-- Settings -->
+  <string name="settings.privacy.friend.section">დანარჩენი ინფორმაცია</string>
+  <string name="settings.privacy.friend.section.russia">სხვა</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.gender">სქესი</string>
+  <!-- Chat -->
+  <string name="settings.privacy.last_seen">ბოლოს ნანახია</string>
+  <!-- Settings -->
+  <string name="settings.privacy.live_in">ქალაქი</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.location_sharing">ჩემი მდებარეობის გაზიარება</string>
+  <!-- Settings -->
+  <string name="settings.privacy.public.section">დაეხმარე მეგობრებს რომ გიპოვნონ.\nშენი სახელი, ქალაქი და მთავარი ფოტო საჯარო იქნება</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.relationship">ოჯახი და ურთიერთობები</string>
+  <!-- Settings -->
+  <string name="settings.privacy.show_in_discovery">გამოჩნდება საჯარო ინფორმაციაში</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="SFm-Jf-HcW.text">ტელეფონის ახალი ნომერი</string>
+  <!-- Emojis -->
+  <string name="smiles.category.activity">აქტივობა</string>
+  <!-- Emojis -->
+  <string name="smiles.category.extras">დამატებით</string>
+  <!-- Settings -->
+  <string name="smiles.category.flags">დროშები</string>
+  <!-- Emojis -->
+  <string name="smiles.category.food">საჭმელი</string>
+  <!-- Emojis -->
+  <string name="smiles.category.modifier">მოდიფიკატორი</string>
+  <!-- Emojis -->
+  <string name="smiles.category.nature">ბუნება</string>
+  <!-- Emojis -->
+  <string name="smiles.category.objects">სხვადასხვა</string>
+  <!-- Contacts -->
+  <string name="smiles.category.people">ხალხი</string>
+  <!-- Emojis -->
+  <string name="smiles.category.regional">რეგიონალური</string>
+  <!-- Emojis -->
+  <string name="smiles.category.symbols">სიმბოლოები</string>
+  <!-- Emojis -->
+  <string name="smiles.category.travel">მოგზაურობა</string>
+  <!-- Class = "UILabel"; text = "Settings"; ObjectID = "SPC-kU-2QR"; -->
+  <string name="SPC-kU-2QR.text">პარამეტრები</string>
+  <!-- Group chat -->
+  <string name="St6-ON-ATb.text">ჯგუფის ფოტოს დამატება (არასავალდებულო)</string>
+  <string name="Sun">კვ.</string>
+  <!-- Onboarding -->
+  <string name="TBD-OW-9fa.normalTitle">შესრულებულია</string>
+  <!-- Chat -->
+  <string name="TfP-ti-jj9.normalTitle">ჩეთის დაწყება</string>
+  <string name="This afternoon">ამ საღამოს</string>
+  <string name="This month">ამ თვეში</string>
+  <string name="This morning">ამ დილით</string>
+  <string name="This week">ამ კვირას</string>
+  <string name="This year">წელს</string>
+  <string name="Thu">ხუთშ.</string>
+  <string name="Today">დღეს</string>
+  <!-- Onboarding -->
+  <string name="Tt3-Wp-djg.normalTitle">გაუქმება</string>
+  <string name="Tue">სამშ.</string>
+  <!-- Message for device access permissions -->
+  <string name="Turn on access for %@ in Settings-&gt;Privacy-&gt;%@.">გახსენი წვდომა %s-ზე პარამეტრებიდან Settings-&gt;Privacy-&gt;%2$s</string>
+  <!-- Message for device access permissions -->
+  <string name="Turn on Location Services in Settings-&gt;Privacy">ჩართე მდებარეობის სერვისი პარამეტრებიდან Settings-&gt;Privacy</string>
+  <!-- Settings -->
+  <string name="tyl-aU-g7n.title">პირადი ინფორმაცია</string>
+  <!-- Class = "UIButton"; normalTitle = "Done"; ObjectID = "TzE-8y-0Kw"; -->
+  <string name="TzE-8y-0Kw.normalTitle">შესრულებულია</string>
+  <!-- Onboarding, remember me check box -->
+  <string name="U9X-1m-osZ.text">დამიმახსოვრე</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="uDK-vk-Fsg.text">შენი ძველი ტელეფონის ნომერი</string>
+  <!-- Settings > Profile -->
+  <string name="UiU-VE-btG.text">ოჯახი და ურთიერთობები</string>
+  <!-- Settings -->
+  <string name="UoQ-xb-lCA.text">დაარეგულირე ზომა კურსორით</string>
+  <!-- Chat -->
+  <string name="Use image">ფოტოს გამოყენება</string>
+  <!-- Settings -->
+  <string name="User info updated">მომხმარებლის ინფო განახლებულია</string>
+  <string name="User not found">მომხმარებელი არ იძებნება</string>
+  <!-- Onboarding -->
+  <string name="VCj-sE-ptP.text">გვარი</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_button_CTA">გაგრძელება</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_description_one_text">VEON-ს სურს, იქონიოს წვდომა შენს სატელეფონო კონტაქტებზე, მიკროფონზე და გაჩვენოს შეტყობინებები.</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_description_two_text">ამით შეძლებ მეგობრების მოწვევას და მათთან დარეკვას, ასევე იმის გაგებას, თუ როდის გიგზავნიან ისინი SMS-ებს. \n\n</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_skip_link">მოგვიანებით შესრულება</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_title_text">VEON-ს შენგან ნებართვა სჭირდება</string>
+  <!-- Resent code: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="verify_email_verification_code_email_resent">6-ნიშნა კოდი გამოგზავნილია ხელახლა ელ.ფოსტაზე:</string>
+  <!-- Verification code screen: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="verify_email_verification_code_email_sent">6-ნიშნა კოდი გამოგზავნილია ელ.ფოსტაზე:</string>
+  <!-- Group chat -->
+  <string name="VH2-V4-meA.placeholder">ჩაწერე ჯგუფის სახელი</string>
+  <!-- Class = "UIButton"; normalTitle = "Get Offer"; ObjectID = "Vs4-Px-xGu"; -->
+  <string name="Vs4-Px-xGu.normalTitle">მიიღე შეთავაზება</string>
+  <!-- Log-in -->
+  <string name="VYD-j2-bgU.text">ახალი კოდი გამოგზავნილია მითითებულ ელ.ფოსტაზე:</string>
+  <!-- Chat -->
+  <string name="w2d-Iy-VuJ.title">ზარის წამოწყება</string>
+  <!-- Voice -->
+  <string name="w3e-TG-8I7.normalTitle">გათიშვა</string>
+  <!-- Chat -->
+  <string name="w4H-v5-7Ih.text">ფოტოს არჩევა გალერეიდან</string>
+  <!-- Chat -->
+  <string name="w6x-KV-Fbm.text">Veon-ში ძიებისთვის ჩაწერე კონტაქტის სახელი </string>
+  <!-- Settings -->
+  <string name="wan-82-AtV.normalTitle">დაბრუნება ანგარიშში</string>
+  <string name="wde-1z-5ZO.text">ეს ნებას რთავს ნებისმიერ სხვა მომხმარებელს მოგძებნოს და შეძლოს შენთვის ჩეთის წამოწყების მოთხოვნის გამოგზავნა.</string>
+  <string name="Wed">ოთხშ.</string>
+  <!-- Onboarding -->
+  <string name="wka-KO-Oqi.normalTitle">გაუქმება</string>
+  <!-- Settings -->
+  <string name="WnU-7J-42a.title">აირჩიე ქვეყანა</string>
+  <!-- Settings -->
+  <string name="wQC-V2-zJz.normalTitle">განახლება</string>
+  <!-- Voice -->
+  <string name="WRo-zc-1FP.text">დაგვეხმარეთ ხარისხის გაუმჯობესებაში</string>
+  <!-- Chat -->
+  <string name="WZu-ei-DxN.normalTitle">გაგზავნა</string>
+  <!-- Chat -->
+  <string name="X3Z-a8-c1u.title">ჩეთის დეტალები</string>
+  <!-- Contacts -->
+  <string name="X4e-Re-zNj.normalTitle">მოთხოვნები</string>
+  <!-- Onboarding -->
+  <string name="Xe2-Gg-9Em.normalTitle">გამოტოვება</string>
+  <!-- Chat -->
+  <string name="xmW-Cd-jL7.text">ახალი</string>
+  <string name="xrG-RV-VzV.text">ვწუხვართ, შესატყვისები არ მოიძებნა</string>
+  <!-- Voice -->
+  <string name="XW2-XK-lFW.normalTitle">გათიშვა</string>
+  <!-- Voice -->
+  <string name="Xw3-CR-eOB.normalTitle">გადარეკვა</string>
+  <!-- Onboarding -->
+  <string name="xWL-yC-Dnd.text">კონტაქტების სინქრონიზაცია დასრულებულია. უკვე შეგიძლია ისარგებლო Veon-ის უფასო ჩეთით, განახორციელო GSM ან VoIP ზარი, მოიწვიო მეგობრები Veon-ში და გაიღრმავო უფასო კომუნიკაციის გამოცდილება</string>
+  <!-- Class = "UILabel"; text = "To complete your verification, please enter this code below."; ObjectID = "Y9w-DT-1Pc"; -->
+  <string name="Y9w-DT-1Pc.text">ვერიფიკაციის დასასრულებლად შეიყვანე ეს კოდი ქვემოთ მითითებულ ველში.</string>
+  <string name="Yesterday">გუშინ</string>
+  <!-- Settings -->
+  <string name="YJS-0c-MUv.title">წაშლილის აღდგენა</string>
+  <string name="YoU-Do-RG9.normalTitle">გასაგებია</string>
+  <!-- Settings -->
+  <string name="Your email client is not configured">ელ-ფოსტის კლიენტი არ არის კონფიგურირებული</string>
+  <!-- General message -->
+  <string name="Your SMS client not configured">SMS კლიენტი არ არის კონფიგურირებული</string>
+  <!-- Onboarding -->
+  <string name="YyY-zs-nd4.normalTitle">დაიწყე შეტყობინების წერა აქ</string>
+  <!-- Voice -->
+  <string name="z7D-WM-1P0.text">შემომავალი ზარი</string>
+  <!-- Contacts -->
+  <string name="zan-r6-2Ao.normalTitle">მოწვევა</string>
+  <!-- Class = "UILabel"; text = "This app does not have access to your photos or videos."; ObjectID = "zcv-dU-hYl"; -->
+  <string name="zcv-dU-hYl.text">აპლიკაციას არ აქვს წვდომა შენს ფოტოებსა და ვიდეოებზე.</string>
+  <string name="zEW-DN-7Jt.normalTitle">ამბის გაზიარება</string>
+  <!-- Chat -->
+  <string name="zLW-gy-agM.title">ჩეთის არჩევა</string>
+  <!-- Log in -->
+  <string name="Zmk-07-3ha.text">კეთილი იყოს შენი დაბრუნება!</string>
+  <!-- Contacts -->
+  <string name="zq2-ep-Dqc.normalTitle">მოწვევა</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="zVy-9D-5xk.text">შენი ნომერი\nშეცვლილია</string>
+</resources>

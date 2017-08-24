@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="%d days ago">%d күн бұрын  </string>
+  <string name="%d hours ago">%d сағат бұрын</string>
+  <string name="%d minutes ago">%d минут бұрын</string>
+  <string name="%d months ago">%d ай бұрын</string>
+  <string name="%d seconds ago">%d секунд бұрын</string>
+  <string name="%d weeks ago">%d апта бұрын</string>
+  <string name="%d years ago">%d жыл бұрын</string>
+  <!-- Chat -->
+  <string name="%ld hour(s)">%d сағат</string>
+  <!-- Chat -->
+  <string name="%ld hour(s) and %ld minute(s)">%1$d сағат %2$d минут</string>
+  <!-- Chat -->
+  <string name="%ld minute(s)">%d минут</string>
+  <!-- Onboarding -->
+  <string name="0do-nN-2js.text">Бұл қосымшаны тек бір рет орнатуға болады</string>
+  <!-- Class = "UIButton"; normalTitle = "Continue"; ObjectID = "0Ga-eo-7Wk"; -->
+  <string name="0Ga-eo-7Wk.normalTitle">Жалғастыру</string>
+  <!-- Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "0Mf-cG-rEc"; -->
+  <string name="0Mf-cG-rEc.text">Шарттар мен Талаптар</string>
+  <string name="1 day ago">1 күн бұрын</string>
+  <string name="1 hour ago">1 сағат бұрын</string>
+  <string name="1 minute ago">1 минут бұрын</string>
+  <string name="1 month ago">1 ай бұрын</string>
+  <string name="1 second ago">1 секунд бұрын</string>
+  <string name="1 week ago">1 апта бұрын</string>
+  <string name="1 year ago">1 жыл бұрын</string>
+  <!-- Chat with Support -->
+  <string name="16p-VI-kKz.text">Қолдау қызметі</string>
+  <!-- Settings > Profile -->
+  <string name="1YL-bj-hij.text">Қала</string>
+  <!-- Onboarding -->
+  <string name="27F-Si-n8f.normalTitle">Жалғастыру</string>
+  <!-- Onboarding -->
+  <string name="294-Xg-p9x.normalTitle">Жою</string>
+  <!-- Settings > Profile -->
+  <string name="2A7-9h-fzx.text">Жынысы</string>
+  <!-- Contacts -->
+  <string name="2gg-qZ-4My.text">Желіде емес</string>
+  <!-- Chat -->
+  <string name="2kZ-Sc-Dcb.normalTitle">Жіберу</string>
+  <!-- Onboarding -->
+  <string name="2s0-du-WxI.text">VEON Орталығымен таныс болыңыз</string>
+  <!-- Onboarding -->
+  <string name="2yb-SC-5YE.text">Дайын!</string>
+  <!-- Onboarding -->
+  <string name="306-11-EZZ.text">Айтпақшы, сізді кім және қалай көретінін кез-келген уақытта баптауларда өзгерте аласыз</string>
+  <!-- Contacts -->
+  <string name="3f3-D1-3g3.text">ШАҚЫРУ ЖІБЕРІЛДІ</string>
+  <!-- Contacts -->
+  <string name="3HP-y9-vMU.text">VEON-да бар контактілер</string>
+  <!-- Contacts -->
+  <string name="3jK-Gh-JIb.text">ШАҚЫРУ ЖІБЕРІЛДІ</string>
+  <!-- Onboarding -->
+  <string name="3K8-1X-8gL.normalTitle">Жалғастыру</string>
+  <!-- Onboarding -->
+  <string name="3Qh-ah-ZDi.normalTitle">Басқа нөмір қолданыңыз</string>
+  <!-- Onboarding -->
+  <string name="3YQ-8y-x6w.text">Эл. пошта</string>
+  <!-- Onboarding -->
+  <string name="44H-An-ylt.text">Эл. пошта</string>
+  <!-- Chat -->
+  <string name="4aL-uK-ye6.text">Желіде</string>
+  <!-- Onboarding -->
+  <string name="4Ei-kl-Oki.normalTitle">Жалғастыру</string>
+  <string name="4U4-oC-zYa.text">Мені адамдардың табуына болады</string>
+  <!-- Settings -->
+  <string name="5iT-x8-F2E.normalTitle">Шығасыз ба?</string>
+  <!-- Onboarding -->
+  <string name="5Ma-yG-20u.normalTitle">Жою</string>
+  <!-- Onboarding -->
+  <string name="5MC-JQ-p8A.text">Сұхбатты\nбастау</string>
+  <!-- Contacts -->
+  <string name="5T4-8c-gZv.text">Өтінім әлі расталмады</string>
+  <!-- Voice -->
+  <string name="5YO-NH-0UO.normalTitle">Дыбыссыз </string>
+  <!-- Voice -->
+  <string name="66t-AH-g05.text">VEON Қоңырауы </string>
+  <!-- Onboarding -->
+  <string name="6cd-eL-JDc.normalTitle">Телефон нөмірін растау</string>
+  <!-- Contacts -->
+  <string name="6D1-Ye-7dr.placeholder">Ұялы телефон нөмірі</string>
+  <!-- Onboarding -->
+  <string name="6L9-11-UV5.normalTitle">Жалғастыру</string>
+  <!-- Onboarding -->
+  <string name="6Vt-ZC-5eV.text">Енді Сіздің профиліңіз VEON-да! Өзіңіз білетін адамдарды контактілер тізіміне қосыңыз.\nБұны тездету үшін біз телефоныңыздағы контактілерді пайдаланамыз.</string>
+  <!-- Settings -->
+  <string name="6Xl-UA-ZaM.text">Қосымшадан шынымен шыққыңыз келе ме?</string>
+  <!-- Chat -->
+  <string name="6Yd-tj-hAz.text">Бастапқы қалпына қайтару</string>
+  <string name="7kT-7J-gXT.normalTitle">Жалғастыру</string>
+  <!-- Settings -->
+  <string name="8E9-y6-xMm.text">Ұялы телефон</string>
+  <!-- Chat -->
+  <string name="8Rz-Nz-L2V.disabledTitle">ЖІБЕРУ</string>
+  <!-- Chat -->
+  <string name="8Rz-Nz-L2V.normalTitle">ЖІБЕРУ</string>
+  <!-- Class = "UILabel"; text = "Your email is now verified!"; ObjectID = "8sB-zI-iSo"; -->
+  <string name="8sB-zI-iSo.text">Эл. поштаңыз расталды!</string>
+  <!-- Class = "UILabel"; text = "We’ve also saved this offer\nin your My Veon account."; ObjectID = "963-iF-Bt3"; -->
+  <string name="963-iF-Bt3.text">Бұл ұсынысты\nVEON аккаунтыңызда сақтап қойдық.</string>
+  <string name="99C-Rv-OYN.title">Жою</string>
+  <!-- Chat -->
+  <string name="9eP-Wm-i2R.text">Басыңыз</string>
+  <!-- Chat -->
+  <string name="9gA-AC-66C.text">Суретке түсіру</string>
+  <!-- Settings > Profile -->
+  <string name="9Jx-C4-cMn.text">Бұл сурет VEON аккаунтыңызда және чаттарда көрсетіледі</string>
+  <!-- Chat -->
+  <string name="9MS-3E-ndb.text">Сізде әзірше бір де бір контакт жоқ</string>
+  <!-- Settings -->
+  <string name="9te-ny-fg1.title">Жиі қойылатын сұрақтар</string>
+  <string name="A minute ago">1 минут бұрын</string>
+  <!-- Class = "UILabel"; text = "We will send a verification code to your email. You can verify your email by entering this code in the next step."; ObjectID = "A5U-Lj-RK2"; -->
+  <string name="A5U-Lj-RK2.text">Біз эл. поштаңызға растау кодын жібереміз. Сіз келесі қадамда осы кодты енгізу арқылы эл. поштаңызды растай аласыз.</string>
+  <!-- Settings -->
+  <string name="ABJ-Rh-6qr.title">Карта</string>
+  <!-- Settings -->
+  <string name="about.libraries.title">Лицензиялар</string>
+  <!-- Settings -->
+  <string name="about.version.app">%1$s (%2$s) нұсқасы</string>
+  <!-- Settings -->
+  <string name="about.version.server">Сервер нұсқасы: %s</string>
+  <!-- Settings -->
+  <string name="aCH-uv-lcS.text">Ұялы телефон</string>
+  <!-- Onboarding -->
+  <string name="acU-cC-Rzd.text">Сау болып жүр, өзің басқар\n, білуші бол</string>
+  <!-- Onboarding -->
+  <string name="adV-jp-7r7.text">Аталғандардың барлығымен келісетін болсаңыз, қанат белгісін қойыңыз</string>
+  <string name="AgC-eL-Hgc.title">Батырма</string>
+  <!-- Chat -->
+  <string name="Agent">Агент</string>
+  <!-- Chat -->
+  <string name="aGi-0R-7L8.placeholder">Іздеу</string>
+  <!-- Chat -->
+  <string name="ai7-au-cJy.text">Жою</string>
+  <!-- Onboarding -->
+  <string name="AlH-89-Bq9.text">Аталғандардың барлығымен келісетін болсаңыз, қанат белгісін қойыңыз</string>
+  <string name="An hour ago">1 сағат бұрын</string>
+  <!-- Class = "UILabel"; text = "Invite sent"; ObjectID = "An1-dl-QIv"; -->
+  <string name="An1-dl-QIv.text">Шақыру жіберілді</string>
+  <!-- Settings > Profile -->
+  <string name="ArV-xL-Qmu.text">Туған күні</string>
+  <!-- Voice -->
+  <string name="asm-qs-2yJ.normalTitle">Динамик</string>
+  <!-- Settings -->
+  <string name="B1b-0g-a6f.headerTitle">ҚАРІП</string>
+  <!-- Contacts -->
+  <string name="bH7-vI-b1l.normalTitle">Контактілер</string>
+  <!-- Settings > Profile -->
+  <string name="BMl-FH-1Fg.title">Профиль</string>
+  <!-- Onboarding -->
+  <string name="bSA-aJ-d4S.text">Телефон нөміріңізді растаңыз</string>
+  <!-- Settings > Profile -->
+  <string name="bTC-gX-Dba.text">Ел</string>
+  <!-- Chat -->
+  <string name="buw-Kv-wxo.text">Бастапқы қалпына қайтару</string>
+  <!-- Settings -->
+  <string name="bxb-Q9-wyk.title">Қосымша туралы</string>
+  <!-- Voice -->
+  <string name="ByL-15-Rmn.text">Дыбыссызға қою</string>
+  <!-- Contacts -->
+  <string name="C2X-tU-Ene.title">Адамдарды іздеу</string>
+  <string name="call.cellular">Ұялы телефон арқылы қоңырау соғу</string>
+  <string name="call.cellular.description">Ұялы байланыс операторының тарифтері қолданылуы мүмкін</string>
+  <!-- Voice -->
+  <string name="call.end.cause">Жүйелік қате орын алды</string>
+  <!-- Voice -->
+  <string name="call.end.cause.answered">Қоңырауыңызға басқа құрылғыдан жауап берілді</string>
+  <!-- Voice -->
+  <string name="call.end.cause.busy">Контакт бос емес</string>
+  <string name="call.end.cause.connection_lost.my_side">Байланыс жоғалды. Интернетке байланысыңызды тексеріңіз және қайтадан қоңырау соғыңыз.</string>
+  <string name="call.end.cause.connection_lost.other_side">%s интернет байланысын жоғалтып алды. Кейінірек хабарласыңыз.</string>
+  <string name="call.end.cause.connection_lost.other_side_offline">%s желіде емес. Кейінірек хабарласыңыз.</string>
+  <!-- Voice -->
+  <string name="call.end.cause.declined">Қоңырау басқа құрылғыда қабылданбады</string>
+  <!-- Voice -->
+  <string name="call.end.cause.incorrect_response">Сервер дұрыс жауап бермеді</string>
+  <!-- Voice -->
+  <string name="call.end.cause.malformed_packet">Файл зақымданған</string>
+  <!-- Voice -->
+  <string name="call.end.cause.not_answered">Контакт жауап бермеді</string>
+  <!-- Voice -->
+  <string name="call.end.cause.unknow">Белгісіз қате</string>
+  <!-- Voice -->
+  <string name="call.end.cause.user_declined">Контакт бос емес </string>
+  <!-- Voice -->
+  <string name="call.error.parallel.audio.play">Қоңырау кезінде дыбыстық жазбалар қосылмайды</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.audio.record">Қоңырау кезінде дыбыстық хабарлама жазу мүмкін емес</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.call">Бір уақытта екі қоңырау жасай алмайсыз</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.gsm_call">Бір уақытта екі қоңырау жасау мүмкін емес</string>
+  <!-- Voice -->
+  <string name="call.error.parallel.video.play">Қоңырау кезінде видео қосу мүмкін емес</string>
+  <string name="call.history.no_sync.alert.button.no">Жоқ</string>
+  <string name="call.history.no_sync.alert.button.yes">Иә</string>
+  <string name="call.history.no_sync.alert.text">VEON арқылы қоңырау соғу оңай! Контактілеріңізді телефоннан көшіріп, сөйлесе беріңіз.</string>
+  <string name="call.history.no_sync.alert.title">Қоңырау соғу</string>
+  <string name="call.history.placeholder.has_calls.no_sync.text"><a>Телефоныңыздағы контактілерді синхрондаңыз</a>\nБайланыста болыңыз.</string>
+  <string name="call.history.placeholder.no_calls.has_contacts.text">
+    <a>Бірінші қоңырау соғу</a>
+  </string>
+  <string name="call.history.placeholder.no_calls.has_contacts.title">Сәлемдесетін уақыт келді</string>
+  <string name="call.history.placeholder.no_calls.no_contacts.text">Әңгімелесу үшін\n<a>Достарды іздеу</a>.</string>
+  <string name="call.history.placeholder.no_calls.no_contacts.title">Достарыңызды қосыңыз.\nОлармен байланыста болыңыз.</string>
+  <string name="call.history.placeholder.no_calls.no_sync.text">Әңгімелесу үшін\n<a>Телефон контактілерін синхрондаңыз</a>.</string>
+  <string name="call.history.placeholder.no_calls.no_sync.title">Достарыңызды шақырыңыз.\nОлармен байланыста болыңыз.</string>
+  <!-- Voice -->
+  <string name="call.hold.hold">%s қоңырауын кідірту</string>
+  <!-- Voice -->
+  <string name="call.hold.reject">%s қоңырауын бітіру</string>
+  <!-- Voice -->
+  <string name="call.popup.gsm.text">Телефон нөміріне қоңыраулар ұялы байланысы арқылы жасалады, төлем сіздің дауыстық тарифіңізге сәйкес жүреді</string>
+  <!-- Voice -->
+  <string name="call.popup.gsm.title">Телефон нөміріне қоңыраулар</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.text">Достарыңызға тегін қоңырау соғу үшін VEON телефонның интернет байланысын қолданады. Трафик шегерілуі мүмкін</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.title">VEON Call</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.wind.text">Достарыңызға тегін қоңырау соғу үшін VEON телефонның интернет байланысын қолданады</string>
+  <!-- Voice -->
+  <string name="call.popup.voip.wind.title">VEON Call</string>
+  <string name="call.rate.excellent">Керемет</string>
+  <string name="call.rate.fair">Орташа</string>
+  <string name="call.rate.good">Жақсы</string>
+  <string name="call.rate.poor">Нашар</string>
+  <string name="call.rate.very_poor">Өте нашар</string>
+  <string name="call.select_phone.title">%s-ды тер</string>
+  <!-- Voice -->
+  <string name="call.state.accepted">Қоңырау қабылданды</string>
+  <!-- Voice -->
+  <string name="call.state.calling">Терілуде...</string>
+  <!-- Voice -->
+  <string name="call.state.connecting">Байланыс орнатылуда...</string>
+  <!-- Voice -->
+  <string name="call.state.ended">VEON Call аяқталды</string>
+  <!-- Voice -->
+  <string name="call.state.incoming_call">VEON Call келіп тұр...</string>
+  <!-- Voice -->
+  <string name="call.state.in_call">VEON Call жүріп жатыр...</string>
+  <!-- Voice -->
+  <string name="call.state.on_hold">Кідіртілген</string>
+  <!-- Voice -->
+  <string name="call.state.reconnecting">Қайтадан байланыс орнатылуда...</string>
+  <string name="call.veon_out.coach_mark.done">Түсінікті</string>
+  <string name="call.veon_out.coach_mark.text">Енді сіз мемлекеттік нөмірлерге айына 100 минутқа дейін тегін қоңырау соға аласыз.\n\nНөмір таңдаңыз да, VEON-Out батырмасын шертіңіз.</string>
+  <string name="call.veon_out.coach_mark.title">Жаңа! Veon-Out</string>
+  <string name="call.veon_out.first_time.text">Қоңырау соғу үшін бұл нөмірдің алдына қосымша код (%s) жалғанады.</string>
+  <string name="call.veon_out.first_time.title">Сіз Veon-Out қоңырауын соғайын деп жатырсыз</string>
+  <!-- Voice -->
+  <string name="call.voip">VEON Call</string>
+  <string name="call.voip.description">Интернет арқылы тегін қоңырау соғу</string>
+  <string name="call.voip.offline">Интернетке жалғанбаған жағдайда қоңырау соғу мүмкін емес</string>
+  <!-- Chat -->
+  <string name="Camera">Камера</string>
+  <!-- Chat -->
+  <string name="Can not check this number">Нөмірді тексеру әзірше мүмкін емес</string>
+  <!-- Chat -->
+  <string name="Can not connect to the server">Сервермен байланыс орнатылмады</string>
+  <!-- Chat -->
+  <string name="Can not delete messages">Хабарламаларды өшіру әзірше мүмкін емес</string>
+  <!-- Chat -->
+  <string name="Can not play video">Видеоны көрсету мүмкін емес</string>
+  <!-- Chat -->
+  <string name="Can not prepare video">Видеоны әзірлеу мүмкін болмады</string>
+  <!-- Chat -->
+  <string name="Can not send emails">Хат жіберу әзірше мүмкін емес</string>
+  <!-- Chat -->
+  <string name="Can not send logs">Журналдарды жіберу әзірше мүмкін емес</string>
+  <!-- Chat -->
+  <string name="Can not send text messages">Хабарлама жіберу әзірше мүмкін емес</string>
+  <!-- Settings -->
+  <string name="Can not update user info">Қолданушы туралы мәліметті жаңарту әзірше мүмкін емес</string>
+  <!-- Settings -->
+  <string name="cancel_account.hint">Ескі аккаунттағы мәліметтер өшірілген. Қосымшаға қайтадан кірмейтін болсаңыз, одан шығыңыз. Келесі кіргеніңізде қызметке қайтадан тіркелу және жаңа аккаунт жасау керек болады.</string>
+  <!-- Settings -->
+  <string name="cancel_account.success">Сіздің аккаунтыңыз жойылды</string>
+  <!-- Chat -->
+  <string name="Caption">Сипаттама</string>
+  <!-- Class = "UIButton"; normalTitle = "Connect"; ObjectID = "cfs-rw-DEh"; -->
+  <string name="cfs-rw-DEh.normalTitle">Жалғану</string>
+  <!-- Onboarding -->
+  <string name="change_number.resend_code.p1">Код әлі келмеді ме?</string>
+  <!-- Onboarding -->
+  <string name="change_number.resend_code.p2">Кодты қайтадан алу</string>
+  <!-- Group chat -->
+  <string name="Chat name updated">Чат аты жаңартылды</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members">Жаңа мүше қосу</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members.error">Қолданушыларды қосу мүмкін емес.</string>
+  <!-- Chat -->
+  <string name="chat.action.add_members.loading">Қолданушылар қосылуда...</string>
+  <!-- Chat -->
+  <string name="chat.action.add_to_contacts">Контактілерге қосу</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group">Топтан шығарып жіберу</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group.error">Қолданушыны чаттан шығару мүмкін емес.</string>
+  <!-- Chat -->
+  <string name="chat.action.kick_from_group.loading">Қолданушы топтан шығарылуда...</string>
+  <!-- Group chat -->
+  <string name="chat.action.leave_group">Топтан шығу</string>
+  <!-- Chat -->
+  <string name="chat.action.leave_group.error">Чаттан шығу мүмкін емес.</string>
+  <!-- Group chat -->
+  <string name="chat.action.leave_group.loading">Топтан шығу...</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.error">Атты жаңарту мүмкін емес.</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.error.description">Қап! Интернет байланысы жоқ.</string>
+  <!-- Chat -->
+  <string name="chat.action.name_update.loading">Атауы жаңартылуда...</string>
+  <!-- Chat -->
+  <string name="chat.action.new_call">Жаңа қоңырау</string>
+  <!-- Chat -->
+  <string name="chat.action.new_chat">Жаңа Чат</string>
+  <!-- Group chat -->
+  <string name="chat.action.new_group_chat">Жаңа Топтық Чат</string>
+  <!-- Chat -->
+  <string name="chat.action.start_new_chat">Жаңа чат бастау</string>
+  <!-- Chat -->
+  <string name="chat.action.start_new_chat_ex">%s дегенмен жаңа топтық чат</string>
+  <!-- Chat -->
+  <string name="chat.action.view_profile">Профильді көру</string>
+  <!-- Chat -->
+  <string name="chat.call.failed">Қоңырау соғуға талпындыңыз</string>
+  <!-- Chat -->
+  <string name="chat.call.incoming">Бір қоңырау қабылдадыңыз</string>
+  <!-- Chat -->
+  <string name="chat.call.missed">Қоңырау жіберіп алдыңыз</string>
+  <!-- Chat -->
+  <string name="chat.call.outgoing">Қоңырау соқтыңыз</string>
+  <!-- Chat -->
+  <string name="chat.call.time">%dмин. %dсек.</string>
+  <!-- Chat -->
+  <string name="chat.call.time.0min">%dсек.</string>
+  <!-- Chat -->
+  <string name="chat.call.time.1min">1 мин. %dсек.</string>
+  <!-- Chat -->
+  <string name="chat.call_history.declined_call">Қабылданбаған қоңырау</string>
+  <!-- Chat -->
+  <string name="chat.call_history.incoming_call">Кіріс қоңырау (%02d:%02d)</string>
+  <!-- Chat -->
+  <string name="chat.call_history.missed_call">Жіберіп алған қоңырау</string>
+  <!-- Chat -->
+  <string name="chat.call_history.not_answered">%s қоңырауға жауап бермеді</string>
+  <!-- Chat -->
+  <string name="chat.call_history.not_answered_call">Қоңырауға жауап берілмеді</string>
+  <!-- Chat -->
+  <string name="chat.call_history.outgoing_call">Соғылған қоңырау (%02d:%02d)</string>
+  <string name="chat.call_log.type.default">VEON Call</string>
+  <!-- Channel chats -->
+  <string name="chat.channel.daily">Бүгінгі қызықтар</string>
+  <!-- Chat -->
+  <string name="chat.create.error.title">Топты құру мүмкін емес.</string>
+  <!-- Chat -->
+  <string name="chat.create.loading">Жасалуда...</string>
+  <!-- Chat -->
+  <string name="chat.create_group">Жаңа топ құру</string>
+  <!-- Chat -->
+  <string name="chat.error.not_send_message">Жіберілмеді. Қайтадан жіберу үшін басыңыз.</string>
+  <!-- Chat -->
+  <string name="chat.forward.to_group">Бұл хабарламаны %s тобына жібергіңіз келеді ме?</string>
+  <!-- Chat -->
+  <string name="chat.forward.to_person">Бұл хабарламаны %s дегенге жібергіңіз келеді ме?</string>
+  <string name="chat.group.name">Топ аты</string>
+  <string name="chat.index.read.title">Оқылды деп белгілеу</string>
+  <!-- Group chat -->
+  <string name="chat.members">Мүшелер</string>
+  <string name="chat.members.plural">%i топ мүшесі</string>
+  <string name="chat.members.singular">%i топ мүшесі </string>
+  <!-- Group chat -->
+  <string name="chat.menu.add_members">Жаңа мүше қосу</string>
+  <!-- Chat -->
+  <string name="chat.menu.clear_chat">Чатты өшіру</string>
+  <!-- Chat -->
+  <string name="chat.menu.faq">Жиі қойылатын сұрақтар</string>
+  <!-- Group chat -->
+  <string name="chat.menu.leave_group">Топтан шығу</string>
+  <!-- Chat -->
+  <string name="chat.menu.search">Осы чаттан іздеу</string>
+  <string name="chat.message.attachment.contact">Контактімен бөлісу</string>
+  <string name="chat.message.attachment.media">Сурет/видео жіберу</string>
+  <string name="chat.message.attachment.voice">Дауыстық хабарлама жазу</string>
+  <!-- Onboarding -->
+  <string name="chat.message.placeholder">Хабарлама жазу...</string>
+  <!-- Contacts -->
+  <string name="chat.modifications.action.accept_friend">контактілерге қосылу өтініміңізді қабылдады</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user">%s дегенді топқа қосты</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user.from_me">%s дегенді топқа қостыңыз</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.add.user.you">сізді топқа қосты</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.agent_join">сеансқа қосылды</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.agent_left">сеанстан шығып кетті</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group">%d қатысушы бар топ құрды</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group.many.from_me">%d қатысушы бар топ құрды</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.create.group.one.from_me">%d қатысушы бар топ құрды</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.me">сізді топтан шығарып жіберді</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.user">%s дегенді топтан шығарды</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.user.from_me">%s дегенді топтан шығардыңыз</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.yourself">топтан шықты</string>
+  <!-- Group chat -->
+  <string name="chat.modifications.action.kick.yourself.from_me">топтан шықты</string>
+  <!-- Chat with Support -->
+  <string name="chat.modifications.action.session.end">Сеанс аяқталды</string>
+  <!-- Chat -->
+  <string name="chat.modifications.you">Сені</string>
+  <string name="chat.most_recent">Соңғылары</string>
+  <!-- Chat -->
+  <string name="chat.new.search_placeholder.new">Іздеу үшін басыңыз</string>
+  <string name="chat.offer.coming_soon">Айыптымыз! Бұл оқиғаны сізге қазір көрсете алмаймыз. Қам жемеңіз, жақында дұрыстаймыз...!</string>
+  <!-- Chat with Support -->
+  <string name="chat.popup.charge.text">Егер сіз Beeline абоненті болсаңыз және интернет қызметі қарастырылған болса, онда сіз VEON чатын қолданғанда гигабайт жұмсалмайды. Басқа операторлар таңдалған тарифке сәйкес төлем алулары мүмкін. Сұрақтарыңыз болса, beeline.kz сайтына кіріңіз.</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.title">VEON Чаты</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.wind.text">Хабарлама алып-жіберу телефонның интернет байланысы арқылы болады</string>
+  <!-- Chat -->
+  <string name="chat.popup.charge.wind.title">VEON Чаты</string>
+  <!-- Chat -->
+  <string name="chat.sending">Жіберілуде...</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.error.himself">Бұл контактіні оның өзіне жібере алмайсыз</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.to_group">Бұл контактіні %s тобына жібергіңіз келеді ме?</string>
+  <!-- Chat -->
+  <string name="chat.share_contact.to_person">Бұл контактіні %s дегенге жібергіңіз келеді ме?</string>
+  <string name="chat.sms_out.joined.text">Бұдан былай чат сіз үшін тегін және жарнамасыз!</string>
+  <string name="chat.sms_out.joined.title">Керемет! %s енді VEON қолданушысы. </string>
+  <string name="chat.sms_out.placeholder">Тегін хабарлама жазу...</string>
+  <string name="chat.sms_out.replies.info">Бұл контактінің жауаптары телефонның кіріс хабарламаларымен сақталады</string>
+  <string name="chat.sms_out.start.text">Бұл контактіге сізден хабарлама және VEON - ға қосылуға шақыру жіберіледі</string>
+  <string name="chat.sms_out.start.title">Тегін хабарлама жіберу</string>
+  <string name="chat.sms_out.tagline">Тегін қоңыраулар, чат және видео мен суреттер жіберу үшін VEON қосымшасын жүктеп алыңыз.</string>
+  <!-- Chat -->
+  <string name="chat.start_call">Қоңырау соғу</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.assistance_chat">Қолдау қызметі</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.call.title">Қолдау қызметіне қоңырау соғасыз ба?</string>
+  <!-- Chat -->
+  <string name="chat.support.call.yes">Қоңырау соғу</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.initial_message">Сәлем, %s! Проблемаңызды сипаттап беріңіз, сізге тез арада жауап береміз.</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.state.connected">қызмет қолданыста</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.state.connecting">қосылуда...</string>
+  <!-- Chat with Support -->
+  <string name="chat.support.state.disconnected">ажыратылды</string>
+  <!-- Chat -->
+  <string name="chat.title.many_users.suffix"> және тағы %d</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.ok">Кішірейту</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.text">Хабарлама %d белгіге қысқартылады.</string>
+  <!-- Chat -->
+  <string name="chat.warning.long_message.title">Хабарлама өте ұзын</string>
+  <!-- Chat -->
+  <string name="chat.warning.not_member">Сіз енді бұл топ мүшесі емессіз</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.fab_hint">Әңгімені бастаңыз</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.no_contacts.p1">Таныстарыңызды іздеңіз</string>
+  <!-- Chat -->
+  <string name="chats.no_groups.no_contacts.p2">VEON қосымшасында сөйлесуді бастау үшін</string>
+  <!-- Chat -->
+  <string name="chat_index.message.audio.from">Дыбыстық хабарлама жібердіңіз</string>
+  <!-- Chat -->
+  <string name="chat_index.message.audio.to">Сізге дыбыстық хабарлама жіберді</string>
+  <!-- Chat -->
+  <string name="chat_index.message.contact.from">Контактіні жібердіңіз (%s)</string>
+  <!-- Chat -->
+  <string name="chat_index.message.contact.to">(%s) сізге контакт жіберді</string>
+  <!-- Chat -->
+  <string name="chat_index.message.image.from">Сурет жібердіңіз</string>
+  <!-- Chat -->
+  <string name="chat_index.message.image.to">Сізге сурет жіберді</string>
+  <string name="chat_index.message.offer">оқиғамен бөлісті</string>
+  <string name="chat_index.message.offer_from_me">оқиғамен бөлісті</string>
+  <!-- Chat -->
+  <string name="chat_index.message.video.from">Сіз видео жібердіңіз</string>
+  <!-- Chat -->
+  <string name="chat_index.message.video.to">Сізге видео жіберді</string>
+  <string name="chat_index.no_sync.alert.button.no">Жоқ</string>
+  <string name="chat_index.no_sync.alert.button.yes">Иә</string>
+  <string name="chat_index.no_sync.alert.text">Сұхбаттаcу, сөйлесу, бөлісу... VEON-мен бұның барлығы тегін.</string>
+  <string name="chat_index.no_sync.alert.title">Контактілеріңізді синхрондаңыз</string>
+  <string name="chat_index.placeholder.has_chats.no_sync.text">Сұхбаттасу үшін <a>Телефондағы контактілерді синхрондаңыз</a>\n.</string>
+  <string name="chat_index.placeholder.no_chats.has_contacts.title">Сұхбаттасуды баста.\nЕшқашан тоқтама.</string>
+  <string name="chat_index.placeholder.no_chats.no_contacts.text">Сұхбаттасу үшін\n<a>Достарыңызды іздеңіз</a>.</string>
+  <string name="chat_index.placeholder.no_chats.no_contacts.title">Достарыңды шақыр.\nҚызықты шақтарға бірге қуан.</string>
+  <string name="chat_index.placeholder.no_chats.no_sync.text">Сұхбаттасу үшін <a>Телефондағы контактілерді синхрондаңыз</a>\n.</string>
+  <string name="chat_index.placeholder.no_chats.no_sync.title">Достарыңды шақыр.\nҚызықты шақтарға бірге қуан.</string>
+  <!-- Chat -->
+  <string name="chat_index.typing">%s жазып жатыр...</string>
+  <!-- Chat -->
+  <string name="check your connection">Байланысты тексеріңіз</string>
+  <!-- Log-in -->
+  <string name="ckG-7G-wfN.text">Аккаунтыңызды анықтап, оған кіру үшін мына кодты төменде енгізіңіз:</string>
+  <!-- Chat -->
+  <string name="Clear all messages?">Барлық хабарламалар өшірілсін бе?</string>
+  <!-- Chat -->
+  <string name="Clearing...">Өшірілуде...</string>
+  <!-- Class = "UILabel"; text = "You can enable access in Privacy Settings."; ObjectID = "clU-J7-sTr"; -->
+  <string name="clU-J7-sTr.text">Құпиялылық баптауларында рұқсат бере аласыз.</string>
+  <string name="coach_note_verify_email_button">Эл. поштаны растау</string>
+  <string name="coach_note_verify_email_confirmed">Эл. поштаңыз расталды!</string>
+  <!-- Coach note - Initial: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="coach_note_verify_email_main">Төмендегі эл. поштаға растау кодын жібереміз. Келесі қадамда осы кодты енгізіңіз.</string>
+  <!-- Second part of text in Coach Note - Initial -->
+  <string name="coach_note_verify_email_second">Телефоныңыз жоғалғанда немесе нөміріңіз өзгергенде, бөтен адамдардың аккаунтыңызға кіруіне жол бермеу үшін, эл. поштаңызды растаңыз.</string>
+  <string name="coach_note_verify_email_title">Эл. поштаны растау</string>
+  <string name="common.active.last.date">Желіде соңғы  болған кезі: %s</string>
+  <string name="common.active.last.day">Желіде соңғы болған кезі: %s</string>
+  <string name="common.active.last.min">Желіде соңғы болған кезі: %s</string>
+  <string name="common.active.last.time">Желіде соңғы болған кезі: %s</string>
+  <string name="common.active.last.yesterday">Желіде кеше болды</string>
+  <string name="common.active.now">Қазір желіде</string>
+  <!-- Chat -->
+  <string name="common.agree">Келісу</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.choose">Кітапханадан сурет таңдау</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.delete">Суретті алып тастау</string>
+  <!-- Settings -->
+  <string name="common.avatar.fb">Facebook суретімді қою</string>
+  <!-- Settings -->
+  <string name="common.avatar.select">Аватар таңдау</string>
+  <!-- Chat, Settings -->
+  <string name="common.avatar.take">Суретке түсіру</string>
+  <!-- Chat -->
+  <string name="common.cancel">Жою</string>
+  <string name="common.confirm.navigation.cancel">Жою</string>
+  <string name="common.confirm.navigation.ok">Жалғастыру</string>
+  <string name="common.confirm.navigation.text">Сілтеме үйреншікті браузеріңізде ашылады, тариф шегерілуі мүмкін.</string>
+  <string name="common.confirm.navigation.title">Ауысатыныңызды растаңыз</string>
+  <!-- Chat -->
+  <string name="common.copy">Көшіру</string>
+  <!-- Chat -->
+  <string name="common.date.past_date">%sде</string>
+  <!-- Chat -->
+  <string name="common.error">Қате</string>
+  <!-- Chat -->
+  <string name="common.error.internal">Белгісіз қате</string>
+  <!-- Chat -->
+  <string name="common.just_now">Жаңа ғана</string>
+  <!-- Chat -->
+  <string name="common.last_seen">Соңғы рет %s болды</string>
+  <!-- Chat -->
+  <string name="common.loading">Жүктелуде...</string>
+  <!-- Chat -->
+  <string name="common.next">Келесі</string>
+  <!-- Chat -->
+  <string name="common.ok">ОК</string>
+  <!-- Chat -->
+  <string name="common.ok.continue">Жалғастыру</string>
+  <!-- Contacts -->
+  <string name="common.online">Желіде</string>
+  <!-- Contacts -->
+  <string name="common.refresh.done.contacts.found">%d жаңа контакт</string>
+  <!-- Contacts -->
+  <string name="common.refresh.done.contacts.none">Жаңа контакт жоқ</string>
+  <!-- Contacts -->
+  <string name="common.refresh.in_progress.contacts">Контактілерді жаңарту</string>
+  <!-- Chat -->
+  <string name="common.refresh.pull">Жаңарту үшін төмен тартыңыз</string>
+  <!-- Chat -->
+  <string name="common.refresh.release">Жаңарту үшін жіберіңіз</string>
+  <!-- Chat -->
+  <string name="common.save">Сақтау</string>
+  <!-- Chat -->
+  <string name="common.save.loading">Сақталуда...</string>
+  <!-- Chat -->
+  <string name="common.send">Жіберу</string>
+  <string name="common.sent">Жіберілді</string>
+  <!-- Chat -->
+  <string name="common.today">Бүгін</string>
+  <!-- Chat -->
+  <string name="common.wating">Күте тұрыңыз...</string>
+  <!-- Chat -->
+  <string name="common.yesterday">Кеше</string>
+  <!-- Chat -->
+  <string name="common.you">Сіз</string>
+  <!-- Contacts -->
+  <string name="Contacts">Контактілер</string>
+  <string name="contacts.invite.hint.button">Достарыңызды шақыру</string>
+  <string name="contacts.invite.hint.text">Телефон кітапшаңыздағы ең жақын 5 досыңызды шақырыңыз және әрқайсысы үшін сыйлық алыңыз</string>
+  <string name="contacts.invite.hint.title">VEON достарыңызбен тіпті жақсы болады.\nОларды қазір шақырыңыз.</string>
+  <string name="contacts.invite.success.text">Олар VEON - ға қосылғанда біз сізге хабарлаймыз.</string>
+  <string name="contacts.invite.success.title">Керемет! Сіздің шақыруыңыз %s дегенге жіберілді.</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p1">Адамдарды табу</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p2">Сіз VEON - да танитындарды, қосымшаны немесе функциясын қолдану үшін</string>
+  <!-- Contacts -->
+  <string name="contacts.no_contacts.text.p3">телефондағы контактілеріңізді синхрондаңыз.</string>
+  <string name="contacts.placeholder.has_contacts.no_sync.text">Сұхбаттасу үшін <a>Телефон кітапшасын синхрондаңыз</a>\n.</string>
+  <string name="contacts.placeholder.no_contacts.text">Сұхбаттасу үшін <a>Телефон кітапшасын синхрондаңыз</a>\n.</string>
+  <string name="contacts.placeholder.no_contacts.title">Достарыңды шақыр да,\n соңғы қызықтарды біл</string>
+  <string name="contacts.sections.ab">Телефон кітапшасы</string>
+  <string name="contacts.sections.outside_veon">VEON - нан тыс контактілер </string>
+  <!-- Contacts -->
+  <string name="contacts.sections.requests">Контакт қосу өтінімдері</string>
+  <string name="contacts.sections.suggested">Мүмкін сіз мыналарды танисыз</string>
+  <string name="contacts.sections.veon">VEON-дағы контактілер</string>
+  <string name="contacts.view_more.less">Жасыру</string>
+  <string name="contacts.view_more.more">Тағы</string>
+  <string name="contacts.view_more.requests.counts">%d өтінімнен %d </string>
+  <string name="contacts.view_more.suggestions.counts">Мыналарды мүмкін танисыз: %d - дан %d - і</string>
+  <!-- Chat -->
+  <string name="Couldn't load. Tap to retry">Жүктелмеді. Қайтадан жүктеп көру үшін басыңыз.</string>
+  <!-- Chat -->
+  <string name="Create">Жасау</string>
+  <!-- Chat -->
+  <string name="Created by %@ on %@">Бұны %1$s %2$ssда жасады</string>
+  <!-- Settings -->
+  <string name="Credit Card">Карта</string>
+  <!-- Voice -->
+  <string name="cRl-i8-KnZ.title">Қоңыраулар тарихы</string>
+  <!-- Settings -->
+  <string name="CSt-gJ-L4f.text">Қала</string>
+  <!-- Settings -->
+  <string name="ctN-bL-TuC.title">Баптаулар</string>
+  <!-- Settings, Onboarding -->
+  <string name="Ctr-a9-JRd.text">Аты</string>
+  <!-- Onboarding -->
+  <string name="CVf-bV-zvO.text">Төменде келтірілгендердің барлығымен келіссеңіз, қанат белгісін қойыңыз</string>
+  <!-- Onboarding -->
+  <string name="CXC-Ux-dZn.text">Жою</string>
+  <!-- Onboarding -->
+  <string name="cYe-Mh-afP.text">6-сандық коды бар SMS - ті -ге жібердік</string>
+  <!-- Group chat -->
+  <string name="d1R-fa-fo1.text">Сіз бұл топқа хабарлама жібере алмайсыз. Себебі, сіз ендігі бұл топ қатысушысы емессіз.</string>
+  <!-- Settings > Profile -->
+  <string name="D3i-kU-TX4.normalTitle">ПРОФИЛЬ СУРЕТІН ҚОЮ</string>
+  <!-- Onboarding -->
+  <string name="D7k-jb-nFO.text">Растауды бітіру үшін төменде кодты енгізіңіз.</string>
+  <!-- Class = "UIButton"; normalTitle = "Verify Email"; ObjectID = "DdU-FZ-tTJ"; -->
+  <string name="DdU-FZ-tTJ.normalTitle">Эл. поштаны растау</string>
+  <!-- Chat -->
+  <string name="Delete">Өшіру</string>
+  <!-- Chat -->
+  <string name="delete_done_btn">Өшіру</string>
+  <!-- Chat -->
+  <string name="Deleting...">Өшірілуде...</string>
+  <!-- Onboarding -->
+  <string name="dHw-gJ-d3J.text">6-сандық коды бар SMS - ті келесі поштаға жібердік:</string>
+  <!-- Onboarding -->
+  <string name="dMH-Cg-31v.text">Қате код. Тағы да байқап көріңіз.</string>
+  <!-- Onboarding -->
+  <string name="Dmm-tp-lGN.text">Төменде келтірілгендердің барлығымен келіссеңіз, қанат белгісін қойыңыз</string>
+  <!-- Onboarding -->
+  <string name="Done">Болды</string>
+  <!-- Chat -->
+  <string name="Done (%d)">(%d) дайын</string>
+  <!-- Chat -->
+  <string name="Done_restore_btn (%d)">(%d) дайын</string>
+  <!-- Chat -->
+  <string name="Download audio">Дыбыстық хабарламаны жүктеп алу</string>
+  <!-- Group chat -->
+  <string name="dva-nC-xJq.normalTitle">ТОПТАН ШЫҒУ</string>
+  <!-- Chat, record audio to send -->
+  <string name="Dyx-Fy-fYb.text">Жазу</string>
+  <string name="e9v-su-i0a.text">Сіздің соңғы орналасқан жеріңіз туралы мәлімет VEON профиліңізде көрсетіледі. Бұл арқылы достарыңыз бен жақындарыңыз сіздің қай жерде екеніңізді көріп отырады және байланыста болады.\n\nСіз орналасқан жеріңізді кез-келген уақытта жасыра аласыз. Ол үшін құпиялылық баптауларын сәйкесінше өзгертіңіз.</string>
+  <!-- Group chat -->
+  <string name="Edit group name">Топ атын өзгерту</string>
+  <!-- Class = "UILabel"; text = "Request sent"; ObjectID = "eE3-f9-QSr"; -->
+  <string name="eE3-f9-QSr.text">Өтінім жіберілді</string>
+  <!-- Onboarding -->
+  <string name="EfE-mX-pxF.text">Код қате. Тағы да байқап көріңіз.</string>
+  <!-- Contacts -->
+  <string name="egM-Qq-lVz.text">ШАҚЫРУ ЖІБЕРІЛДІ</string>
+  <!-- Onboarding, remember me check box -->
+  <string name="ekM-qT-Gd2.text">Мені есте сақта</string>
+  <!-- Contacts -->
+  <string name="eKP-Tc-YE8.text">Контакт карточкасы</string>
+  <string name="Email already registered">Бұл эл. пошта тіркелген</string>
+  <!-- Group chat -->
+  <string name="Empty group">Бос топ</string>
+  <!-- Chat -->
+  <string name="enU-cH-ScJ.title">Чат</string>
+  <string name="eOV-CI-jJJ.text">Бұл жерде сақталған ұсыныстарыңыз көрсетіледі.</string>
+  <!-- Contacts -->
+  <string name="ewE-Zo-Ybq.normalTitle">ШАҚЫРУ</string>
+  <!-- Voice -->
+  <string name="f8z-mU-hSL.normalTitle">Қоңырауды қабылдау</string>
+  <!-- Onboarding -->
+  <string name="Fg0-pt-NnI.title">Болды</string>
+  <!-- Settings -->
+  <string name="Fge-V5-tEB.text">Қаріп өлшемі</string>
+  <!-- Chat -->
+  <string name="Forward">Бөлісу</string>
+  <!-- Group chat -->
+  <string name="fqK-ah-yoA.normalTitle">Қатысушыларды қосу </string>
+  <!-- Class = "UILabel"; text = "Verification code"; ObjectID = "fqY-z4-0W3"; -->
+  <string name="fqY-z4-0W3.text">Сәйкестендіру коды</string>
+  <string name="Fri">Жұма</string>
+  <!-- Contacts -->
+  <string name="Friends restored">Қайтадан қосылған достар</string>
+  <!-- Voice -->
+  <string name="FT4-BA-R5u.normalTitle">Қоңырауды аяқтау</string>
+  <!-- Settings > Profile -->
+  <string name="fuH-Is-Cm0.text">Суретті алып тастау</string>
+  <!-- Settings -->
+  <string name="fwd-Wn-wtT.text">Шығу</string>
+  <!-- Class = "UILabel"; text = "Invalid code. Please try again."; ObjectID = "G0t-r1-scG"; -->
+  <string name="G0t-r1-scG.text">Қате код. Тағы да байқап көріңіз.</string>
+  <!-- Voice -->
+  <string name="g9X-E2-8X4.text">Дыбыссызға көшіру</string>
+  <!-- Voice -->
+  <string name="g9z-Rb-qGy.normalTitle">Қоңырауды қабылдау</string>
+  <!-- Settings -->
+  <string name="GBJ-ak-pdn.text">Кеңейтпені пайдаланбас бұрын қосымша арқылы аккаунтыңызға кіруіңізді сұраймыз</string>
+  <!-- Contacts -->
+  <string name="Gll-0V-9Zw.placeholder">Ұялы телефон нөмірі</string>
+  <string name="global_search.section.chats">Чаттар</string>
+  <string name="global_search.section.contacts">Сіздің контактілеріңіз</string>
+  <string name="global_search.section.people">VEON қолданушылары</string>
+  <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "gm2-To-BUg"; -->
+  <string name="gm2-To-BUg.normalTitle">Жою</string>
+  <!-- Group chat -->
+  <string name="GROUPS">ТОПТАР</string>
+  <!-- Onboarding -->
+  <string name="gS2-qh-oCc.text">Эл. поштаны растаңыз</string>
+  <!-- Onboarding -->
+  <string name="h3L-4I-HCM.text">Дайын!</string>
+  <!-- Chat -->
+  <string name="Has no access to %@.">%sға кіруге рұқсаты жоқ.</string>
+  <!-- Chat -->
+  <string name="Has no access to Location Services.">Орналасқан жерді анықтау қызметін қолдану мүмкін болмай тұр.</string>
+  <!-- Class = "UILabel"; text = "No offer saved yet"; ObjectID = "hAZ-35-UVn"; -->
+  <string name="hAZ-35-UVn.text">Сақталған ұсыныс жоқ</string>
+  <!-- Class = "UILabel"; text = "Verify your email"; ObjectID = "hCq-e9-9L3"; -->
+  <string name="hCq-e9-9L3.text">Эл. поштаны растау</string>
+  <!-- Settings, Onboarding -->
+  <string name="HE6-AL-jq6.text">Аты</string>
+  <!-- Settings -->
+  <string name="HFA-BZ-dOq.text">Орналасқан жері</string>
+  <!-- Onboarding -->
+  <string name="Hg0-M0-eTv.text">Құттықтаймыз! VEON-ға қосылып, 3 досыңызды шақырғаныңыз үшін 1 ГБ тегін интернетке ие болдыңыз</string>
+  <!-- Onboarding -->
+  <string name="HnE-gA-dSY.title">Жою</string>
+  <!-- Settings -->
+  <string name="hTf-o6-wrB.text">© 2017 VEON Ltd. Барлық құқықтар қорғалған</string>
+  <!-- Settings -->
+  <string name="Hzt-mc-08z.title">Сіздің қалаңыз</string>
+  <!-- Settings -->
+  <string name="I3k-Dz-hUz.normalTitle">Көрсету</string>
+  <!-- Class = "UIButton"; normalTitle = "Save and close"; ObjectID = "i6K-OR-ppw"; -->
+  <string name="i6K-OR-ppw.normalTitle">Сақтау және жабу</string>
+  <string name="iBj-r6-iKO.text">Жіберілді, рахмет!</string>
+  <string name="iEc-yj-W8g.text">Видео үшін басып тұрыңыз, сурет үшін бір рет басыңыз</string>
+  <!-- onboarding pic -->
+  <string name="ikw-j7-BLM.text">Суретке түсіру</string>
+  <!-- Group chat -->
+  <string name="ilW-aD-YwA.title">Топтық чат туралы </string>
+  <string name="Incorrect credentials">Есептік деректер дұрыс емес</string>
+  <string name="initations.email.subject">Шақыру</string>
+  <string name="initations.email.text">%s дегенді шақыру</string>
+  <!-- Onboarding -->
+  <string name="initations.sms.text">VEON - ды байқап көрейік, ол - жаңа чат. http://getapp.veon.com/</string>
+  <!-- Chat -->
+  <string name="invitations.incoming">Қабылданды</string>
+  <!-- Contacts, sent invites to others -->
+  <string name="invitations.outgoing">Жіберілді</string>
+  <!-- Contacts -->
+  <string name="invitations.suggested">Ұсынылғандар</string>
+  <!-- Class = "UIButton"; normalTitle = "Invite"; ObjectID = "iqN-2l-5w5"; -->
+  <string name="iqN-2l-5w5.normalTitle">Шақыру</string>
+  <string name="iSw-cV-hy6.text">Осы арқылы достарыңыз сіздің қайда екеніңізді әрдайым біліп жүреді.</string>
+  <!-- Chat -->
+  <string name="itv-yj-Rqz.normalTitle">Чат</string>
+  <!-- Chat -->
+  <string name="J2i-su-LUh.text">Жаңа</string>
+  <!-- Onboarding -->
+  <string name="JaA-3Y-oC6.text">Растауды аяқтау үшін төменде кодты енгізіңіз.</string>
+  <!-- Onboarding -->
+  <string name="jeb-Wk-4Xi.text">Егер банк картаңызды тіркесеңіз, 6-айлық бумаңызды қосымша 10% жеңілдікпен аласыз</string>
+  <!-- Chat -->
+  <string name="JfB-70-Muf.descriptionFormat">Жаңа хабарлама</string>
+  <!-- Class = "UILabel"; text = "Find your recent chats, contacts, plus everyone else on Veon."; ObjectID = "Jir-FN-YFb"; -->
+  <string name="Jir-FN-YFb.text">Соңғы чаттарыңды, котактілеріңді және басқа адамдарды Veon - да тап.</string>
+  <!-- Group chat -->
+  <string name="jkp-Xi-Zzt.text">Топтық сурет жүктеу (міндетті емес)</string>
+  <!-- Class = "UILabel"; text = "Verifying your email guarantees that only you can access your account, especially in case you change your phone or number (or loose them)."; ObjectID = "joo-f3-Kdi"; -->
+  <string name="joo-f3-Kdi.text">Өз эл. поштаңызды растау аккаунтыңызға тек сіз ғана кіре алатындығыңызға кепілдік береді, бұл әсіресе телефоныңыз ауысқан жағдайда немесе нөміріңіз өзгергенде (жоғалғанда) қолайлы.</string>
+  <!-- Onboarding -->
+  <string name="jqY-oV-Luk.text">Сәйкестендіру коды</string>
+  <string name="Just now">Жаңа ғана</string>
+  <string name="JuW-h3-zaL.text">Орналасқан жеріңізбен бөлісу</string>
+  <!-- Contacts -->
+  <string name="K5K-yW-faf.title">Адамдарды шақыру</string>
+  <!-- Contacts -->
+  <string name="k83-Yv-TRf.text">Veon</string>
+  <!-- Chat, first screen when no chats exist -->
+  <string name="kcF-Z3-tyL.text">Достарыңыз және туыстарыңызбен сұхбаттарыңызды осы жерде көре аласыз.</string>
+  <!-- Onboarding -->
+  <string name="kDC-ju-2QU.normalTitle">Жалғастыру</string>
+  <!-- Onboarding -->
+  <string name="Kiq-9e-3Ye.text">Достарыңызға сізді табуға көмектесіңіз: профиль суреті немесе аватар таңдаңыз</string>
+  <!-- onboarding photo -->
+  <string name="KRO-ZM-w5M.normalTitle">Өткізіп жіберу</string>
+  <!-- Settings > Profile -->
+  <string name="L8f-It-n2W.text">Суретті өзгерту үшін басыңыз</string>
+  <string name="Last month">Өткен айда</string>
+  <string name="Last seen %@">Соңғы рет %s болды</string>
+  <string name="Last week">Өткен аптада</string>
+  <string name="Last year">Өткен жылы</string>
+  <!-- Settings -->
+  <string name="leD-hz-aiL.text">Тұсқағаздар галереясы</string>
+  <!-- Chat -->
+  <string name="Less then 1 minute">1 минуттан аз</string>
+  <string name="lnZ-vR-axF.text">Менің орналасқан жерім жайлы ақпарат жинауына Veon-ға рұқсат беремін.</string>
+  <!-- Chat -->
+  <string name="Loading Video...">Видео жүктелуде...</string>
+  <!-- Settings -->
+  <string name="Location Services">Орналасқан жерді анықтау қызметі</string>
+  <!-- Onboarding -->
+  <string name="login.create_new_account.p1">Әлі аккаунтыңыз жоқ па?</string>
+  <!-- Onboarding -->
+  <string name="login.create_new_account.p2">Қазір тіркелу</string>
+  <string name="login.customer.terms.p1">Қолданылады</string>
+  <!-- Onboarding -->
+  <string name="login.customer.terms.p2">Шарттар мен Талаптар</string>
+  <!-- Onboarding -->
+  <string name="login.customer.terms.p3">қолдану</string>
+  <!-- Onboarding -->
+  <string name="login.email_not_match.confirmation">Жаңа аккаунт ашу?</string>
+  <!-- Onboarding -->
+  <string name="login.email_not_match.confirmation.no">Жоқ</string>
+  <!-- Onboarding -->
+  <string name="login.email_not_match.confirmation.yes">Иә</string>
+  <!-- Onboarding -->
+  <string name="login.email_not_match.error">Жаңа аккаунт ашу сәтсіз болды.</string>
+  <!-- Log in -->
+  <string name="login.email_not_match.p1">Басқа эл. пошта байқап көріңіз немесе</string>
+  <!-- Onboarding -->
+  <string name="login.email_not_match.p2">жаңа аккаунт ашу.</string>
+  <!-- Onboarding -->
+  <string name="login.error">Кіру қатесі</string>
+  <!-- Onboarding -->
+  <string name="login.privacy.p1">Жиналған мәліметтерді сіз қалаған қызметті көрсету мақсатында қолданамыз. Толығырақ білу үшін -бен танысыңыз.</string>
+  <!-- Onboarding -->
+  <string name="login.privacy.p2">Құпиялылық мәлімдемесі</string>
+  <!-- Onboarding -->
+  <string name="login.privacy_policy.title">Құпиялылық саясаты</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.error">Қате</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.policy.text.p1">Сіз жайлы мәліметті қалай қолдансақ болады? Толығырақ білу үшін біздің танысыңыз</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.policy.text.p2">құпиялылық саясаты</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.terms.text.p1">Біздің -тармен келісіміңізді білдіру үшін қанат белгісін қойыңыз.</string>
+  <!-- Onboarding -->
+  <string name="login.rewards.terms.text.p2">Пайдалану шарттары</string>
+  <string name="login.rewards.terms.text.p3">,</string>
+  <!-- General message -->
+  <string name="login.same_device">Сіз басқа құрылғыдан қосымшаға кірдіңіз. Бұл құрылғыда аккаунтыңыздан автоматты түрде шығарыласыз.</string>
+  <!-- Onboarding -->
+  <string name="login.terms_conditions.app.title">Шарттар мен Талаптар</string>
+  <!-- Onboarding -->
+  <string name="login.terms_conditions.onb.title">Шарттар мен Талаптар</string>
+  <string name="login.top_up.title">Пайдалану шарттары</string>
+  <!-- Onboarding -->
+  <string name="login.validation.email.invalid">Бұл эл. пошта жарамсыз</string>
+  <!-- Onboarding -->
+  <string name="login.validation.first_name.incorrect_letters">Атыңыз тек әріптерден және сызықшалардан тұруы мүмкін</string>
+  <!-- Onboarding -->
+  <string name="login.validation.first_name.invalid">Атыңыз қате енгізілген сияқты</string>
+  <!-- Onboarding -->
+  <string name="login.validation.last_name.incorrect_letters">Тегіңіз тек әріптерден, апострофтардан және сызықшалардан тұруы мүмкін</string>
+  <!-- Onboarding -->
+  <string name="login.validation.last_name.invalid">Тегі қате енгізілген сияқты</string>
+  <!-- Settings > Logout -->
+  <string name="logout.hint">Егер келесі жолы кіру үшін басқа Veon аккаунтын қолданатын болсаңыз, онда қазір қосымшадан шығыңыз. Осы ұялы телефон нөмірі арқылы тағы да кірсеңіз, Veon ағымдағы аккаунтқа автоматты түрде кіретін болады.</string>
+  <!-- General message -->
+  <string name="logout.success">Аккаунттан шықтыңыз</string>
+  <!-- Onboarding -->
+  <string name="lQC-Qu-zR6.normalTitle">Қанекей, кеттік</string>
+  <!-- Chat -->
+  <string name="LSy-CY-Ecj.title">Жаңа чат</string>
+  <!-- Onboarding -->
+  <string name="LZo-Tz-W2b.normalTitle">Жалғастыру</string>
+  <!-- Voice -->
+  <string name="m27-m7-Hgt.normalTitle">Дыбыссыз ету</string>
+  <!-- Chat -->
+  <string name="M2l-RN-kdf.text">Жазу үшін басып тұрыңыз, жолдау үшін жіберіңіз.</string>
+  <!-- Onboarding -->
+  <string name="M4H-e7-xH9.title">Болды</string>
+  <string name="main.global_search.placeholder">Іздеу үшін басыңыз</string>
+  <string name="main.navigation.title">VEON</string>
+  <!-- Contacts -->
+  <string name="main.tab_bar.contacts">Контактілер</string>
+  <!-- Chat -->
+  <string name="main.tab_bar.groups">Чаттар</string>
+  <!-- Settings -->
+  <string name="main.tab_bar.settings">Баптаулар</string>
+  <!-- Chat -->
+  <string name="Mark as read">Оқылды деп белгілеу</string>
+  <!-- Chat -->
+  <string name="MBContactPickerPrompt">Кімге:</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.error">Аватарды өзгерту мүмкін болмай тұр</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.loading">Аватар жаңартылуда...</string>
+  <!-- Settings -->
+  <string name="media.avatar.update.success">Аватар өзгертілді</string>
+  <!-- Chat -->
+  <string name="media.error.not_available.photo">Суретті көру әзірше мүмкін емес</string>
+  <!-- Chat, media -->
+  <string name="media.error.not_available.video">Видеоны көру әзірше мүмкін емес</string>
+  <!-- Chat -->
+  <string name="media.photo">Сурет</string>
+  <!-- Chat -->
+  <string name="media.preparing">Медиа файл бапталуда</string>
+  <!-- Chat -->
+  <string name="media.preparing.error">Медиа файлды баптау мүмкін болмады</string>
+  <!-- Chat, media -->
+  <string name="media.video">Видео</string>
+  <!-- Settings -->
+  <string name="MEq-of-RyN.text">Аккаунтты жою</string>
+  <!-- Chat -->
+  <string name="Messages">Хабарламалар</string>
+  <!-- Voice -->
+  <string name="Microphone">Микрофон</string>
+  <!-- Settings -->
+  <string name="mil-yE-kcg.title">Жалпы баптаулар</string>
+  <!-- Onboarding -->
+  <string name="mlI-HG-xNE.text">Жөні</string>
+  <string name="mon">Дүйс.</string>
+  <string name="Mon">Дүйс.</string>
+  <!-- Chat -->
+  <string name="More then %ld day(s)">%d күннен астам</string>
+  <!-- Chat -->
+  <string name="More then 1 year">1 жылдан астам</string>
+  <!-- Chat -->
+  <string name="Mub-Ka-YOn.text">Сақтауға орын жеткіліксіз</string>
+  <!-- Onboarding -->
+  <string name="MuI-ev-vhd.title">Жою</string>
+  <string name="mute.1_day">1 күн</string>
+  <!-- Group chat -->
+  <string name="mute.1_hours">1 сағат</string>
+  <!-- Group chat -->
+  <string name="mute.1_week">1 апта</string>
+  <!-- Group chat -->
+  <string name="mute.1_year">1 жыл</string>
+  <!-- Onboarding -->
+  <string name="mute.cancel">Жою</string>
+  <string name="mute.display.forever">Дыбыссыздан шығарғаныма дейін</string>
+  <string name="mute.display.none">Дыбыссыз емес</string>
+  <string name="mute.display.until">%s -ға дейін дыбыссызда</string>
+  <!-- Voice -->
+  <string name="mute.mute">Дыбыссыз ету</string>
+  <!-- Chat -->
+  <string name="mute.mute.conversation">Сұхбатты дыбыссыз ету</string>
+  <!-- Chat -->
+  <string name="mute.mute.group.error">Топты дыбыссыз ету мүмкін емес.</string>
+  <!-- Group chat -->
+  <string name="mute.mute.group.progress">Топты дыбыссызға көшірудеміз…</string>
+  <!-- Voice -->
+  <string name="mute.mute.menu">Дыбыссыз ету</string>
+  <!-- Chat -->
+  <string name="mute.mute.user.error">Контактіні дыбыссыз ету әзірше мүмкін емес.</string>
+  <!-- Contacts -->
+  <string name="mute.mute.user.progress">Дыбыссыз етілуде...</string>
+  <string name="mute.title">%s - ды қанша уақытқа дыбыссыз күйге қоясыз?</string>
+  <!-- Voice -->
+  <string name="mute.unmute">Дыбыссыздан шығару</string>
+  <!-- Chat -->
+  <string name="mute.unmute.conversation">Сұхбатты дыбысты ету</string>
+  <!-- Chat -->
+  <string name="mute.unmute.group.error">Топты дыбысты ету мүмкін емес</string>
+  <!-- Group chat -->
+  <string name="mute.unmute.group.progress">Топты дыбысты етудеміз...</string>
+  <!-- Voice -->
+  <string name="mute.unmute.menu">Дыбысты ету</string>
+  <!-- Chat -->
+  <string name="mute.unmute.user.error">Контактіні дыбысты ете алмадық</string>
+  <!-- Contacts -->
+  <string name="mute.unmute.user.progress">Контактіні дыбысты ету...</string>
+  <!-- Chat -->
+  <string name="mute.until_unmute">Дыбысты еткенге дейін</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="MWZ-Vu-HPz.text">Жаныңызға жақын жандарды оңай табуға мүмкіндік береді.</string>
+  <!-- Chat -->
+  <string name="MxP-Ou-8wd.title">Қабылдау</string>
+  <!-- Onboarding -->
+  <string name="ndc-zf-2HM.text">Өз суретіңізді қолдану үшін жоғарыдағы батырманы басыңыз немесе төменнен аватар таңдаңыз</string>
+  <!-- Group chat -->
+  <string name="New group created without avatar and name">Құрылған жаңа топтың аты және аватары жоқ</string>
+  <!-- Voice -->
+  <string name="nHO-EF-Xay.text">Қоңырау сапасы ойыңыздан шықты ма?</string>
+  <!-- Chat -->
+  <string name="nim-fa-jk0.normalTitle">Қоңырау соғу</string>
+  <!-- Onboarding -->
+  <string name="nIT-mE-fpw.title">Болды</string>
+  <!-- Chat -->
+  <string name="No">Жоқ</string>
+  <string name="No result">Ештеңе табылмады</string>
+  <string name="No such user">Мұндай қолданушы тіркелмеген</string>
+  <!-- Chat -->
+  <string name="Not enough memory for saving">Сақтайтын орын жоқ</string>
+  <!-- Voice -->
+  <string name="notification.call.decline">Болдырмау</string>
+  <!-- Voice -->
+  <string name="notification.call.incoming_call">Сізге шалынған қоңырау: %s</string>
+  <!-- Chat -->
+  <string name="notification.call.missed_call">Жіберіп алынған қоңырау: %s</string>
+  <!-- Contacts -->
+  <string name="notification.friend_invite.accept">Қабылдау</string>
+  <!-- Contacts -->
+  <string name="notification.friend_invite.refuse">Бас тарту</string>
+  <!-- Chat, button of push notification for new message -->
+  <string name="notification.message.reply">Жауап беру</string>
+  <!-- Chat -->
+  <string name="notification.new_friend.start_chat">Чатты бастау</string>
+  <!-- Contacts -->
+  <string name="notification.new_friend.view_contact">Контактіні көру</string>
+  <!-- Chat -->
+  <string name="nPw-Pv-583.normalTitle">Хабарлама</string>
+  <string name="NSBluetoothPeripheralUsageDescription">Бұл сіздің орналасқан жеріңізді дәлірек анықтауға мүмкіндік береді</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSCameraUsageDescription">суретке түсіріп және достарыңызға жіберу үшін</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSContactsUsageDescription">достарыңызбен сөйлесіп, хабарлама жіберу үшін</string>
+  <!-- Chat -->
+  <string name="NSLocationWhenInUseUsageDescription">Сіздің орналасқан жеріңіз хабарлама арқылы жіберіледі</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSMicrophoneUsageDescription">достарыңызға қоңырау соғу және дыбыстық хабарлама жіберу үшін</string>
+  <!-- Onboarding, permissions for access to device -->
+  <string name="NSPhotoLibraryUsageDescription">достарыңызға суреттеріңізді және видеоларыңызды жіберу үшін</string>
+  <!-- Onboarding, confirmation -->
+  <string name="NTg-GT-v1O.normalTitle">Түсінікті</string>
+  <!-- Settings -->
+  <string name="nvL-Xl-7Oi.normalTitle">Лицензиялар</string>
+  <!-- Voice -->
+  <string name="NXW-hf-mV5.normalTitle">Спикер</string>
+  <!-- Chat -->
+  <string name="O2f-CR-egc.placeholder">Іздеу</string>
+  <!-- Settings -->
+  <string name="oa9-Nt-0gB.title">Чат баптаулары</string>
+  <!-- Chat -->
+  <string name="OBY-b2-FdY.normalTitle">Өшіру</string>
+  <!-- Contacts -->
+  <string name="oBZ-rX-nuI.normalTitle">Өтінім жіберу</string>
+  <string name="offers.activate">Қосу</string>
+  <string name="offers.follow">Жазылу</string>
+  <string name="offers.follow_to">%s-ды оқу</string>
+  <string name="offers.mgm.channel">Veon қосымшасы туралы достарыңызға айтыңыз</string>
+  <string name="offers.mgm.contact_pick.favourites">Жиі байланыстағылар</string>
+  <string name="offers.mgm.contact_pick.title">Достарыңызды шақыру</string>
+  <string name="offers.mgm.offer.invite">Шақыру</string>
+  <string name="offers.mgm.send_invite.hint">Бұл шақыру достарыңызға жіберіледі. Әрине тегін.</string>
+  <string name="offers.mgm.send_invite.text">Сәлем! %s сізді VEON - ға шақырады. VEON екеуіңізге тегін чат және қоңыраулар ұсынады, эксклюзивті ұсыныстар да баршылық. Қосымшаны жүктеп алыңыз да, осының бәріне өзіңіз көз жеткізіңіз!\n%s</string>
+  <string name="offers.mgm.send_invite.title">Шақыруларды жіберу</string>
+  <string name="offers.more.count">%d сақталған ұсыныс</string>
+  <string name="offers.offer.get">Ұсынысты алу</string>
+  <string name="offers.unfollow">Жазылғансыз</string>
+  <string name="offers.unfollow_from">%s - ға жазылуды тоқтату</string>
+  <!-- Offers -->
+  <string name="offers.valid_until">%s -ға дейін жарамды</string>
+  <!-- Onboarding -->
+  <string name="ofU-c2-3Bg.normalTitle">Жою</string>
+  <!-- Onboarding -->
+  <string name="oka-tb-ZYg.text">Заңға қатысты</string>
+  <string name="onboarding.options.location.description">Осы арқылы достарыңыз сіздің қайда екеніңізді әрдайым біліп жүреді.</string>
+  <string name="onboarding.options.location.russia.description">Менің орналасқан жерім жайлы ақпарат жинауына Veon - ға рұқсат беремін.</string>
+  <string name="onboarding.options.location.russia.title">Орналасқан жеріңізбен бөлісу</string>
+  <string name="onboarding.options.location.title">Менің орналасқан жерімді көрсету</string>
+  <string name="onboarding.options.show_in_discovery.description">Бұл функция арқылы барлығы сізді іздеп таба алады және сізбен сұхбаттасуға өтінім жібере алады.</string>
+  <string name="onboarding.options.show_in_discovery.title">Мені адамдардың табуына болады</string>
+  <!-- Onboarding -->
+  <string name="oqO-0c-k65.normalTitle">Жалғастыру</string>
+  <string name="OS_cant_access_contact_popup_CTA_cancel_text">Жою</string>
+  <string name="OS_cant_access_contact_popup_CTA_settings_text">Баптаулар</string>
+  <string name="OS_cant_access_contact_popup_description_text">Рұқсат беру үшін Баптауларға кіріп, Контактілерді қосыңыз</string>
+  <string name="OS_cant_access_contact_popup_title_text">%s сіздің контактілерге кіре алмайды</string>
+  <string name="OS_cant_access_microphone_popup_CTA_cancel_text">Жою</string>
+  <string name="OS_cant_access_microphone_popup_CTA_settings_text">Баптаулар</string>
+  <string name="OS_cant_access_microphone_popup_description_text">Рұқсат беру үшін Баптауларға кіріп, Микрофонды қосыңыз</string>
+  <string name="OS_cant_access_microphone_popup_title_text">%s микрофонды қолдана алмайды.</string>
+  <string name="OS_cant_push_notifications_popup_CTA_cancel_text">Жою</string>
+  <string name="OS_cant_push_notifications_popup_CTA_settings_text">Баптаулар</string>
+  <string name="OS_cant_push_notifications_popup_description_text">Рұқсат беру үшін Баптауларға кіріп, Push - Ескертпелерді қосыңыз.</string>
+  <string name="OS_cant_push_notifications_popup_title_text">%s VEON push - ескертпелерді жібере алмайды. </string>
+  <string name="OS_contacts_permissions_popup_CTA_dont_allow_text">Рұқсат бермеу</string>
+  <string name="OS_contacts_permissions_popup_CTA_OK_text">OK</string>
+  <string name="OS_contacts_permissions_popup_description_text">Осылайша сіз достарыңызбен чат және қоңырау соғу арқылы байланыста бола аласыз </string>
+  <string name="OS_contacts_permissions_popup_title_text">%s сіздің контактілерге кіруге рұқсат сұрайды</string>
+  <string name="OS_mirophone_permissions_popup_CTA_dont_allow_text">Рұқсат бермеу</string>
+  <string name="OS_mirophone_permissions_popup_CTA_OK_text">ОК</string>
+  <string name="OS_mirophone_permissions_popup_description_text">Осылайша сіз қоңырау соға аласыз және қабылдай аласыз </string>
+  <string name="OS_mirophone_permissions_popup_title_text">%s микрофонды қолдануға рұқсат сұрайды </string>
+  <string name="OS_push_notifications_permissions_popup_CTA_dont_allow_text">Рұқсат бермеу</string>
+  <string name="OS_push_notifications_permissions_popup_CTA_OK_text">ОК</string>
+  <string name="OS_push_notifications_permissions_popup_description_text">Осылайша сіз жаңа хабарламалар және қоңыраулар туралы ескертпе аласыз </string>
+  <string name="OS_push_notifications_permissions_popup_title_text">%s сізге push - ескертпелер жібергісі келеді </string>
+  <!-- Chat -->
+  <string name="OtW-Dz-PWy.text">Жою үшін жіберіңіз</string>
+  <!-- Onboarding -->
+  <string name="Ozv-pP-2Yq.text">Аккаунтыңыз жайлы мәліметке және қолдау қызметіне әп-сәтте қол жеткізіңіз</string>
+  <!-- Chat (pick photo) -->
+  <string name="P5h-xa-brW.text">Телефоннан таңдау</string>
+  <!-- Onboarding -->
+  <string name="PFG-ms-YLI.text">МӘЛІМЕТ ЖҮКТЕЛУДЕ...</string>
+  <string name="PG5-GS-AR1.text">Үлгі.</string>
+  <!-- Voice -->
+  <string name="PHr-1p-fGZ.normalTitle">Қоңырауды аяқтау</string>
+  <!-- Onboarding -->
+  <string name="pJU-XO-FYx.text">Сізге жіберілгендігі жайлы 24 сағат ішінде хабарлаймыз</string>
+  <!-- Chat -->
+  <string name="Playing">Ойнауда...</string>
+  <!-- Chat (related to no storage to save media file) -->
+  <string name="Please delete unused files and applications and try again.">Қолданылмайтын файлдар мен қосымшаларды өшіріп тастаңыз және тағы да байқап көріңіз.</string>
+  <!-- Voice -->
+  <string name="po5-dP-fMn.text">Тегін қоңырау</string>
+  <string name="PQW-U5-ex2.text">Сақталған ұсыныстар</string>
+  <!-- Settings > Profile -->
+  <string name="Profile Picture">Профиль суреті</string>
+  <!-- Contacts -->
+  <string name="profile.action.accept">Контактілерге қосылу өтінімін қабылдау</string>
+  <!-- Contacts -->
+  <string name="profile.action.accept.loading">Шақыру қабылдануда...</string>
+  <!-- Voice -->
+  <string name="profile.action.call">Қоңырау соғу</string>
+  <string name="profile.action.cancel_invite">Достық ұсынысын өшіру</string>
+  <!-- Contacts -->
+  <string name="profile.action.cancel_invite.loading">Шақыру өшірілуде...</string>
+  <!-- Contacts -->
+  <string name="profile.action.cancel_invite.success">Шақыру өшірілді</string>
+  <string name="profile.action.decline">Байланысу өтінімін қабылдамау</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.loading">Шақыруды қабылдамау...</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.success.text">%s -ті контактілерге қоспадыңыз</string>
+  <!-- Contacts -->
+  <string name="profile.action.decline.success.title">Өтініш қабылданбады</string>
+  <!-- Settings > Profile -->
+  <string name="profile.action.edit">Профилді өңдеу</string>
+  <string name="profile.action.edit_ab">Өзгерту</string>
+  <string name="profile.action.edit_avatar.done">Суретті қолдану</string>
+  <string name="profile.action.edit_avatar.hint">Жылжыту және көлемін өзгерту</string>
+  <string name="profile.action.header">Теңшеулер</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite">Жалғану</string>
+  <string name="profile.action.invite.hint">Veon арқылы байланыста бол. Тегін қоңыраулар жаса және сұхбаттас.</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.loading">Шақыру жіберілуде...</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.success">Шықыру жіберілді</string>
+  <!-- Contacts -->
+  <string name="profile.action.invite.success.alert">Байланыс өтінімі жіберілді.</string>
+  <!-- Contacts -->
+  <string name="profile.action.invited.button">Байланыс өтінімі жіберілді</string>
+  <plurals name="profile.action.invite_to_veon">
+    <item quantity="one">бір</item>
+    <item quantity="other">басқасы</item>
+    <item quantity="zero">нөл</item>
+  </plurals>
+  <string name="profile.action.invite_to_veon.first">Шақыру</string>
+  <string name="profile.action.invite_to_veon.first.hint">%sды Veon - ға шақыр және онымен тегін байланыста бол.</string>
+  <string name="profile.action.invite_to_veon.other">Тағы бір шақыру жіберу</string>
+  <string name="profile.action.invite_to_veon.other.hint">Шақыру жіберілді.</string>
+  <string name="profile.action.main.call">VEON Call</string>
+  <string name="profile.action.main.chat">Veon Чаты</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove">Контактіні бұғаттау</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove.loading">Контакт бұғатталуда...</string>
+  <!-- Contacts -->
+  <string name="profile.action.remove.question.action">Контактіні бұғаттау</string>
+  <!-- Settings -->
+  <string name="profile.action.restore">Бұғаттан алу</string>
+  <string name="profile.action.restore.hint">Сіз бұл контактіні бұғаттадыңыз.</string>
+  <string name="profile.action.restore.loading">Контактіні бұғаттан алу</string>
+  <string name="profile.action.restore.loading.multi">Контактілерді бұғаттан алу</string>
+  <string name="profile.action.restore.success">Контакт бұғаттан алынды</string>
+  <string name="profile.action.restore.success.multi">Контактілер бұғаттан алынды</string>
+  <!-- Contacts -->
+  <string name="profile.action.share">Контакт жайлы толық мәліметпен бөлісу</string>
+  <!-- Onboarding -->
+  <string name="profile.action.share.popup.title">Тек қана Veon профиліне сілтеме ғана жіберіледі, телефон кітапшасындағы мәліметке тимейміз.</string>
+  <string name="profile.action.show_location">Қазір орналасқан жер</string>
+  <string name="profile.action.unmute">Чат дыбыссызда</string>
+  <!-- Contacts -->
+  <string name="profile.action.view_phone_contact.popup.title">Келесі экранда сіз жасаған кез-келген өзгертулер телефон кітапшасындағы контактілерге әсер ететінін ескертеміз</string>
+  <string name="profile.call_info.declined_call">Қабылданбаған қоңырау</string>
+  <string name="profile.call_info.header">Қоңырау туралы</string>
+  <string name="profile.call_info.incoming_call">Кіріс қоңырау (%02d:%02d)</string>
+  <string name="profile.call_info.missed_call">Қабылданбаған қоңырау</string>
+  <string name="profile.call_info.not_answered">%s қоңырауға жауап бермеді</string>
+  <string name="profile.call_info.not_answered_call">Контакт жауап бермеді</string>
+  <string name="profile.call_info.outgoing_call">Сыртқа қоңырау (%02d:%02d)</string>
+  <!-- Settings > Profile -->
+  <string name="profile.current_location">Қазір орналасқан жер</string>
+  <string name="profile.current_location.address">Болжалды адрес</string>
+  <!-- Contacts -->
+  <string name="profile.default.name">Белгісіз</string>
+  <string name="profile.email.not_verified">Эл. поштаны растаңыз</string>
+  <string name="profile.email.pending">Әлі расталмады</string>
+  <string name="profile.email.verified">Расталды</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.birthday.title">Туған күні</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.female">Әйел адам</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.male">Ер адам</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.gender.title">Жынысы</string>
+  <!-- Settings -->
+  <string name="profile.extra.header">Veon профилі туралы</string>
+  <!-- Settings -->
+  <string name="profile.extra.live_in.title">Қала</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.not_selected">Таңдалмаған</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.complicated">Сырттан бәрі оңай көрінеді</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.engaged">Атастырылған</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.inrelationship">Қарым-қатынаста</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.married">Некеде</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.single">Басы бос</string>
+  <!-- Settings > Profile -->
+  <string name="profile.extra.relationship.title">Отбасылық жағдайы</string>
+  <string name="profile.friend.hint">Veon арқылы тегін қоңыраулар жаса және сұхбаттас.</string>
+  <!-- Settings > Profile -->
+  <string name="profile.my.title">Менің профилім</string>
+  <string name="profile.phone_numbers.header">Байланыста болудың басқа жолдары</string>
+  <string name="profile.phone_numbers.verified">Расталған нөмір</string>
+  <!-- Settings -->
+  <string name="profile.veon_number">Ұялы</string>
+  <!-- Class = "UIButton"; normalTitle = "Go to My Veon"; ObjectID = "PV3-t6-5JC"; -->
+  <string name="PV3-t6-5JC.normalTitle">Менің Veon аккаунтыма кіру</string>
+  <!-- Onboarding -->
+  <string name="PVM-5p-8BN.normalTitle">Жалғастыру</string>
+  <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "q2k-v5-Ig6"; -->
+  <string name="q2k-v5-Ig6.normalTitle">Жою</string>
+  <!-- Chat -->
+  <string name="Qat-tU-27O.normalTitle">Кейін қарау</string>
+  <string name="QCL-YO-rFA.title">Келесі</string>
+  <!-- Chat -->
+  <string name="Qcz-yo-1uY.normalTitle">Хабарлама</string>
+  <!-- Class = "UILabel"; text = "Offer collected"; ObjectID = "qdN-ig-wo1"; -->
+  <string name="qdN-ig-wo1.text">Ұсыныс қабылданды</string>
+  <!-- Class = "UITextField"; placeholder = "Email"; ObjectID = "qJB-jd-QhR"; -->
+  <string name="qJB-jd-QhR.placeholder">Эл. пошта</string>
+  <!-- Settings -->
+  <string name="qSG-d7-Ys8.title">Чат стилі</string>
+  <!-- Onboarding -->
+  <string name="qVC-XS-XmD.text">Сіз сұхбаттасасыз\nБіз төлейміз</string>
+  <!-- Settings -->
+  <string name="R4h-7y-AiX.headerTitle">ФОН</string>
+  <!-- Settings -->
+  <string name="rc9-OY-dkh.text">Аккаунтыңызды шынымен\nжойғыңыз келеді ме? Ол біржолата жойылатын болады.</string>
+  <!-- Chat -->
+  <string name="RECENT">СОҢҒЫЛАРЫ</string>
+  <!-- Chat, record audio to send -->
+  <string name="Record">Жазу</string>
+  <!-- Chat, record audio to send -->
+  <string name="Recording">Жазылуда</string>
+  <!-- Class = "UILabel"; text = "We have sent an Email with a 6-digit code to:"; ObjectID = "REe-hT-1xv"; -->
+  <string name="REe-hT-1xv.text">6 саннан тұратын растау кодын мына эл. поштаға жібердік:</string>
+  <!-- Onboarding -->
+  <string name="rEg-e3-ucM.title">Нөмірді өзгерту</string>
+  <!-- Onboarding -->
+  <string name="REg-nq-gaQ.text">Кодты қайтадан алу</string>
+  <!-- Contacts -->
+  <string name="rk3-Wx-OT2.normalTitle">Арналар</string>
+  <!-- Settings > Profile -->
+  <string name="rlM-xT-d1d.text">Туған күні</string>
+  <!-- Onboarding -->
+  <string name="rva-b5-Ps6.text">Сәйкестендіру коды</string>
+  <!-- Settings -->
+  <string name="S7d-pT-QHm.text">Құпиясөзді өзгерту</string>
+  <!-- Settings -->
+  <string name="S9G-H6-5aj.title">Фон суреттері галереясы</string>
+  <string name="Sat">Сенб.</string>
+  <!-- Chat -->
+  <string name="Select Chat">Чатты таңдау</string>
+  <!-- Contacts -->
+  <string name="Select Contact">Контактіні таңдау</string>
+  <string name="select_chat.contacts">КОНТАКТІЛЕР</string>
+  <string name="select_chat.groups">ТОПТАР</string>
+  <string name="select_chat.recent">СОҢҒЫЛАРЫ</string>
+  <!-- Chat -->
+  <string name="Send logs">Журналдарды жіберу</string>
+  <string name="Server error">Сервер қатесі</string>
+  <string name="session.expired.button.login">Кіру</string>
+  <string name="session.expired.message">VEON - ға кіргеннен кейін оны қолдануды жалғастыра аласыз.</string>
+  <string name="session.expired.title">Сеанстың уақыты шықты</string>
+  <!-- Settings -->
+  <string name="settings.chat.background.changed.alert">Фон суреті өзгертілді!</string>
+  <!-- Settings -->
+  <string name="settings.chat.chat_style">Чат стилі</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.cancel">Жою</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.message">Сенімдісіз бе?</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.ok">Иә</string>
+  <!-- Settings -->
+  <string name="settings.chat.confirmation_alert.title">Растау</string>
+  <!-- Settings -->
+  <string name="settings.chat.deleted_contacts">Өшірілген контактілер</string>
+  <!-- Settings > Fonts -->
+  <string name="settings.chat.font.size.big">Үлкен</string>
+  <!-- Settings -->
+  <string name="settings.chat.font.size.huge">Орасан зор</string>
+  <!-- Settings -->
+  <string name="settings.chat.font.size.large">Ірі</string>
+  <!-- Settings -->
+  <string name="settings.chat.font.size.medium">Орташа</string>
+  <!-- Settings -->
+  <string name="settings.chat.font.size.normal">Орташа</string>
+  <!-- Settings -->
+  <string name="settings.chat.font.size.small">Кішкентай</string>
+  <!-- Settings -->
+  <string name="settings.chat.font.size.tiny">Майда</string>
+  <!-- Voice -->
+  <string name="settings.chat.mute_all">Барлығын дыбыссыз қылу</string>
+  <!-- Settings -->
+  <string name="settings.chat.privacy.section">ҚҰПИЯЛЫЛЫҚ</string>
+  <!-- Chat -->
+  <string name="settings.chat.read_receipts">Хабарламалардың оқылғандығы ескертпелері</string>
+  <!-- Chat -->
+  <string name="settings.chat.section">ЧАТ</string>
+  <string name="settings.consents.header_cell.info">Жеке мәліметтеріңізді қолдану үшін сіз берген шарттар мен келісімдердің ахуалы.</string>
+  <string name="settings.consents.header_cell.title">Шарттар мен келісімдердің ахуалы</string>
+  <string name="settings.consents.header_info1">Толығырақ мәлімет үшін  <a href="button://privacy">privacy policy</a> &amp; <a href="button://terms">terms of use</a> қараңыз</string>
+  <string name="settings.consents.header_info2">Сонымен қатар <a href="button://promo">promo conditions</a> &amp; <a href="button://top_up">top up conditions</a> қараңыз</string>
+  <string name="settings.delete_account.cancel">Жою</string>
+  <string name="settings.delete_account.message">Аккаунтыңызды жойғыңыз келетіндігіне сенімдісіз бе?</string>
+  <string name="settings.delete_account.ok">Алып тастау</string>
+  <string name="settings.delete_account.title">Аккаунтты жою</string>
+  <!-- Settings -->
+  <string name="settings.general.about">Мәлімет</string>
+  <!-- Settings -->
+  <string name="settings.general.change_number">Veon нөмірін ауыстыру</string>
+  <string name="settings.general.change_password">Құпиясөзді өзгерту</string>
+  <!-- Settings -->
+  <string name="settings.general.faq">Жиі қойылатын сұрақтар</string>
+  <!-- Settings -->
+  <string name="settings.general.section">Сіздің Veon аккаунтыңыз</string>
+  <string name="settings.language.success">Тіл өзгертілді</string>
+  <string name="settings.language.title">Басқа тіл таңдау</string>
+  <!-- Settings -->
+  <string name="settings.logout.cancel">Жою</string>
+  <!-- Settings -->
+  <string name="settings.logout.message">Барлық мәліметтеріңіз бұл құрылғыдан өшіріледі</string>
+  <!-- Settings -->
+  <string name="settings.logout.ok">Шығу</string>
+  <!-- Settings -->
+  <string name="settings.logout.title">Шығасыз ба?</string>
+  <string name="settings.main.about">Мәлімет</string>
+  <!-- Settings -->
+  <string name="settings.main.chat">Чат баптаулары</string>
+  <!-- Settings -->
+  <string name="settings.main.consents">Келісімдерді реттеу</string>
+  <string name="settings.main.faq">Көмек</string>
+  <!-- Settings -->
+  <string name="settings.main.general">Жалпы баптаулар</string>
+  <!-- The `Change language` option in the application settings -->
+  <string name="settings.main.language">Тілді өзгерту</string>
+  <!-- New items for Settings screen. In designed names "Legals & Consents". Previously there was another item with it settings.main.consents and name "Consents manager", but looks like it is now removed. -->
+  <string name="settings.main.legals_and_consents">Заңды құжаттар және келісімдер</string>
+  <string name="settings.main.opco.unlink">%s аккаунтыңдызды ажыратыңыз</string>
+  <!-- Settings -->
+  <string name="settings.main.payment">Төлем Жасау Әдістері</string>
+  <!-- Settings -->
+  <string name="settings.main.privacy">Құпиялылық баптаулары</string>
+  <!-- Settings > Profile -->
+  <string name="settings.main.profile">Профиль</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.birthday">Туған күні</string>
+  <!-- Settings -->
+  <string name="settings.privacy.friend.section">Тек қана сіздің контактілер көре алатын мәлімет</string>
+  <string name="settings.privacy.friend.section.russia">Басқалары</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.gender">Жынысы</string>
+  <!-- Chat -->
+  <string name="settings.privacy.last_seen">Соңғы рет болды</string>
+  <!-- Settings -->
+  <string name="settings.privacy.live_in">Қала</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.location_sharing">Ағымдағы орналасқан жеріңізбен бөлісу</string>
+  <!-- Settings -->
+  <string name="settings.privacy.public.section">Адамдар сізді оңай табуы үшін атыңыз, қалаңыз және суретіңіз ашық болады</string>
+  <!-- Settings > Profile -->
+  <string name="settings.privacy.relationship">Отбасылық жағдайы</string>
+  <!-- Settings -->
+  <string name="settings.privacy.show_in_discovery">Ашық дерекқорда болу</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="SFm-Jf-HcW.text">Сіздің жаңа нөміріңіз</string>
+  <!-- Onboarding -->
+  <string name="SJQ-BR-e2x.text">Теңгерімсіз де жұмыс істей беретін тегін хабарлама алмасу қосымшасы</string>
+  <!-- Emojis -->
+  <string name="smiles.category.activity">Әрекеттер</string>
+  <!-- Emojis -->
+  <string name="smiles.category.extras">Тағы да</string>
+  <!-- Settings -->
+  <string name="smiles.category.flags">Тулар</string>
+  <!-- Emojis -->
+  <string name="smiles.category.food">Тамақ</string>
+  <!-- Emojis -->
+  <string name="smiles.category.modifier">Өңдеуіш</string>
+  <!-- Emojis -->
+  <string name="smiles.category.nature">Табиғат</string>
+  <!-- Emojis -->
+  <string name="smiles.category.objects">Заттар</string>
+  <!-- Contacts -->
+  <string name="smiles.category.people">Адамдар</string>
+  <!-- Emojis -->
+  <string name="smiles.category.regional">Елдер</string>
+  <!-- Emojis -->
+  <string name="smiles.category.symbols">Таңбалар</string>
+  <!-- Emojis -->
+  <string name="smiles.category.travel">Саяхат</string>
+  <!-- Class = "UILabel"; text = "Settings"; ObjectID = "SPC-kU-2QR"; -->
+  <string name="SPC-kU-2QR.text">Баптаулар</string>
+  <!-- Group chat -->
+  <string name="St6-ON-ATb.text">Топтық сурет жүктеу (міндетті емес)</string>
+  <string name="Sun">Жб.</string>
+  <!-- Onboarding -->
+  <string name="T4I-PZ-pOL.normalTitle">Ұялы нөмірді растау</string>
+  <!-- Onboarding -->
+  <string name="TBD-OW-9fa.normalTitle">Болды</string>
+  <!-- Chat -->
+  <string name="TfP-ti-jj9.normalTitle">Чатты бастау</string>
+  <string name="This afternoon">Бүгін күндіз</string>
+  <string name="This month">Осы айда</string>
+  <string name="This morning">Бүгін таңертең</string>
+  <string name="This week">Осы аптада</string>
+  <string name="This year">Осы жылы</string>
+  <string name="Thu">Бейс.</string>
+  <string name="Today">Бүгін</string>
+  <!-- Onboarding -->
+  <string name="Tt3-Wp-djg.normalTitle">Жою</string>
+  <string name="Tue">Сейс.</string>
+  <!-- Message for device access permissions -->
+  <string name="Turn on access for %@ in Settings-&gt;Privacy-&gt;%@.">%1$s - ға «Баптаулар» &gt; «Құпиялылық» &gt;%2$s бөлімінде рұқсат беріңіз.</string>
+  <!-- Message for device access permissions -->
+  <string name="Turn on Location Services in Settings-&gt;Privacy">«Баптаулар» &gt; «Құпиялылық» бөліміне кіріп, орналасқан жерді анықтау қызметін қосыңыз</string>
+  <!-- Settings -->
+  <string name="tyl-aU-g7n.title">Құпиялылық баптаулары</string>
+  <!-- Class = "UIButton"; normalTitle = "Done"; ObjectID = "TzE-8y-0Kw"; -->
+  <string name="TzE-8y-0Kw.normalTitle">Болды</string>
+  <!-- Onboarding -->
+  <string name="U8j-Mn-H8d.normalTitle">Жалғастыру</string>
+  <!-- Onboarding, remember me check box -->
+  <string name="U9X-1m-osZ.text">Мені есте сақта</string>
+  <string name="uci-Fg-zau.text">Veon</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="uDK-vk-Fsg.text">Сіздің ескі нөміріңіз</string>
+  <!-- Settings > Profile -->
+  <string name="UiU-VE-btG.text">Отбасылық жағдайы</string>
+  <!-- Settings -->
+  <string name="UoQ-xb-lCA.text">Меңзердің көмегімен қаріп өлшемін таңдаңыз</string>
+  <!-- Chat -->
+  <string name="Use image">Суретті қолдану</string>
+  <!-- Settings -->
+  <string name="User info updated">Қолданушы туралы мәлімет жаңартылды</string>
+  <string name="User not found">Бұндай қолданушы табылмады</string>
+  <!-- Onboarding -->
+  <string name="uYq-HD-d6b.normalTitle">Қанекей, кеттік!</string>
+  <!-- Settings -->
+  <string name="v5T-wA-n9g.title">Қаріп өлшемі</string>
+  <!-- Onboarding -->
+  <string name="V9u-oC-4AE.normalTitle">Басқа нөмірді қолданыңыз</string>
+  <!-- Onboarding -->
+  <string name="VCj-sE-ptP.text">Жөні</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_button_CTA">Жалғастыру </string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_description_one_text">VEON телефон кітапшаңызға, микрофонға және ескертпелерді көрсетуге сізден рұқсат сұрайды</string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_description_two_text">Осылайша сіз достарыңызды шақыру және оларға қоңырау соғу мүмкіндігіне ие боласыз, олар хабарлама жазғанын біліп жүресіз. </string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_skip_link">Кейінірек </string>
+  <string name="Veon_phone_contact_microphone_permissions_popup_title_text">VEON - ға рұқсатыңыз керек</string>
+  <!-- Resent code: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="verify_email_verification_code_email_resent">Біз 6-сандық коды бар хатты мына поштаға қайтадан жібердік:</string>
+  <!-- Verification code screen: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
+  <string name="verify_email_verification_code_email_sent">Біз 6-сандық коды бар хабарламаны мына поштаға жібердік:</string>
+  <!-- Group chat -->
+  <string name="VH2-V4-meA.placeholder">Топ атын енгізіңіз</string>
+  <!-- Class = "UIButton"; normalTitle = "Get Offer"; ObjectID = "Vs4-Px-xGu"; -->
+  <string name="Vs4-Px-xGu.normalTitle">Ұсынысты алу</string>
+  <!-- Onboarding -->
+  <string name="VWx-B5-maG.text">Veon-мен сіз әрқашан</string>
+  <!-- Log-in -->
+  <string name="VYD-j2-bgU.text">Растау кодын мына эл.поштаға жібердік:</string>
+  <!-- Onboarding -->
+  <string name="VyY-RO-Kzv.text">Байланыста бол</string>
+  <!-- Chat -->
+  <string name="w2d-Iy-VuJ.title">Жаңа қоңырау</string>
+  <!-- Voice -->
+  <string name="w3e-TG-8I7.normalTitle">Қоңырауды бітіру</string>
+  <!-- Chat -->
+  <string name="w4H-v5-7Ih.text">Галереядан сурет</string>
+  <!-- Chat -->
+  <string name="w6x-KV-Fbm.text">Veon - да танысыңызды табу үшін оның атын теріңіз.</string>
+  <!-- Settings -->
+  <string name="wan-82-AtV.normalTitle">Қайтадан кіру</string>
+  <string name="wde-1z-5ZO.text">Бұл функция арқылы барлығы сізді іздеп таба алады және сізбен сұхбаттасуға өтінім жібере алады.</string>
+  <!-- Onboarding -->
+  <string name="wDw-8z-gx7.text">Қате код. Тағы да байқап көріңіз.</string>
+  <string name="Wed">Сәрс.</string>
+  <!-- Onboarding -->
+  <string name="WGQ-cy-o4y.title">Шарттар мен Талаптар</string>
+  <!-- Onboarding -->
+  <string name="WGr-aP-NTm.title">Нөмірді өзгерту</string>
+  <!-- Onboarding -->
+  <string name="wka-KO-Oqi.normalTitle">Жою</string>
+  <!-- Settings -->
+  <string name="WnU-7J-42a.title">Елді таңдау</string>
+  <!-- Settings -->
+  <string name="wQC-V2-zJz.normalTitle">Жаңарту</string>
+  <!-- Voice -->
+  <string name="WRo-zc-1FP.text">Байланыс сапасын көтеруге көмектесіңіз</string>
+  <!-- Chat -->
+  <string name="WZu-ei-DxN.normalTitle">ЖІБЕРУ</string>
+  <!-- Chat -->
+  <string name="X3Z-a8-c1u.title">Сұхбат туралы толық мәлімет</string>
+  <!-- Onboarding -->
+  <string name="X4B-6u-DlF.text">Veon сізге</string>
+  <!-- Contacts -->
+  <string name="X4e-Re-zNj.normalTitle">ӨТІНІМДЕР</string>
+  <!-- Onboarding -->
+  <string name="X5R-c6-JU2.text">қолданған әр күніңізге</string>
+  <!-- Onboarding -->
+  <string name="Xe2-Gg-9Em.normalTitle">Өткізіп жіберу</string>
+  <!-- Onboarding -->
+  <string name="Xii-HR-oe2.text">Эл. пошта</string>
+  <!-- Onboarding -->
+  <string name="xlN-sQ-ohq.title">Қолдану шарттары</string>
+  <!-- Chat -->
+  <string name="xmW-Cd-jL7.text">Жаңа</string>
+  <string name="xrG-RV-VzV.text">Кешіріңіз, сәйкестіктер жоқ</string>
+  <!-- Voice -->
+  <string name="XW2-XK-lFW.normalTitle">Қоңырауды бітіру</string>
+  <!-- Voice -->
+  <string name="Xw3-CR-eOB.normalTitle">Қайтадан қоңырау соғу</string>
+  <!-- Onboarding -->
+  <string name="xWL-yC-Dnd.text">Біз барлық контактілеріңізді көшірдік. Енді сіз Veon арқылы сұхбаттасу, кәдімгі және Veon қоңырауларын жасау мүмкіндігіне иесіз. Достарыңызды Veon - ға қосылуға шақырыңыз және олармен тегін байланыс рахатына бөленіңіз</string>
+  <!-- Onboarding -->
+  <string name="xYp-kc-wJA.text">Біз аккаунтты тіркеу үшін ол туралы мәліметтерді растаңыз.</string>
+  <!-- Class = "UILabel"; text = "To complete your verification, please enter this code below."; ObjectID = "Y9w-DT-1Pc"; -->
+  <string name="Y9w-DT-1Pc.text">Растауды бітіру үшін төменде кодты енгізіңіз.</string>
+  <string name="Yesterday">Кеше</string>
+  <!-- Settings -->
+  <string name="YJS-0c-MUv.title">Өшірілген контактіні қайтару</string>
+  <string name="YoU-Do-RG9.normalTitle">Түсінікті</string>
+  <!-- Settings -->
+  <string name="Your email client is not configured">Сіздің эл. пошта клиентіңіз теңгерілмеген</string>
+  <!-- General message -->
+  <string name="Your SMS client not configured">Сіздің SMS клиентіңіз теңгерілмеген.</string>
+  <!-- Onboarding -->
+  <string name="YyY-zs-nd4.normalTitle">Хабарлама жазу...</string>
+  <!-- Voice -->
+  <string name="z7D-WM-1P0.text">Кірістегі қоңырау</string>
+  <!-- Contacts -->
+  <string name="zan-r6-2Ao.normalTitle">ШАҚЫРУ</string>
+  <!-- Class = "UILabel"; text = "This app does not have access to your photos or videos."; ObjectID = "zcv-dU-hYl"; -->
+  <string name="zcv-dU-hYl.text">Қосымшаның сіздің суреттерге және видеоларға рұқсаты жоқ.</string>
+  <string name="zEW-DN-7Jt.normalTitle">Оқиғамен бөлісу</string>
+  <!-- Log-in -->
+  <string name="ZjJ-Lj-KLv.text">Біз бұл эл. пошта мен телефон нөміріне жалғанған аккаунтты таба алмадық.</string>
+  <!-- Onboarding -->
+  <string name="zJy-i2-NLW.normalTitle">Жалғастыру</string>
+  <!-- Chat -->
+  <string name="zLW-gy-agM.title">Чатты таңдау</string>
+  <!-- Log in -->
+  <string name="Zmk-07-3ha.text">Қайтып келгеніңізге қуаныштымыз!</string>
+  <!-- Contacts -->
+  <string name="zq2-ep-Dqc.normalTitle">ШАҚЫРУ</string>
+  <!-- Settings > Change MSISDN -->
+  <string name="zVy-9D-5xk.text">Сіздің нөміріңіз\nөзгертілді</string>
+  <!-- Onboarding -->
+  <string name="ZWs-nc-fgb.text">тіркелгеніңіз үшін</string>
+  <!-- Log in -->
+  <string name="zxB-we-PlJ.text">Сіздің аккаунтқа жалғанған эл. поштаны енгізіңіз</string>
+</resources>
