@@ -6,14 +6,11 @@
   <!-- Chat -->
   <!-- Onboarding -->
   <!-- Class = "UIButton"; normalTitle = "Continue"; ObjectID = "0Ga-eo-7Wk"; -->
-  <string name="0Ga-eo-7Wk.normalTitle">Continuar</string>
   <!-- Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "0Mf-cG-rEc"; -->
   <!-- Chat with Support -->
   <!-- Settings > Profile -->
   <!-- Onboarding -->
-  <string name="27F-Si-n8f.normalTitle">Continuar</string>
   <!-- Onboarding -->
-  <string name="294-Xg-p9x.normalTitle">Cancelar</string>
   <!-- Settings > Profile -->
   <!-- Contacts -->
   <!-- Chat -->
@@ -24,18 +21,13 @@
   <!-- Contacts -->
   <!-- Contacts -->
   <!-- Onboarding -->
-  <string name="3K8-1X-8gL.normalTitle">Continuar</string>
   <!-- Onboarding -->
   <!-- Onboarding -->
-  <string name="3YQ-8y-x6w.text">Correo electrónico</string>
   <!-- Onboarding -->
-  <string name="44H-An-ylt.text">Correo electrónico</string>
   <!-- Chat -->
   <!-- Onboarding -->
-  <string name="4Ei-kl-Oki.normalTitle">Continuar</string>
   <!-- Settings -->
   <!-- Onboarding -->
-  <string name="5Ma-yG-20u.normalTitle">Cancelar</string>
   <!-- Onboarding -->
   <!-- Contacts -->
   <!-- Voice -->
@@ -43,17 +35,14 @@
   <!-- Onboarding -->
   <!-- Contacts -->
   <!-- Onboarding -->
-  <string name="6L9-11-UV5.normalTitle">Continuar</string>
   <!-- Onboarding -->
   <!-- Settings -->
   <!-- Chat -->
-  <string name="7kT-7J-gXT.normalTitle">Continuar</string>
   <!-- Settings -->
   <!-- Chat -->
   <!-- Chat -->
   <!-- Class = "UILabel"; text = "Your email is now verified!"; ObjectID = "8sB-zI-iSo"; -->
   <!-- Class = "UILabel"; text = "We’ve also saved this offer\nin your My Veon account."; ObjectID = "963-iF-Bt3"; -->
-  <string name="99C-Rv-OYN.title">Cancelar</string>
   <!-- Chat -->
   <!-- Chat -->
   <!-- Settings > Profile -->
@@ -69,7 +58,6 @@
   <!-- Chat -->
   <!-- Chat -->
   <!-- Chat -->
-  <string name="ai7-au-cJy.text">Cancelar</string>
   <!-- Onboarding -->
   <!-- Class = "UILabel"; text = "Invite sent"; ObjectID = "An1-dl-QIv"; -->
   <!-- Settings > Profile -->
@@ -97,8 +85,6 @@
   <!-- Voice -->
   <!-- Voice -->
   <!-- Voice -->
-  <string name="call.history.no_sync.alert.button.no">No</string>
-  <string name="call.history.no_sync.alert.button.yes">Sí</string>
   <!-- Voice -->
   <!-- Voice -->
   <!-- Voice -->
@@ -107,10 +93,6 @@
   <!-- Voice -->
   <!-- Voice -->
   <!-- Voice -->
-  <string name="call.rate.excellent">Excelente</string>
-  <string name="call.rate.fair">Regular</string>
-  <string name="call.rate.good">Bien</string>
-  <string name="call.rate.poor">Mal</string>
   <!-- Voice -->
   <!-- Voice -->
   <!-- Voice -->
@@ -154,7 +136,6 @@
   <!-- Chat -->
   <!-- Group chat -->
   <!-- Chat -->
-  <string name="chat.action.start_new_chat">Comenzar nuevo chat</string>
   <!-- Chat -->
   <!-- Chat -->
   <!-- Chat -->
@@ -233,8 +214,6 @@
   <!-- Chat -->
   <!-- Chat -->
   <!-- Chat -->
-  <string name="chat_index.no_sync.alert.button.no">No</string>
-  <string name="chat_index.no_sync.alert.button.yes">Sí</string>
   <!-- Chat -->
   <!-- Chat -->
   <!-- Log-in -->
@@ -250,9 +229,6 @@
   <!-- Settings -->
   <!-- Chat, Settings -->
   <!-- Chat -->
-  <string name="common.cancel">Cancelar</string>
-  <string name="common.confirm.navigation.cancel">Cancelar</string>
-  <string name="common.confirm.navigation.ok">Continuar</string>
   <!-- Chat -->
   <!-- Chat -->
   <!-- Chat -->
@@ -291,16 +267,13 @@
   <!-- Settings, Onboarding -->
   <!-- Onboarding -->
   <!-- Onboarding -->
-  <string name="CXC-Ux-dZn.text">Cancelar</string>
   <!-- Onboarding -->
   <!-- Group chat -->
   <!-- Settings > Profile -->
   <!-- Onboarding -->
   <!-- Class = "UIButton"; normalTitle = "Verify Email"; ObjectID = "DdU-FZ-tTJ"; -->
   <!-- Chat -->
-  <string name="Delete">Borrar</string>
   <!-- Chat -->
-  <string name="delete_done_btn">Borrar</string>
   <!-- Chat -->
   <!-- Onboarding -->
   <!-- Onboarding -->
@@ -335,7 +308,6 @@
   <!-- Settings -->
   <!-- Contacts -->
   <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "gm2-To-BUg"; -->
-  <string name="gm2-To-BUg.normalTitle">Cancelar</string>
   <!-- Group chat -->
   <!-- Onboarding -->
   <!-- Onboarding -->
@@ -346,7 +318,6 @@
   <!-- Settings, Onboarding -->
   <!-- Settings -->
   <!-- Onboarding -->
-  <string name="HnE-gA-dSY.title">Cancelar</string>
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings -->
@@ -360,7 +331,6 @@
   <!-- Class = "UIButton"; normalTitle = "Invite"; ObjectID = "iqN-2l-5w5"; -->
   <!-- Chat -->
   <!-- Chat -->
-  <string name="J2i-su-LUh.text">Nuevo</string>
   <!-- Onboarding -->
   <!-- Onboarding -->
   <!-- Chat -->
@@ -372,7 +342,6 @@
   <!-- Contacts -->
   <!-- Chat, first screen when no chats exist -->
   <!-- Onboarding -->
-  <string name="kDC-ju-2QU.normalTitle">Continuar</string>
   <!-- Onboarding -->
   <!-- onboarding photo -->
   <!-- Settings > Profile -->
@@ -386,9 +355,7 @@
   <!-- Onboarding -->
   <!-- Onboarding -->
   <!-- Onboarding -->
-  <string name="login.email_not_match.confirmation.no">No</string>
   <!-- Onboarding -->
-  <string name="login.email_not_match.confirmation.yes">Sí</string>
   <!-- Onboarding -->
   <!-- Log in -->
   <!-- Onboarding -->
@@ -414,7 +381,6 @@
   <!-- Onboarding -->
   <!-- Chat -->
   <!-- Onboarding -->
-  <string name="LZo-Tz-W2b.normalTitle">Continuar</string>
   <!-- Voice -->
   <!-- Chat -->
   <!-- Onboarding -->
@@ -441,13 +407,10 @@
   <!-- Chat -->
   <!-- Chat -->
   <!-- Onboarding -->
-  <string name="MuI-ev-vhd.title">Cancelar</string>
-  <string name="mute.1_day">1 día</string>
   <!-- Group chat -->
   <!-- Group chat -->
   <!-- Group chat -->
   <!-- Onboarding -->
-  <string name="mute.cancel">Cancelar</string>
   <!-- Voice -->
   <!-- Chat -->
   <!-- Chat -->
@@ -471,7 +434,6 @@
   <!-- Chat -->
   <!-- Onboarding -->
   <!-- Chat -->
-  <string name="No">No</string>
   <!-- Chat -->
   <!-- Voice -->
   <!-- Voice -->
@@ -493,17 +455,11 @@
   <!-- Chat -->
   <!-- Settings -->
   <!-- Chat -->
-  <string name="OBY-b2-FdY.normalTitle">Borrar</string>
   <!-- Contacts -->
   <!-- Offers -->
   <!-- Onboarding -->
-  <string name="ofU-c2-3Bg.normalTitle">Cancelar</string>
   <!-- Onboarding -->
   <!-- Onboarding -->
-  <string name="oqO-0c-k65.normalTitle">Continuar</string>
-  <string name="OS_cant_access_contact_popup_CTA_cancel_text">Cancelar</string>
-  <string name="OS_cant_access_microphone_popup_CTA_cancel_text">Cancelar</string>
-  <string name="OS_cant_push_notifications_popup_CTA_cancel_text">Cancelar</string>
   <!-- Chat -->
   <!-- Onboarding -->
   <!-- Chat (pick photo) -->
@@ -539,9 +495,7 @@
   <!-- Contacts -->
   <!-- Settings > Profile -->
   <!-- Settings > Profile -->
-  <string name="profile.extra.gender.female">Mujer</string>
   <!-- Settings > Profile -->
-  <string name="profile.extra.gender.male">Hombre</string>
   <!-- Settings > Profile -->
   <!-- Settings -->
   <!-- Settings -->
@@ -556,14 +510,11 @@
   <!-- Settings -->
   <!-- Class = "UIButton"; normalTitle = "Go to My Veon"; ObjectID = "PV3-t6-5JC"; -->
   <!-- Onboarding -->
-  <string name="PVM-5p-8BN.normalTitle">Continuar</string>
   <!-- Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "q2k-v5-Ig6"; -->
-  <string name="q2k-v5-Ig6.normalTitle">Cancelar</string>
   <!-- Chat -->
   <!-- Chat -->
   <!-- Class = "UILabel"; text = "Offer collected"; ObjectID = "qdN-ig-wo1"; -->
   <!-- Class = "UITextField"; placeholder = "Email"; ObjectID = "qJB-jd-QhR"; -->
-  <string name="qJB-jd-QhR.placeholder">Correo electrónico</string>
   <!-- Settings -->
   <!-- Onboarding -->
   <!-- Settings -->
@@ -578,7 +529,6 @@
   <!-- Settings > Profile -->
   <!-- Onboarding -->
   <!-- Settings -->
-  <string name="S7d-pT-QHm.text">Restablecer la contraseña</string>
   <!-- Settings -->
   <!-- Chat -->
   <!-- Contacts -->
@@ -586,10 +536,8 @@
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings -->
-  <string name="settings.chat.confirmation_alert.cancel">Cancelar</string>
   <!-- Settings -->
   <!-- Settings -->
-  <string name="settings.chat.confirmation_alert.ok">Sí</string>
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings > Fonts -->
@@ -597,21 +545,17 @@
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings -->
-  <string name="settings.chat.font.size.normal">Normales</string>
   <!-- Settings -->
   <!-- Settings -->
   <!-- Voice -->
   <!-- Settings -->
   <!-- Chat -->
   <!-- Chat -->
-  <string name="settings.delete_account.cancel">Cancelar</string>
-  <string name="settings.delete_account.ok">Borrar</string>
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings -->
-  <string name="settings.logout.cancel">Cancelar</string>
   <!-- Settings -->
   <!-- Settings -->
   <!-- Settings -->
@@ -651,13 +595,11 @@
   <!-- Onboarding -->
   <!-- Chat -->
   <!-- Onboarding -->
-  <string name="Tt3-Wp-djg.normalTitle">Cancelar</string>
   <!-- Message for device access permissions -->
   <!-- Message for device access permissions -->
   <!-- Settings -->
   <!-- Class = "UIButton"; normalTitle = "Done"; ObjectID = "TzE-8y-0Kw"; -->
   <!-- Onboarding -->
-  <string name="U8j-Mn-H8d.normalTitle">Continuar</string>
   <!-- Onboarding, remember me check box -->
   <!-- Settings > Change MSISDN -->
   <!-- Settings > Profile -->
@@ -668,7 +610,6 @@
   <!-- Settings -->
   <!-- Onboarding -->
   <!-- Onboarding -->
-  <string name="Veon_phone_contact_microphone_permissions_popup_button_CTA">Continuar</string>
   <!-- Resent code: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
   <!-- Verification code screen: https://www.dropbox.com/s/f6959udocildtld/R1.1_Coach_Note_Email_Verify.png?dl=0 -->
   <!-- Group chat -->
@@ -685,7 +626,6 @@
   <!-- Onboarding -->
   <!-- Onboarding -->
   <!-- Onboarding -->
-  <string name="wka-KO-Oqi.normalTitle">Cancelar</string>
   <!-- Settings -->
   <!-- Settings -->
   <!-- Voice -->
@@ -696,10 +636,8 @@
   <!-- Onboarding -->
   <!-- Onboarding -->
   <!-- Onboarding -->
-  <string name="Xii-HR-oe2.text">Correo electrónico</string>
   <!-- Onboarding -->
   <!-- Chat -->
-  <string name="xmW-Cd-jL7.text">Nuevo</string>
   <!-- Voice -->
   <!-- Voice -->
   <!-- Onboarding -->
@@ -714,7 +652,6 @@
   <!-- Class = "UILabel"; text = "This app does not have access to your photos or videos."; ObjectID = "zcv-dU-hYl"; -->
   <!-- Log-in -->
   <!-- Onboarding -->
-  <string name="zJy-i2-NLW.normalTitle">Continuar</string>
   <!-- Chat -->
   <!-- Log in -->
   <!-- Contacts -->
